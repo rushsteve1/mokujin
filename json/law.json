@@ -607,28 +607,6 @@
         "Start up frame": "78"
     },
     {
-        "Block frame": "-41~-37",
-        "Command": "d/b+3+4 (Second hit miss)",
-        "Counter hit frame": "Launch",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "Launch",
-        "Hit level": "m (TJ)",
-        "Notes": "",
-        "Start up frame": "19~23 js15~"
-    },
-    {
-        "Block frame": "-27~-23",
-        "Command": "D/B+3+4",
-        "Counter hit frame": "Launch",
-        "Damage": "25",
-        "Gif": "https://gfycat.com/ImaginativeComplexIlladopsis.gif",
-        "Hit frame": "Launch",
-        "Hit level": "m (TJ)",
-        "Notes": "",
-        "Start up frame": "19~23d js15~"
-    },
-    {
         "Block frame": "-7",
         "Command": "b+1,b,f",
         "Counter hit frame": "+4",
@@ -2159,17 +2137,6 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
-    },
-    {
-        "Block frame": "-9~-2",
-        "Command": "d/b+3+4",
-        "Counter hit frame": "+2~+9s",
-        "Damage": "25",
-        "Gif": "https://gfycat.com/ImaginativeComplexIlladopsis.gif",
-        "Hit frame": "+2~+9s",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "51~52"
     },
     {
         "Block frame": "+1",

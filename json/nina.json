@@ -1415,7 +1415,7 @@
         "Start up frame": "14~15 (23~)"
     },
     {
-        "Block frame": "+10~+11",
+        "Block frame": "+10g~+11g",
         "Command": "ss 1,B",
         "Counter hit frame": "+23~+24g",
         "Damage": "15",

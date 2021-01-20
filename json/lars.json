@@ -1194,16 +1194,16 @@
         "Notes": "",
         "Start up frame": "12(27~)"
     },
-    {
+    {   "Alias": "DEN 2+3 (Opponent in air)",
         "Block frame": "-",
-        "Command": "DEN 2+3 (Opponent in air)",
+        "Command": "f,f,f+2+4",
         "Counter hit frame": "-",
         "Damage": "23,8",
-        "Gif": "",
+        "Gif": "https://gfycat.com/jubilantgargantuanleafwing.gif",
         "Hit frame": "Throw(KND)",
         "Hit level": "Air throw",
         "Notes": "",
-        "Start up frame": "12(27~)"
+        "Start up frame": "11(27~)"
     },
     {
         "Alias": [

@@ -473,7 +473,7 @@
         "Hit frame": "+6",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "-"
+        "Start up frame": "14"
     },
     {
         "Block frame": "+5",
@@ -495,7 +495,7 @@
         "Hit frame": "+7",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "-"
+        "Start up frame": "14"
     },
     {
         "Block frame": "-14s",
