@@ -3,23 +3,315 @@
         "Block frame": "-42~-41",
         "Command": "in rage 1+2",
         "Counter hit frame": "KND",
-        "Damage": "55",
+        "Damage": "55-82",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
-        "Notes": "Rage art",
+        "Notes": "Rage Art.",
         "Start up frame": "20~21 pc8~17 js8~17"
     },
     {
-        "Block frame": "+81",
+        "Block frame": "+22 (-6)",
         "Command": "in rage f+3+4*",
-        "Counter hit frame": "+81",
+        "Counter hit frame": "+22 (-6)",
         "Damage": "0",
         "Gif": "",
-        "Hit frame": "+81",
-        "Hit level": "! (GOL)",
-        "Notes": "Rage drive",
+        "Hit frame": "+22 (-6)",
+        "Hit level": "l!,(RD (2 steps)),(RD (3 steps))",
+        "Notes": "Rage Drive.",
         "Start up frame": "29"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "in rage f+3+4*,n",
+        "Counter hit frame": "-8",
+        "Damage": "0",
+        "Gif": "",
+        "Hit frame": "-8",
+        "Hit level": "l!",
+        "Notes": "Rage Drive. No attack.",
+        "Start up frame": "29"
+    },
+    {
+        "Alias": [
+            "RD 1",
+            "RD (two steps) 1"
+        ],
+        "Block frame": "+7",
+        "Command": "RD (2 steps) 1",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "26"
+    },
+    {
+        "Alias": [
+            "RD 2",
+            "RD (two steps) 2"
+        ],
+        "Block frame": "KND",
+        "Command": "RD (2 steps) 2",
+        "Counter hit frame": "KND",
+        "Damage": "45",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h!",
+        "Notes": "Rage Drive.",
+        "Start up frame": "24"
+    },
+    {
+        "Alias": [
+            "RD 1+2",
+            "RD (two steps) 1+2"
+        ],
+        "Block frame": "+4~+11",
+        "Command": "RD (2 steps) 1+2",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m(TJ),(FDFA)",
+        "Notes": "Rage Drive.",
+        "Start up frame": "49~56d (56~) js36~"
+    },
+    {
+        "Alias": [
+            "RD b+2",
+            "RD (two steps) b+2"
+        ],
+        "Block frame": "-13",
+        "Command": "RD (2 steps) b+2",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "20 (69~)"
+    },
+    {
+        "Alias": [
+            "RD b+2~f",
+            "RD (two steps) b+2~f",
+            "RD (2 steps) b+2,f",
+            "RD b+2,f",
+            "RD (two steps) b+2,f"
+        ],
+        "Block frame": "-25",
+        "Command": "RD (2 steps) b+2~f",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m,(GOL (2 steps))",
+        "Notes": "Rage Drive.",
+        "Start up frame": "20 (69~)"
+    },
+    {
+        "Alias": [
+            "RD b+2~f,n",
+            "RD (two steps) b+2~f,n",
+            "RD (2 steps) b+2,f,n",
+            "RD b+2,f,n",
+            "RD (two steps) b+2,f,n"
+        ],
+        "Block frame": "-53",
+        "Command": "RD (2 steps) b+2~f,n",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "20 (69~)"
+    },
+    {
+        "Alias": [
+            "RD b+2*",
+            "RD (two steps) b+2*"
+        ],
+        "Block frame": "+25g",
+        "Command": "RD (2 steps) b+2*",
+        "Counter hit frame": "KND",
+        "Damage": "40",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "41 (69~)"
+    },
+    {
+        "Alias": [
+            "RD b+2*~f",
+            "RD (two steps) b+2*~f",
+            "RD (2 steps) b+2*,f",
+            "RD b+2*,f",
+            "RD (two steps) b+2*,f"
+        ],
+        "Block frame": "+30g",
+        "Command": "RD (2 steps) b+2*~f",
+        "Counter hit frame": "KND",
+        "Damage": "40",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m,(GOL (2 steps))",
+        "Notes": "Rage Drive.",
+        "Start up frame": "41 (69~)"
+    },
+    {
+        "Alias": [
+            "RD b+2*~f,n",
+            "RD (two steps) b+2*~f,n",
+            "RD (2 steps) b+2*,f,n",
+            "RD b+2*,f,n",
+            "RD (two steps) b+2*,f,n"
+        ],
+        "Block frame": "-8",
+        "Command": "RD (2 steps) b+2*~f,n",
+        "Counter hit frame": "KND",
+        "Damage": "40",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "41 (69~)"
+    },
+    {
+        "Alias": [
+            "RD (three steps) 1"
+        ],
+        "Block frame": "+7",
+        "Command": "RD (3 steps) 1",
+        "Counter hit frame": "KND",
+        "Damage": "45",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "26"
+    },
+    {
+        "Alias": [
+            "RD (three steps) 2"
+        ],
+        "Block frame": "KND",
+        "Command": "RD (3 steps) 2",
+        "Counter hit frame": "KND",
+        "Damage": "60",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h!",
+        "Notes": "Rage Drive.",
+        "Start up frame": "24"
+    },
+    {
+        "Alias": [
+            "RD (three steps) 1+2"
+        ],
+        "Block frame": "+4~+11",
+        "Command": "RD (3 steps) 1+2",
+        "Counter hit frame": "KND",
+        "Damage": "60",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m(TJ),(FDFA)",
+        "Notes": "Rage Drive.",
+        "Start up frame": "49~56d (56~) js36~"
+    },
+    {
+        "Alias": [
+            "RD (three steps) b+2"
+        ],
+        "Block frame": "-13",
+        "Command": "RD (3 steps) b+2",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "20 (97~)"
+    },
+    {
+        "Alias": [
+            "RD (three steps) b+2~f",
+            "RD (3 steps) b+2,f",
+            "RD (three steps) b+2,f"
+        ],
+        "Block frame": "-25",
+        "Command": "RD (3 steps) b+2~f",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m,(GOL (2 steps))",
+        "Notes": "Rage Drive.",
+        "Start up frame": "20 (97~)"
+    },
+    {
+        "Alias": [
+            "RD (three steps) b+2~f,n",
+            "RD (3 steps) b+2,f,n",
+            "RD (three steps) b+2,f,n"
+        ],
+        "Block frame": "-53",
+        "Command": "RD (3 steps) b+2~f,n",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "20 (97~)"
+    },
+    {
+        "Alias": [
+            "RD (three steps) b+2*"
+        ],
+        "Block frame": "+25g",
+        "Command": "RD (3 steps) b+2*",
+        "Counter hit frame": "KND",
+        "Damage": "50",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "41 (97~)"
+    },
+    {
+        "Alias": [
+            "RD (three steps) b+2*~f",
+            "RD (3 steps) b+2*,f",
+            "RD (three steps) b+2*,f"
+        ],
+        "Block frame": "+30g",
+        "Command": "RD (3 steps) b+2*~f",
+        "Counter hit frame": "KND",
+        "Damage": "50",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m,(GOL (2 steps))",
+        "Notes": "Rage Drive.",
+        "Start up frame": "41 (97~)"
+    },
+    {
+        "Alias": [
+            "RD (three steps) b+2*~f,n",
+            "RD (3 steps) b+2*,f,n",
+            "RD (three steps) b+2*,f,n"
+        ],
+        "Block frame": "-8",
+        "Command": "RD (3 steps) b+2*~f,n",
+        "Counter hit frame": "KND",
+        "Damage": "50",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Drive.",
+        "Start up frame": "41 (97~)"
     },
     {
         "Block frame": "-17",
