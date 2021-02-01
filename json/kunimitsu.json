@@ -1804,7 +1804,7 @@
     {   "Alias": ["SET 1+4", "f+1+4"],
         "Block frame": "KND",
         "Command": "f+1+4 or SET 1+4",
-        "Counter hit frame": "1",
+        "Counter hit frame": "0",
         "Damage": "38",
         "Gif": "https://gfycat.com/unawarerecentamethystsunbird.gif",
         "Hit frame": "KND",

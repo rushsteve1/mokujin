@@ -30,6 +30,7 @@ class MyTestCase(unittest.TestCase):
 
         self.assertEqual("b+1~2", tkfinder.get_move(gan, "b1~2")["Command"])
 
+
     def test_get_close_moves(self):
         close_moves = tkfinder.get_similar_moves("d/f+1,2", "hwoarang")
         self.assertIn("d/f+1,3", close_moves)
@@ -56,8 +57,13 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(None, result)
 
     def test_get_move_by_type(self):
-        self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage Drive"))
+        self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage drive"))
         self.assertIn("d/f+2", tkfinder.get_by_move_type(kazuya, "Homing"))
+        self.assertIn("2,2", tkfinder.get_by_move_type(kazuya, "Screw"))
+        self.assertIn("f+2", tkfinder.get_by_move_type(kazuya, "Power crush"))
+        self.assertIn("f,F+1+2", tkfinder.get_by_move_type(kazuya, "Throw"))
+        self.assertIn("f+1+2", tkfinder.get_by_move_type(kazuya, "Wall Bounce"))
+        self.assertIn("in rage d/f+1+2", tkfinder.get_by_move_type(kazuya, "Rage art"))
 
     def test_get_recovery(self):
         paul = {

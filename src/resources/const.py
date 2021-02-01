@@ -55,7 +55,7 @@ MOVE_TYPES = {
     "Rage art": ["ra", "rage_art", "rageart"],
     "Rage drive": ["rd", "ragedrive", "rage_drive"],
     "Wall bounce": ["wb", "wall_bounce", "wallbounce"],
-    "Tail spin": ["ts", "tail_spin", "tailspin", "screw", "s!", "s", "screws"],
+    "Screw": ["ts", "tail_spin", "tailspin", "screw", "s!", "s", "screws"],
     "Homing": ["homing", "homari"],
     "Power crush": ["armor", "armori", "pc", "power", "power_crush", "powercrush"],
     "Throw": ["throw", "grab", "throws", "grabs"]

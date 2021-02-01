@@ -152,7 +152,7 @@
             "RD (two steps) b+2*,f"
         ],
         "Block frame": "+30g",
-        "Command": "RD (2 steps) b+2*~f",
+        "Command": "RD (2 steps) b+2\\*~f",
         "Counter hit frame": "KND",
         "Damage": "40",
         "Gif": "",
@@ -170,7 +170,7 @@
             "RD (two steps) b+2*,f,n"
         ],
         "Block frame": "-8",
-        "Command": "RD (2 steps) b+2*~f,n",
+        "Command": "RD (2 steps) b+2\\*~f,n",
         "Counter hit frame": "KND",
         "Damage": "40",
         "Gif": "",
@@ -288,7 +288,7 @@
             "RD (three steps) b+2*,f"
         ],
         "Block frame": "+30g",
-        "Command": "RD (3 steps) b+2*~f",
+        "Command": "RD (3 steps) b+2\\*~f",
         "Counter hit frame": "KND",
         "Damage": "50",
         "Gif": "",
@@ -304,7 +304,7 @@
             "RD (three steps) b+2*,f,n"
         ],
         "Block frame": "-8",
-        "Command": "RD (3 steps) b+2*~f,n",
+        "Command": "RD (3 steps) b+2\\*~f,n",
         "Counter hit frame": "KND",
         "Damage": "50",
         "Gif": "",
