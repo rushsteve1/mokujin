@@ -19,7 +19,7 @@ class MyTestCase(unittest.TestCase):
         result = tkfinder.get_generic_move("d+4")
         self.assertEqual("-13", result["Block frame"])
 
-    def test_ganryu(self):
+    def test_ganryu_gigas(self):
         gan = {
             "local_json": "ganryu.json",
             "name": "ganryu",
@@ -29,6 +29,15 @@ class MyTestCase(unittest.TestCase):
         }
 
         self.assertEqual("b+1~2", tkfinder.get_move(gan, "b1~2")["Command"])
+        gigas =   {
+            "local_json": "gigas.json",
+            "name": "gigas",
+            "online_webpage": "http://geppopotamus.info/game/tekken7fr/gigas/data_en.htm",
+            "portrait": "https://i.imgur.com/jTGmJyf.jpg",
+            "proper_name": "Gigas"
+        }
+
+        self.assertEqual("RD (3 steps) b+2*~f,n", tkfinder.get_move(gigas, "RD (3 steps) b+2*~f,n")["Command"])
 
 
     def test_get_close_moves(self):
