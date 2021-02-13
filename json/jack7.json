@@ -221,7 +221,6 @@
     },
     {
         "Alias": [
-            "f+3+4",
             "FC d/f+3+4"
         ],
         "Block frame": "-9",
@@ -232,7 +231,7 @@
         "Hit frame": "KND",
         "Hit level": "m (TC)",
         "Notes": "",
-        "Start up frame": "21~26 cs6or1~"
+        "Start up frame": "21~26"
     },
     {
         "Block frame": "-10~-9",

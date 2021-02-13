@@ -627,7 +627,7 @@
         "Block frame": "-1~0",
         "Command": "WS 1,1,f",
         "Counter hit frame": "+10~+11",
-        "Damage": "13,8",
+        "Damage": "15,10",
         "Gif": "https://gfycat.com/shyuniformguineapig.gif",
         "Hit frame": "+10~+11",
         "Hit level": "m,h,(HAR)",
