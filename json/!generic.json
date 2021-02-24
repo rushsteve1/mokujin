@@ -285,4 +285,122 @@
         "Notes": "Generic",
         "Start up frame": "10s cs1~"
     }
+    {
+        "Block frame": "-12",
+        "Command": "FUFT 3",
+        "Counter hit frame": "KND",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "l",
+        "Notes": "Generic.",
+        "Start up frame": "22"
+    },
+    {
+        "Block frame": "-13",
+        "Command": "FUFA 3",
+        "Counter hit frame": "KND",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "+4",
+        "Hit level": "l",
+        "Notes": "Generic.",
+        "Start up frame": "19 (19~21)? Needs checking"
+    },
+    {
+        "Block frame": "-17",
+        "Command": "FDFT 3",
+        "Counter hit frame": "KND",
+        "Damage": "7",
+        "Gif": "",
+        "Hit frame": "-3 (KND)",
+        "Hit level": "l",
+        "Notes": "Generic.\nHas Clean Hit property.",
+        "Start up frame": "19"
+    },
+    {
+        "Block frame": "-20",
+        "Command": "FDFA 3",
+        "Counter hit frame": "KND",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "+1s",
+        "Hit level": "l",
+        "Notes": "Generic.",
+        "Start up frame": "26"
+    },
+    {
+        "Block frame": "-12",
+        "Command": "FUFT 4",
+        "Counter hit frame": "KND",
+        "Damage": "18",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "m",
+        "Notes": "Generic.",
+        "Start up frame": "22"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "FUFA 4",
+        "Counter hit frame": "KND",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Generic.",
+        "Start up frame": "18"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "FDFT 4",
+        "Counter hit frame": "KND",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "-5 (KND)",
+        "Hit level": "m",
+        "Notes": "Generic.\nHas Clean Hit property.",
+        "Start up frame": "19"
+    },
+    {
+        "Block frame": "-19",
+        "Command": "FDFA 4",
+        "Counter hit frame": " KND",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "-10 (KND)",
+        "Hit level": "m",
+        "Notes": "Generic.\nHas Clean Hit property.",
+        "Start up frame": "26"
+    },
+    {
+        "Alias": [
+            "Ukemi",
+            "Quick Recovery",
+            "FUFT f",
+        ],
+        "Block frame": "-1",
+        "Command": "on fall FUFT f",
+        "Counter hit frame": "+2",
+        "Damage": "?",
+        "Gif": "",
+        "Hit frame": "+2",
+        "Hit level": "?",
+        "Notes": "Generic.",
+        "Start up frame": "?"
+    },
+    {
+        "Alias": [
+            "Cross Chop"
+        ],
+        "Block frame": "+4",
+        "Command": "FUFT f+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "15",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Generic.",
+        "Start up frame": "19 (19~24)? Needs checking"
+    },
 ]
