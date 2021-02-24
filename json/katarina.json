@@ -1302,5 +1302,27 @@
         "Hit level": "l",
         "Notes": "-",
         "Start up frame": "23~24"
+    },
+    {
+        "Block frame": "-13",
+        "Command": "HAR d/f+2",
+        "Counter hit frame": "-2",
+        "Damage": "13",
+        "Gif": "",
+        "Hit frame": "-2",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "16"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "HAR d/f+2,3",
+        "Counter hit frame": "+14g",
+        "Damage": "13,20",
+        "Gif": "https://gfycat.com/bitesizedfrankgnu.gif",
+        "Hit frame": "+14g",
+        "Hit level": "m,h",
+        "Notes": "-",
+        "Start up frame": "16"
     }
 ]
