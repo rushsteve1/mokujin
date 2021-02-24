@@ -19,7 +19,7 @@ class MyTestCase(unittest.TestCase):
         result = tkfinder.get_generic_move("d+4")
         self.assertEqual("-13", result["Block frame"])
 
-    def test_ganryu(self):
+    def test_ganryu_gigas(self):
         gan = {
             "local_json": "ganryu.json",
             "name": "ganryu",
@@ -29,6 +29,16 @@ class MyTestCase(unittest.TestCase):
         }
 
         self.assertEqual("b+1~2", tkfinder.get_move(gan, "b1~2")["Command"])
+        gigas =   {
+            "local_json": "gigas.json",
+            "name": "gigas",
+            "online_webpage": "http://geppopotamus.info/game/tekken7fr/gigas/data_en.htm",
+            "portrait": "https://i.imgur.com/jTGmJyf.jpg",
+            "proper_name": "Gigas"
+        }
+
+        self.assertEqual("RD (3 steps) b+2*~f,n", tkfinder.get_move(gigas, "RD (3 steps) b+2*~f,n")["Command"])
+
 
     def test_get_close_moves(self):
         close_moves = tkfinder.get_similar_moves("d/f+1,2", "hwoarang")
@@ -56,8 +66,13 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(None, result)
 
     def test_get_move_by_type(self):
-        self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage Drive"))
+        self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage drive"))
         self.assertIn("d/f+2", tkfinder.get_by_move_type(kazuya, "Homing"))
+        self.assertIn("2,2", tkfinder.get_by_move_type(kazuya, "Screw"))
+        self.assertIn("f+2", tkfinder.get_by_move_type(kazuya, "Power crush"))
+        self.assertIn("f,F+1+2", tkfinder.get_by_move_type(kazuya, "Throw"))
+        self.assertIn("f+1+2", tkfinder.get_by_move_type(kazuya, "Wall Bounce"))
+        self.assertIn("in rage d/f+1+2", tkfinder.get_by_move_type(kazuya, "Rage art"))
 
     def test_get_recovery(self):
         paul = {

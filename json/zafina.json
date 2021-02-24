@@ -1153,7 +1153,7 @@
         "Start up frame": "18"
     },
     {
-        "Block frame": "+4",
+        "Block frame": "+5",
         "Command": "WS 3",
         "Counter hit frame": "Launch",
         "Damage": "24",

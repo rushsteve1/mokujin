@@ -119,12 +119,13 @@ def get_move(character: dict, move_command: str) -> dict:
 
     movelist = get_character_movelist(character)
 
-    move = list(filter(lambda x: (move_simplifier(x['Command'])
+    move = list(filter(lambda x: (move_simplifier(x['Command'].replace("\\",""))
                                   == move_simplifier(move_command)), movelist))
     if not move:
         move = list(filter(lambda x: (is_command_in_alias(move_command, x)), movelist))
 
     if move:
+        move[0]['Command'] = move[0]['Command'].replace("\\","")
         return move[0]
     else:
         return None
