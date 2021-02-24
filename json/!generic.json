@@ -377,7 +377,7 @@
         "Alias": [
             "Ukemi",
             "Quick Recovery",
-            "FUFT f",
+            "FUFT f"
         ],
         "Block frame": "-1",
         "Command": "on fall FUFT f",
@@ -402,5 +402,5 @@
         "Hit level": "m",
         "Notes": "Generic.",
         "Start up frame": "19 (19~24)? Needs checking"
-    },
+    }
 ]
