@@ -22,6 +22,35 @@
         "Start up frame": "21"
     },
     {
+        "Alias": [
+            "Toe Kick"
+        ],
+        "Block frame": "-20",
+        "Command": "FUFT d+3",
+        "Counter hit frame": "-3s",
+        "Damage": "6",
+        "Gif": "",
+        "Hit frame": "-3s",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "13"
+    },
+    {
+        "Alias": [
+            "Spring Kick",
+            "Special Cross Chop"
+        ],
+        "Block frame": "+10~+20a? Needs checking",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Float with i10 move.",
+        "Start up frame": "48~58"
+    },
+    {
         "Block frame": "-10",
         "Command": "In rage f+2+3 (far)",
         "Counter hit frame": "+9s",

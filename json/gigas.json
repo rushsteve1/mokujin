@@ -269,6 +269,21 @@
     },
     {
         "Alias": [
+            "Spring Kick",
+            "Special Cross Chop"
+        ],
+        "Block frame": "+10~+20a? Needs checking",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Float with i10 move.",
+        "Start up frame": "48~58"
+    },
+    {
+        "Alias": [
             "RD (three steps) b+2*"
         ],
         "Block frame": "+25g",

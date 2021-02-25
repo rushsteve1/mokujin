@@ -11,6 +11,20 @@
         "Start up frame": "20 pc8~17"
     },
     {
+        "Alias": [
+            "Spring Kick"
+        ],
+        "Block frame": "-27~-17",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "25",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "16~28b? Needs checking"
+    },
+    {
         "Block frame": "+8~+9s",
         "Command": "in rage d/b+1+2",
         "Counter hit frame": "KND",

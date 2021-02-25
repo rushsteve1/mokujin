@@ -11,6 +11,20 @@
         "Start up frame": "10s cs4~"
     },
     {
+        "Alias": [
+            "Toe Kick"
+        ],
+        "Block frame": "-18",
+        "Command": "FUFT d+3",
+        "Counter hit frame": "?",
+        "Damage": "?",
+        "Gif": "",
+        "Hit frame": "?",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "?"
+    },
+    {
         "Block frame": "-4",
         "Command": "d+2",
         "Counter hit frame": "+7",
@@ -20,6 +34,20 @@
         "Hit level": "Sm(TC)",
         "Notes": "Generic",
         "Start up frame": "11s cs4~"
+    },
+    {
+        "Alias": [
+            "Spring Kick"
+        ],
+        "Block frame": "-20~-10",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "19~29b? Needs checking"
     },
     {
         "Block frame": "-17",
