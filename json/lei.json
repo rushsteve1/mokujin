@@ -4019,7 +4019,7 @@
         "Start up frame": "17"
     },
     {
-        "Block frame": "+3",
+        "Block frame": "-2",
         "Command": "DGN 2,F",
         "Counter hit frame": "JG",
         "Damage": "18",

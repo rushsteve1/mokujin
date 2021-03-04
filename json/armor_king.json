@@ -1302,10 +1302,10 @@
     {
         "Block frame": "-",
         "Command": "1+2+3+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "+12",
         "Damage": "30",
         "Gif": null,
-        "Hit frame": "-",
+        "Hit frame": "+12",
         "Hit level": "h! (charge)",
         "Notes": "",
         "Recovery": "-14",

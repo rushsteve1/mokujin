@@ -192,7 +192,7 @@
         "Start up frame": "33~34 js7~"
     },
     {
-        "Block frame": "-14",
+        "Block frame": "-13",
         "Command": "f+2,1",
         "Counter hit frame": "CS",
         "Damage": "12,20",
@@ -991,7 +991,7 @@
     },
     {
         "Block frame": "-14~-13",
-        "Command": "WS 3,3,B (Cancel)",
+        "Command": "WS 3,3,B",
         "Counter hit frame": "-1~0",
         "Damage": "18",
         "Gif": "",
@@ -1579,7 +1579,7 @@
         "Start up frame": "18~20"
     },
     {
-        "Block frame": "-8s",
+        "Block frame": "-8s~-3s",
         "Command": "DES b+2,1",
         "Counter hit frame": "KND",
         "Damage": "17,8,5*4",
