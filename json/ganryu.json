@@ -1179,17 +1179,6 @@
     },
     {
         "Block frame": "-13",
-        "Command": "WS 1,2",
-        "Counter hit frame": "0",
-        "Damage": "31",
-        "Gif": "https://gfycat.com/boldwhoppinghornedtoad.gif",
-        "Hit frame": "0",
-        "Hit level": "m,l",
-        "Notes": "",
-        "Start up frame": "13~14"
-    },
-    {
-        "Block frame": "-13",
         "Command": "WS 2",
         "Counter hit frame": "Launch",
         "Damage": "17",
@@ -1595,7 +1584,7 @@
         "Damage": "12,23",
         "Gif": "https://gfycat.com/unsteadyeageribadanmalimbe.gif",
         "Hit frame": "+6s",
-        "Hit level": "m,m?",
+        "Hit level": "m,m",
         "Notes": "-",
         "Start up frame": "12"
     },

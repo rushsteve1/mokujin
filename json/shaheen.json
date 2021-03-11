@@ -419,7 +419,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "Wall bounce",
-        "Start up frame": "20"
+        "Start up frame": "20 (23~)"
     },
     {
         "Block frame": "-17",
@@ -599,17 +599,6 @@
         "Hit level": "Sm (TC)",
         "Notes": "",
         "Start up frame": "10s cs4~"
-    },
-    {
-        "Block frame": "+1",
-        "Command": "b+2",
-        "Counter hit frame": "+7",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10"
     },
     {
         "Alias": [
@@ -1159,12 +1148,12 @@
     {
         "Block frame": "-9",
         "Command": "b+2",
-        "Counter hit frame": "throw",
-        "Damage": "17 (CH: 52)",
+        "Counter hit frame": "Throw",
+        "Damage": "17 (52)",
         "Gif": "https://gfycat.com/fataloccasionaldamselfly.gif",
         "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "15"
+        "Start up frame": "15~16"
     }
 ]

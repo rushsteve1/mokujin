@@ -17,7 +17,7 @@
         "Damage": "10,30",
         "Gif": "",
         "Hit frame": "throw",
-        "Hit level": "m",
+        "Hit level": "sm",
         "Notes": "rage drive",
         "Start up frame": "18"
     },
@@ -167,7 +167,7 @@
         "Damage": "9,9,5,(20)",
         "Gif": "https://gfycat.com/SpicyCorruptGermanshorthairedpointer.gif",
         "Hit frame": "throw",
-        "Hit level": "m,m,m(throw)",
+        "Hit level": "m,m,sm(throw)",
         "Notes": "",
         "Start up frame": "15 js"
     },
@@ -233,7 +233,7 @@
         "Damage": "8(25)",
         "Gif": "https://gfycat.com/MarvelousYawningIndochinesetiger.gif",
         "Hit frame": "throw",
-        "Hit level": "m",
+        "Hit level": "sm",
         "Notes": "",
         "Start up frame": "20 js"
     },
@@ -1016,7 +1016,7 @@
         "Damage": "12,5(20)",
         "Gif": "https://gfycat.com/BowedSilverBluewhale.gif",
         "Hit frame": "throw",
-        "Hit level": "m,m",
+        "Hit level": "sm,sm",
         "Notes": "",
         "Start up frame": "14"
     },

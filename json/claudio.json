@@ -1063,7 +1063,7 @@
     {
         "Block frame": "-6",
         "Command": "3",
-        "Counter hit frame": "JG",
+        "Counter hit frame": "-1",
         "Damage": "21",
         "Gif": null,
         "Hit frame": "-1",
@@ -1075,8 +1075,8 @@
     {
         "Block frame": "-8",
         "Command": "4",
-        "Counter hit frame": "KND",
-        "Damage": "-",
+        "Counter hit frame": "Launch",
+        "Damage": "17",
         "Gif": null,
         "Hit frame": "+3",
         "Hit level": "h",
