@@ -1569,7 +1569,7 @@
     {
         "Block frame": "-2",
         "Command": "d/b,f+2+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "2",
         "Damage": "58",
         "Gif": "https://gfycat.com/PessimisticDistantAvians.gif",
         "Hit frame": "KND",

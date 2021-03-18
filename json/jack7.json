@@ -208,6 +208,7 @@
         "Notes": "",
         "Start up frame": "15~16 (66~)"
     },
+
     {
         "Alias": [
             "Toe Kick"
@@ -826,13 +827,13 @@
     },
     {
         "Block frame": "+21g",
-        "Command": "HCF,1 (one spin)",
+        "Command": "HCF+1",
         "Counter hit frame": "KND",
         "Damage": "30",
         "Gif": "https://gfycat.com/acclaimedsimpleboaconstrictor.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "check hcf+1 (two spins)",
         "Start up frame": "17(43~)"
     },
     {

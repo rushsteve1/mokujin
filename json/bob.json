@@ -1366,7 +1366,7 @@
         "Notes": "",
         "Start up frame": "18~19s (21~)"
     },
-    {
+    {   "Alias": ["hellsweep", "hs"],
         "Block frame": "-17",
         "Command": "f,n,d,d/f+4,1+2",
         "Counter hit frame": "KND",

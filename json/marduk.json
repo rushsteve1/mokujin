@@ -532,7 +532,7 @@
         "Hit frame": "+3s",
         "Hit level": "m(TC)",
         "Notes": "",
-        "Start up frame": "17"
+        "Start up frame": "17 cs6~"
     },
     {
         "Block frame": "0s",
@@ -587,7 +587,7 @@
         "Hit frame": "-5",
         "Hit level": "l(TC)",
         "Notes": "",
-        "Start up frame": "14"
+        "Start up frame": "14 cs6~"
     },
     {
         "Block frame": "-12",
