@@ -43,7 +43,7 @@
         "Block frame": "+7",
         "Command": "in rage d/f+2+3",
         "Counter hit frame": "JG",
-        "Damage": "14,21",
+        "Damage": "5,21",
         "Gif": "",
         "Hit frame": "JG",
         "Hit level": "m,m",
@@ -720,7 +720,7 @@
         "Start up frame": "21~22"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-10",
         "Command": "f+2,1~2",
         "Counter hit frame": "KND",
         "Damage": "11,20",
@@ -940,7 +940,7 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-10",
         "Command": "d/f+1,2~2",
         "Counter hit frame": "KND",
         "Damage": "12,20",
@@ -1167,7 +1167,7 @@
     {
         "Block frame": "-13",
         "Command": "d+1",
-        "Counter hit frame": "0",
+        "Counter hit frame": "-2",
         "Damage": "12",
         "Gif": "https://gfycat.com/AltruisticFrighteningBelugawhale.gif",
         "Hit frame": "0",
@@ -3319,7 +3319,7 @@
         "Block frame": "-9",
         "Command": "FLK b+2",
         "Counter hit frame": "KND",
-        "Damage": "27",
+        "Damage": "21",
         "Gif": "https://gfycat.com/ScholarlyJubilantBrownbutterfly.gif",
         "Hit frame": "KND",
         "Hit level": "h",
