@@ -31,6 +31,7 @@ CHARACTER_ALIAS = {
     'lei': [],
     'leo': [],
     'lili': ['lil'],
+    'lidia': ['lid', 'lidl'],
     'lucky_chloe': ['lucky', 'luckychloe', 'lck', 'lc', 'chloe'],
     'marduk': ['mdk', 'mar', 'duk'],
     'master_raven': ['masterraven', 'mraven', 'maven', 'mrv', 'raven'],

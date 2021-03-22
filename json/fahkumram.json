@@ -310,7 +310,7 @@
     {
         "Block frame": "-12",
         "Command": "3,4",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "KND",
         "Damage": "11,18",
         "Gif": "https://gfycat.com/tartcelebratedbarasingha.gif",
         "Hit frame": "+1",
