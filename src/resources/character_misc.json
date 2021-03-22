@@ -245,6 +245,13 @@
     "proper_name": "Leroy"
   },
   {
+    "local_json": "lidia.json",
+    "name": "lidia",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lidia/data_en.htm",
+    "portrait": "https://i.imgur.com/50rec5z.png",
+    "proper_name": "Lidia"
+  },
+  {
     "local_json": "lili.json",
     "name": "lili",
     "online_webpage": "http://geppopotamus.info/game/tekken7fr/lili/data_en.htm",
