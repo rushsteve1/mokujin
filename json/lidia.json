@@ -11,14 +11,14 @@
         "Start up frame": "20"
     },
     {
-        "Block frame": "+27G,CFO ",
+        "Block frame": "+27G",
         "Command": "in rage f+f+2+3",
         "Counter hit frame": "Launch",
         "Damage": "16,3,3,3,5",
         "Gif": "-",
         "Hit frame": "Launch",
         "Hit level": "m(mhmh)",
-        "Notes": "Rage Drive",
+        "Notes": "Rage Drive, CFO",
         "Start up frame": "13 (14~)"
     },
     {
@@ -73,7 +73,7 @@
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F014.mp4?alt=media",
         "Hit frame": "+8",
         "Hit level": "h,h,m",
-        "Notes": "-",
+        "Notes": "CFT",
         "Start up frame": "10"
     },
     {
@@ -423,9 +423,9 @@
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F043.mp4?alt=media",
-        "Hit frame": "+12,CFT ",
+        "Hit frame": "+12",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "CFT",
         "Start up frame": "15"
     },
     {
@@ -909,7 +909,7 @@
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F073.mp4?alt=media",
         "Hit frame": "+15g",
         "Hit level": "m",
-        "Notes": "CFO  (-7)",
+        "Notes": "CFO",
         "Start up frame": "13(14~)"
     },
     {
