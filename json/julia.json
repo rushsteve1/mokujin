@@ -1003,8 +1003,8 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-13",
-        "Command": "f,F+2",
+        "Block frame": "-13s",
+        "Command": "f,f+2",
         "Counter hit frame": "KND",
         "Damage": "23",
         "Gif": "https://gfycat.com/QuerulousZestyBrownbutterfly.gif",

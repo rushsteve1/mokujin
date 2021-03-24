@@ -12,13 +12,13 @@
     },
     {
         "Block frame": "+27G",
-        "Command": "in rage f+f+2+3",
+        "Command": "in rage f,f+2+3",
         "Counter hit frame": "Launch",
         "Damage": "16,3,3,3,5",
         "Gif": "-",
         "Hit frame": "Launch",
-        "Hit level": "m(mhmh)",
-        "Notes": "Rage Drive, CFO",
+        "Hit level": "m (m,h,m,h) CFO",
+        "Notes": "Rage Drive",
         "Start up frame": "13 (14~)"
     },
     {
@@ -72,8 +72,8 @@
         "Damage": "7,8,10",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F014.mp4?alt=media",
         "Hit frame": "+8",
-        "Hit level": "h,h,m",
-        "Notes": "CFT",
+        "Hit level": "h,h,m (CFT)",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -424,8 +424,8 @@
         "Damage": "17",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F043.mp4?alt=media",
         "Hit frame": "+12",
-        "Hit level": "m",
-        "Notes": "CFT",
+        "Hit level": "m (CFT)",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -903,13 +903,13 @@
     },
     {
         "Block frame": "-2",
-        "Command": "f+f+2",
+        "Command": "f,f+2",
         "Counter hit frame": "+15g",
         "Damage": "20",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F073.mp4?alt=media",
         "Hit frame": "+15g",
-        "Hit level": "m",
-        "Notes": "CFO",
+        "Hit level": "m (CFO)",
+        "Notes": "",
         "Start up frame": "13(14~)"
     },
     {
@@ -1227,8 +1227,8 @@
         "Damage": "-",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F004.mp4?alt=media",
         "Hit frame": "-",
-        "Hit level": "?",
-        "Notes": "CFO",
+        "Hit level": "CFO",
+        "Notes": "",
         "Start up frame": "-"
     },
     {
@@ -1293,8 +1293,8 @@
         "Damage": "-",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F010.mp4?alt=media",
         "Hit frame": "-",
-        "Hit level": "-",
-        "Notes": "HAE",
+        "Hit level": "HAE",
+        "Notes": "",
         "Start up frame": "20"
     },
     {
@@ -1304,8 +1304,8 @@
         "Damage": "-",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F015.mp4?alt=media",
         "Hit frame": "-",
-        "Hit level": "?",
-        "Notes": "CFT",
+        "Hit level": "CFT",
+        "Notes": "",
         "Start up frame": "-"
     },
     {
@@ -1414,8 +1414,8 @@
         "Damage": "-",
         "Gif": "-",
         "Hit frame": "-",
-        "Hit level": "-",
-        "Notes": "TAW",
+        "Hit level": "TAW",
+        "Notes": "",
         "Start up frame": "20?"
     },
     {
