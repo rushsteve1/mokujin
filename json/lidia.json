@@ -396,12 +396,12 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-3",
         "Command": "d/f+1,2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+8",
         "Damage": "13,10",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F041.mp4?alt=media",
-        "Hit frame": "-1",
+        "Hit frame": "+7",
         "Hit level": "m,h",
         "Notes": "-",
         "Start up frame": "13"
