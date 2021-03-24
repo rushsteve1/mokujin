@@ -1,16 +1,31 @@
 import csv,os
 import json
-input_file = "Kuni.csv"
-character_name = "kunimitsu"
+input_file = "Lidia.csv"
+character_name = "lidia"
 json_folder = os.path.abspath(os.path.join(os.path.dirname(__file__), "..","..","json"))
 output_file = f'{json_folder}/{character_name}.json'
 
 movelist = []
 
+def normalize_value(value: str):
+
+
+    if value.isdigit() and int(value) > 0:
+        return "+" + value
+    if "KND" in value:
+        return "KND"
+    elif "launch" in value.lower():
+        return "Launch"
+    return value
+
+
 with open(input_file, encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=';')
-
+    firstline = True
     for row in csv_reader:
+        if firstline:
+            firstline = False
+            continue
         new_move = {}
         new_move['Command'] = row[1]
         '''
@@ -25,15 +40,15 @@ with open(input_file, encoding='utf-8') as csv_file:
             new_move['Alias'] = aliases'''
 
         new_move['Hit level'] = row[2].lower()
-        new_move['Damage'] = row[3]
-        new_move['Start up frame'] = row[4]
-        new_move['Block frame'] = row[5]
-        new_move['Hit frame'] = row[6]
-        new_move['Counter hit frame'] = row[7]
+        new_move['Damage'] = row[7].split("/")[0]
+        new_move['Start up frame'] = row[3].split(",")[0]
+        new_move['Block frame'] = normalize_value(row[4])
+        new_move['Hit frame'] = normalize_value(row[5])
+        new_move['Counter hit frame'] = normalize_value(row[6])
         new_move['Notes'] = row[8]
         gif_data = ""
         if row[0]:
-            gif_data = row[0] + ".gif"
+            gif_data = 'https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2F{}%2F{}.mp4?alt=media'.format(character_name,row[0])
 
         new_move['Gif'] = gif_data
         for entry in new_move:
