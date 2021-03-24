@@ -77,7 +77,7 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-6",
         "Command": "1,2,3",
         "Counter hit frame": "KND",
         "Damage": "7,8,27",
@@ -99,7 +99,7 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "+6",
         "Command": "1,2,4,4",
         "Counter hit frame": "KND",
         "Damage": "7,8,15,20",
@@ -209,7 +209,7 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-10",
         "Command": "4,3",
         "Counter hit frame": "+8~+9kg",
         "Damage": "17,23",
@@ -308,7 +308,7 @@
         "Start up frame": "17"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-10",
         "Command": "f+4,3",
         "Counter hit frame": "0~+1",
         "Damage": "17,15",
@@ -319,7 +319,7 @@
         "Start up frame": "17"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-12",
         "Command": "f+4,3,1",
         "Counter hit frame": "KND",
         "Damage": "17,15,28",
@@ -330,7 +330,7 @@
         "Start up frame": "17"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-2",
         "Command": "f+4,3,4",
         "Counter hit frame": "Launch",
         "Damage": "17,15,23",
@@ -341,12 +341,12 @@
         "Start up frame": "17"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-8",
         "Command": "f+1+2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "?",
         "Damage": "5,4",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "?",
         "Hit level": "hm",
         "Notes": "-",
         "Start up frame": "14"
@@ -431,10 +431,10 @@
     {
         "Block frame": "-8",
         "Command": "d/f+3",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+5",
         "Damage": "15",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14-15"
@@ -451,12 +451,12 @@
         "Start up frame": "14-15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-3",
         "Command": "d/f+3~1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+5",
         "Damage": "13",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+5",
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "19-20? (~33+?)"
@@ -495,7 +495,7 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-10",
         "Command": "d/f+4,3",
         "Counter hit frame": "+8~+9kg",
         "Damage": "16,23",
@@ -550,7 +550,7 @@
         "Start up frame": "23"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-12",
         "Command": "d/f+3+4",
         "Counter hit frame": "+9~+10kg",
         "Damage": "25",
@@ -605,7 +605,7 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "26",
         "Command": "d+3,4,4",
         "Counter hit frame": "KND",
         "Damage": "13",
@@ -616,7 +616,7 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-14",
         "Command": "d+3,4,4,4",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -706,10 +706,10 @@
     {
         "Block frame": "-7",
         "Command": "b+1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+4",
         "Damage": "13",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+4",
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "11"
@@ -759,7 +759,7 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-7",
         "Command": "b+3",
         "Counter hit frame": "'+4~+5",
         "Damage": "16",
@@ -770,12 +770,12 @@
         "Start up frame": "17-18"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-11",
         "Command": "b+3,1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+5",
         "Damage": "16,10",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F065.mp4?alt=media",
-        "Hit frame": "-1",
+        "Hit frame": "+5",
         "Hit level": "m,m",
         "Notes": "-",
         "Start up frame": "17-18"
@@ -836,23 +836,23 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-14",
         "Command": "b+4,4,4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "-5",
         "Damage": "21,13,25",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F067.mp4?alt=media",
-        "Hit frame": "KND",
+        "Hit frame": "-5",
         "Hit level": "h,l,m",
         "Notes": "Homing, Screw",
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-8",
         "Command": "b+1+2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+6",
         "Damage": "14",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F068.mp4?alt=media",
-        "Hit frame": "-1",
+        "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "16-17"
@@ -891,7 +891,7 @@
         "Start up frame": "25-27"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-13",
         "Command": "u/f+4",
         "Counter hit frame": "Launch",
         "Damage": "13,16",
@@ -913,7 +913,7 @@
         "Start up frame": "13(14~)"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-14",
         "Command": "f,f+3",
         "Counter hit frame": "Launch",
         "Damage": "21+",
@@ -946,7 +946,7 @@
         "Start up frame": "20-21(35~?)"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-13",
         "Command": "f,f+1+2",
         "Counter hit frame": "KND",
         "Damage": "23(34)",
@@ -981,16 +981,16 @@
     {
         "Block frame": "-14",
         "Command": "qcf+2,2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "?",
         "Damage": "14,17",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "?",
         "Hit level": "m,m",
         "Notes": "-",
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-16",
         "Command": "qcf+2,2,b,f+1+2",
         "Counter hit frame": "KND",
         "Damage": "14,17,25",
@@ -1001,7 +1001,7 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-16",
         "Command": "qcf+2,2,b,f,f+1+2",
         "Counter hit frame": "KND",
         "Damage": "14,17,30",
@@ -1023,29 +1023,29 @@
         "Start up frame": "13-15 (16-18~)"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-3",
         "Command": "ws 1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+4",
         "Damage": "12",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "13-14"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-5",
         "Command": "ws 1,2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+6",
         "Damage": "12,18",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F081.mp4?alt=media",
-        "Hit frame": "-1",
+        "Hit frame": "+6",
         "Hit level": "m,h",
         "Notes": "-",
         "Start up frame": "13-14"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-12",
         "Command": "ws 1,4",
         "Counter hit frame": "KND",
         "Damage": "12,20",
@@ -1056,7 +1056,7 @@
         "Start up frame": "13-14"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-12",
         "Command": "ws 2",
         "Counter hit frame": "Launch",
         "Damage": "15+",
@@ -1067,18 +1067,18 @@
         "Start up frame": "15-16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-8",
         "Command": "ws 3",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+3",
         "Damage": "15",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14-15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-13",
         "Command": "ws 3,2",
         "Counter hit frame": "KND",
         "Damage": "15,23",
@@ -1089,12 +1089,12 @@
         "Start up frame": "14-15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-4",
         "Command": "ws 4",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+7",
         "Damage": "13",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "44541"
@@ -1155,12 +1155,12 @@
         "Start up frame": "16-17(25~)"
     },
     {   "Alias" : ["d+2"],
-        "Block frame": "-1",
+        "Block frame": "-",
         "Command": "Opponent down d+2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "0",
         "Damage": "27",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F090.mp4?alt=media",
-        "Hit frame": "-1",
+        "Hit frame": "0",
         "Hit level": "l",
         "Notes": "-",
         "Start up frame": "23-24"
@@ -1320,7 +1320,7 @@
         "Start up frame": "20"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-2",
         "Command": "CFT 2",
         "Counter hit frame": "+2",
         "Damage": "17",
@@ -1331,12 +1331,12 @@
         "Start up frame": "14-15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-6",
         "Command": "CFT 2,3",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+5",
         "Damage": "17,15",
         "Gif": "-",
-        "Hit frame": "-1",
+        "Hit frame": "+5",
         "Hit level": "h,m",
         "Notes": "-",
         "Start up frame": "14-15"
@@ -1353,12 +1353,12 @@
         "Start up frame": "14-15"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-4",
         "Command": "CFT 3",
         "Counter hit frame": "Launch",
         "Damage": "23",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F018.mp4?alt=media",
-        "Hit frame": "+11~+12kg W! (air S!)",
+        "Hit frame": "+11~+12kg",
         "Hit level": "h",
         "Notes": "Screw",
         "Start up frame": "13-14(~?)"
@@ -1375,12 +1375,12 @@
         "Start up frame": "19-20 cs?"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-14",
         "Command": "CFT 4,4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "-5",
         "Damage": "10,25",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F019.mp4?alt=media",
-        "Hit frame": "KND",
+        "Hit frame": "-5",
         "Hit level": "l,m",
         "Notes": "-",
         "Start up frame": "19-20"
@@ -1430,7 +1430,7 @@
         "Start up frame": "16(~?)"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-13",
         "Command": "HAE 2",
         "Counter hit frame": "Launch",
         "Damage": "25",
