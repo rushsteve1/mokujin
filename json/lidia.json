@@ -105,7 +105,7 @@
         "Damage": "7,8,15,20",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F029.mp4?alt=media",
         "Hit frame": "KND",
-        "Hit level": "h,h,l,l",
+        "Hit level": "h,h,l,h",
         "Notes": "Screw",
         "Start up frame": "10"
     },
@@ -935,7 +935,7 @@
         "Start up frame": "15(16~)"
     },
     {
-        "Block frame": "+8~+9 far",
+        "Block frame": "+8~+9",
         "Command": "f,f+4~3",
         "Counter hit frame": "Launch",
         "Damage": "21",
@@ -1097,15 +1097,15 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "44541"
+        "Start up frame": "11"
     },
     {
         "Block frame": "-6",
         "Command": "ws 4,2",
-        "Counter hit frame": "+8 far",
+        "Counter hit frame": "+8",
         "Damage": "13,12",
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F085.mp4?alt=media",
-        "Hit frame": "+8 far",
+        "Hit frame": "+8",
         "Hit level": "m,h",
         "Notes": "-",
         "Start up frame": "11-12"
