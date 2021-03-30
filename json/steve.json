@@ -1037,7 +1037,7 @@
         "Gif": "https://gfycat.com/MadeupMajorAmericanwarmblood.gif",
         "Hit frame": "+6~+7",
         "Hit level": "m",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1052,7 +1052,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(LWV)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1067,7 +1067,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(RWV)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1086,7 +1086,7 @@
         "Gif": "",
         "Hit frame": "+15~+16g",
         "Hit level": "m,(DCK)",
-        "Notes": "Homing.\nCheck d/f+2~DCKc for the cancel",
+        "Notes": "Check d/f+2~DCKc for the cancel",
         "Start up frame": "16~17"
     },
     {
@@ -1113,7 +1113,7 @@
         "Gif": "",
         "Hit frame": "+12g~+13g",
         "Hit level": "m,(DCKc)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17s"
     },
     {
@@ -1132,7 +1132,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(SWY)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
