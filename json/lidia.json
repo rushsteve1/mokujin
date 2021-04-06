@@ -879,7 +879,7 @@
         "Notes": "-",
         "Start up frame": "19"
     },
-    {   "Alias" : ["u+3"],
+    {   "Alias" : ["u+3", "BT u/f+3+4"],
         "Block frame": "-7",
         "Command": "u/f+3",
         "Counter hit frame": "KND",
@@ -888,7 +888,7 @@
         "Hit frame": "+4s",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "25-27"
+        "Start up frame": "25-27 js11~"
     },
     {
         "Block frame": "-13",
@@ -899,7 +899,7 @@
         "Hit frame": "Launch",
         "Hit level": "m(h)",
         "Notes": "-",
-        "Start up frame": "15-16"
+        "Start up frame": "15-16 js9~"
     },
     {
         "Block frame": "-2",
