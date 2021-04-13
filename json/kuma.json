@@ -304,7 +304,7 @@
         "Command": "d/b+1+2",
         "Counter hit frame": "+2~+3s",
         "Damage": "5,5",
-        "Gif": "https://gfycat.com/CarefreeAptAmericanwigeon.gif",
+        "Gif": "",
         "Hit frame": "+2~+3s",
         "Hit level": "mm",
         "Notes": "",
@@ -1205,7 +1205,7 @@
             "HBS d/f+1+2"
         ],
         "Block frame": "-9~-5",
-        "Command": "HBS d/b_d_d/f+1+2",
+        "Command": "HBS d+1+2",
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/boilingtepidgazelle.gif",
@@ -1486,7 +1486,7 @@
             "SLD f"
         ],
         "Block frame": "-",
-        "Command": "FC d/f+1+2_SLD f (to ROL)",
+        "Command": "FC d/f+1+2",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/SaneMadBrahmanbull.gif",

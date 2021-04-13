@@ -1586,7 +1586,7 @@
         "Hit frame": "+6s",
         "Hit level": "m,m",
         "Notes": "-",
-        "Start up frame": "12"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-14",
@@ -1597,6 +1597,6 @@
         "Hit frame": "+6s",
         "Hit level": "m,m,(TCH)?",
         "Notes": "-",
-        "Start up frame": "12"
+        "Start up frame": "13"
     }
 ]

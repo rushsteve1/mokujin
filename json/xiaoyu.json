@@ -25,9 +25,9 @@
         "Damage": "7,10",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "l,m,(Special)",
+        "Hit level": "l,m,(AOP)",
         "Notes": "Rage drive,Screw",
-        "Start up frame": "js11~"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-1",

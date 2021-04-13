@@ -83,7 +83,7 @@
         "Start up frame": "s cs10~"
     },
     {
-        "Block frame": "-3",
+        "Block frame": "-9",
         "Command": "2,3",
         "Counter hit frame": "CS",
         "Damage": "12,21",
