@@ -215,7 +215,7 @@
         "Start up frame": "16s cs1~"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-13",
         "Command": "FC 4",
         "Counter hit frame": "-4",
         "Damage": "10",

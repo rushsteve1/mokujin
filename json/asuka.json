@@ -966,7 +966,7 @@
         "Hit level": "m,l,h (TJ)",
         "Notes": "",
         "Recovery": "-31",
-        "Start up frame": "js10~"
+        "Start up frame": "20 js10~"
     },
     {
         "Block frame": "-26",
@@ -978,7 +978,7 @@
         "Hit level": "m,l (TC)",
         "Notes": "Homing",
         "Recovery": "-31",
-        "Start up frame": "s cs6~"
+        "Start up frame": "20 cs6~"
     },
     {
         "Alias": [

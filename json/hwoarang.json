@@ -1010,7 +1010,7 @@
     {
         "Block frame": "+4",
         "Command": "f,n,d,d/f+3",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "KND",
         "Damage": "27",
         "Gif": "https://gfycat.com/NewEqualDodobird.gif",
         "Hit frame": "KND",
