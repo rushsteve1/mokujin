@@ -36,7 +36,7 @@
         "Block frame": "+1",
         "Command": "in rage u/f+3+4",
         "Counter hit frame": "KND",
-        "Damage": "35,4,11",
+        "Damage": "25,4,11",
         "Gif": "-",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -57,8 +57,8 @@
     {
         "Block frame": "-7",
         "Command": "1,1",
-        "Counter hit frame": "KND",
-        "Damage": "7,20",
+        "Counter hit frame": "+4",
+        "Damage": "7,16",
         "Gif": "https://gfycat.com/beautifulpleasantferret.gif",
         "Hit frame": "+4",
         "Hit level": "h,m",
@@ -167,10 +167,10 @@
     {
         "Block frame": "-8",
         "Command": "1,4",
-        "Counter hit frame": "+16kg",
+        "Counter hit frame": "+3",
         "Damage": "7,17",
         "Gif": "https://gfycat.com/grippingsandyharlequinbug.gif",
-        "Hit frame": "+16kg",
+        "Hit frame": "+3",
         "Hit level": "h,h",
         "Notes": "",
         "Start up frame": "10"
@@ -253,12 +253,12 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-6",
+        "Block frame": "-9",
         "Command": "3",
-        "Counter hit frame": "+5",
+        "Counter hit frame": "+2",
         "Damage": "11",
         "Gif": "-",
-        "Hit frame": "+5",
+        "Hit frame": "+2",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "13"
@@ -310,10 +310,10 @@
     {
         "Block frame": "-12",
         "Command": "3,4",
-        "Counter hit frame": "ATD",
-        "Damage": "11,20",
+        "Counter hit frame": "KND",
+        "Damage": "11,18",
         "Gif": "https://gfycat.com/tartcelebratedbarasingha.gif",
-        "Hit frame": "ATD",
+        "Hit frame": "+1",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "13"
@@ -410,7 +410,7 @@
         "Block frame": "-16",
         "Command": "4,4",
         "Counter hit frame": "Throw (+1)",
-        "Damage": "14,18",
+        "Damage": "14,15",
         "Gif": "https://gfycat.com/satisfiedfixedcollardlizard.gif",
         "Hit frame": "-5",
         "Hit level": "h,l",
@@ -550,12 +550,12 @@
         "Start up frame": "25 pc8"
     },
     {
-        "Block frame": "-3",
+        "Block frame": "-5",
         "Command": "d/f+1",
-        "Counter hit frame": "+8",
+        "Counter hit frame": "+4",
         "Damage": "10",
         "Gif": "-",
-        "Hit frame": "+8",
+        "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "13~14"
@@ -649,7 +649,7 @@
         "Start up frame": "15~16"
     },
     {
-        "Block frame": "-11",
+        "Block frame": "-12",
         "Command": "d/f+2,3",
         "Counter hit frame": "CS",
         "Damage": "10,11",
@@ -660,12 +660,12 @@
         "Start up frame": "15~16"
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-13",
         "Command": "d/f+3",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "-2",
         "Damage": "15",
         "Gif": "https://gfycat.com/fatalneatkingbird.gif",
-        "Hit frame": "-1",
+        "Hit frame": "-2",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "20~21"
@@ -806,7 +806,7 @@
         "Block frame": "-16",
         "Command": "d+4",
         "Counter hit frame": "+10g",
-        "Damage": "18",
+        "Damage": "15",
         "Gif": "https://gfycat.com/oblongelderlycaterpillar.gif",
         "Hit frame": "-5",
         "Hit level": "l",
@@ -814,12 +814,12 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-17",
         "Command": "d+3+4",
         "Counter hit frame": "SH",
-        "Damage": "20",
+        "Damage": "15",
         "Gif": "https://gfycat.com/torndopeygermanspaniel.gif",
-        "Hit frame": "+1s",
+        "Hit frame": "+0s",
         "Hit level": "h",
         "Notes": "Sabaki,Launch on parry",
         "Start up frame": "18~22 air11~ (parry3~10)"
@@ -982,7 +982,7 @@
         "Block frame": "-13",
         "Command": "b+4,3,2",
         "Counter hit frame": "CS",
-        "Damage": "14,14,27",
+        "Damage": "14,14,21",
         "Gif": "https://gfycat.com/decisivecoordinatedlice.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,m",

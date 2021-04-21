@@ -828,6 +828,20 @@
         "Start up frame": "16 cs4~"
     },
     {
+        "Alias": [
+            "Toe Kick"
+        ],
+        "Block frame": "-16",
+        "Command": "FUFT d+3",
+        "Counter hit frame": "-3s",
+        "Damage": "4",
+        "Gif": "",
+        "Hit frame": "-3s",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "13"
+    },
+    {
         "Block frame": "+2s",
         "Command": "d+3,4,1",
         "Counter hit frame": "Launch",

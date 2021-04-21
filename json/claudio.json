@@ -11,6 +11,21 @@
         "Start up frame": "20 pc8~17"
     },
     {
+        "Alias": [
+            "Spring Kick",
+            "Special Cross Chop"
+        ],
+        "Block frame": "+10~+20a? Needs checking",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Float with i10 move.",
+        "Start up frame": "48~58"
+    },
+    {
         "Block frame": "+7",
         "Command": "in rage b+4,2,f",
         "Counter hit frame": "TKMD",
@@ -689,7 +704,7 @@
         "Command": "STB b+4,3,2",
         "Counter hit frame": "JG",
         "Damage": "10,14,38",
-        "Gif": null,
+        "Gif": "https://gfycat.com/UntriedMarriedBlackbuck.gif",
         "Hit frame": "JG",
         "Hit level": "m,h,m (TJ)",
         "Notes": "",
@@ -1048,7 +1063,7 @@
     {
         "Block frame": "-6",
         "Command": "3",
-        "Counter hit frame": "JG",
+        "Counter hit frame": "-1",
         "Damage": "21",
         "Gif": null,
         "Hit frame": "-1",
@@ -1060,8 +1075,8 @@
     {
         "Block frame": "-8",
         "Command": "4",
-        "Counter hit frame": "KND",
-        "Damage": "-",
+        "Counter hit frame": "Launch",
+        "Damage": "17",
         "Gif": null,
         "Hit frame": "+3",
         "Hit level": "h",

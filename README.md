@@ -5,7 +5,7 @@ It uses [discord.py](https://github.com/Rapptz/discord.py) v1.3.4+ and is update
 
 The bot now has all the functionalities currently planned. It seems to work well and is somewhat stable. Currently, the data the bot uses is being updated to Tekken 7 Season 4, and any further update will be added either on request or when we see a mistake.
 
-Frame data is acquired from RBNorway, Geppopotamus, frame data feature (Tekken 7 DLC) and community members.
+Frame data is acquired from RBNorway, Geppopotamus, Tekken.guru, frame data feature (Tekken 7 DLC) and community members.
 
 
 ## If you want to use this:

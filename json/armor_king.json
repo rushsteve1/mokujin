@@ -313,7 +313,7 @@
         "Block frame": "+2s~+7s",
         "Command": "f+4",
         "Counter hit frame": "KND",
-        "Damage": "21",
+        "Damage": "25",
         "Gif": "https://gfycat.com/ValuablePastCurassow.gif",
         "Hit frame": "+7s",
         "Hit level": "m",
@@ -690,6 +690,34 @@
         "Notes": "",
         "Recovery": "-28",
         "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Spring Kick"
+        ],
+        "Block frame": "-27~-17",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "25",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "16~28b? Needs checking"
+    },
+    {
+        "Alias": [
+            "Toe Kick"
+        ],
+        "Block frame": "-20",
+        "Command": "FUFT d+3",
+        "Counter hit frame": "-3s",
+        "Damage": "6",
+        "Gif": "",
+        "Hit frame": "-3s",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "13"
     },
     {
         "Block frame": "-12",
@@ -1274,10 +1302,10 @@
     {
         "Block frame": "-",
         "Command": "1+2+3+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "+12",
         "Damage": "30",
         "Gif": null,
-        "Hit frame": "-",
+        "Hit frame": "+12",
         "Hit level": "h! (charge)",
         "Notes": "",
         "Recovery": "-14",
@@ -1541,7 +1569,7 @@
     {
         "Block frame": "-2",
         "Command": "d/b,f+2+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "2",
         "Damage": "58",
         "Gif": "https://gfycat.com/PessimisticDistantAvians.gif",
         "Hit frame": "KND",

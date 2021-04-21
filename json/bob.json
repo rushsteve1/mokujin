@@ -854,7 +854,7 @@
         "Hit frame": "+14~+15kg",
         "Hit level": "m(TJ),h(TJ)",
         "Notes": "Screw",
-        "Start up frame": "js10~"
+        "Start up frame": "16 js10~"
     },
     {
         "Block frame": "-17~-13",
@@ -1366,7 +1366,7 @@
         "Notes": "",
         "Start up frame": "18~19s (21~)"
     },
-    {
+    {   "Alias": ["hellsweep", "hs"],
         "Block frame": "-17",
         "Command": "f,n,d,d/f+4,1+2",
         "Counter hit frame": "KND",

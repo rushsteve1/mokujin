@@ -25,10 +25,25 @@
         "Start up frame": "?"
     },
     {
+        "Alias": [
+            "Spring Kick",
+            "Special Cross Chop"
+        ],
+        "Block frame": "+10~+20a? Needs checking",
+        "Command": "FUFT 3+4",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Float with i10 move.",
+        "Start up frame": "48~58"
+    },
+    {
         "Block frame": "+7",
         "Command": "in rage d/f+2+3",
         "Counter hit frame": "JG",
-        "Damage": "14,21",
+        "Damage": "5,21",
         "Gif": "",
         "Hit frame": "JG",
         "Hit level": "m,m",
@@ -705,7 +720,7 @@
         "Start up frame": "21~22"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-10",
         "Command": "f+2,1~2",
         "Counter hit frame": "KND",
         "Damage": "11,20",
@@ -925,7 +940,7 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-10",
         "Command": "d/f+1,2~2",
         "Counter hit frame": "KND",
         "Damage": "12,20",
@@ -1022,7 +1037,7 @@
         "Gif": "https://gfycat.com/MadeupMajorAmericanwarmblood.gif",
         "Hit frame": "+6~+7",
         "Hit level": "m",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1037,7 +1052,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(LWV)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1052,7 +1067,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(RWV)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1071,7 +1086,7 @@
         "Gif": "",
         "Hit frame": "+15~+16g",
         "Hit level": "m,(DCK)",
-        "Notes": "Homing.\nCheck d/f+2~DCKc for the cancel",
+        "Notes": "Check d/f+2~DCKc for the cancel",
         "Start up frame": "16~17"
     },
     {
@@ -1098,7 +1113,7 @@
         "Gif": "",
         "Hit frame": "+12g~+13g",
         "Hit level": "m,(DCKc)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17s"
     },
     {
@@ -1117,7 +1132,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(SWY)",
-        "Notes": "Homing",
+        "Notes": "",
         "Start up frame": "16~17"
     },
     {
@@ -1152,7 +1167,7 @@
     {
         "Block frame": "-13",
         "Command": "d+1",
-        "Counter hit frame": "0",
+        "Counter hit frame": "-2",
         "Damage": "12",
         "Gif": "https://gfycat.com/AltruisticFrighteningBelugawhale.gif",
         "Hit frame": "0",
@@ -1415,6 +1430,7 @@
         "Hit frame": "+2~+3",
         "Hit level": "h",
         "Notes": "",
+        "Recovery" : "-16",
         "Start up frame": "13~14"
     },
     {
@@ -3304,7 +3320,7 @@
         "Block frame": "-9",
         "Command": "FLK b+2",
         "Counter hit frame": "KND",
-        "Damage": "27",
+        "Damage": "21",
         "Gif": "https://gfycat.com/ScholarlyJubilantBrownbutterfly.gif",
         "Hit frame": "KND",
         "Hit level": "h",

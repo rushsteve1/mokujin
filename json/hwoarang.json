@@ -495,7 +495,7 @@
         "Hit frame": "+19~+23g",
         "Hit level": "h,(RFS)",
         "Notes": "",
-        "Start up frame": "17~23"
+        "Start up frame": "17~21"
     },
     {
         "Block frame": "-9",
@@ -1010,7 +1010,7 @@
     {
         "Block frame": "+4",
         "Command": "f,n,d,d/f+3",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "KND",
         "Damage": "27",
         "Gif": "https://gfycat.com/NewEqualDodobird.gif",
         "Hit frame": "KND",
@@ -2547,6 +2547,6 @@
         "Hit frame": "Launch",
         "Hit level": "m(TJ),(RFF)",
         "Notes": "-",
-        "Start up frame": "17~18 js9~"
+        "Start up frame": "17~18 js11~"
     }
 ]

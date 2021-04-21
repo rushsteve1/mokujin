@@ -613,7 +613,7 @@
     {
         "Block frame": "-17",
         "Command": "d+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "https://gfycat.com/BlaringFabulousHousefly.gif",
         "Hit frame": "-3",
@@ -624,7 +624,7 @@
     {
         "Block frame": "-15",
         "Command": "d+3,4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "-1",

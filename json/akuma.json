@@ -15,6 +15,20 @@
     },
     {
         "Alias": [
+            "Toe Kick"
+        ],
+        "Block frame": "-20",
+        "Command": "FUFT d+3",
+        "Counter hit frame": "-3s",
+        "Damage": "6",
+        "Gif": "",
+        "Hit frame": "-3s",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "13"
+    },
+    {
+        "Alias": [
             "f+1"
         ],
         "Block frame": "+1",

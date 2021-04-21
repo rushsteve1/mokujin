@@ -22,6 +22,20 @@
         "Start up frame": "18~20 (19~)"
     },
     {
+        "Alias": [
+            "Toe Kick"
+        ],
+        "Block frame": "-20",
+        "Command": "FUFT d+3",
+        "Counter hit frame": "-3s",
+        "Damage": "6",
+        "Gif": "",
+        "Hit frame": "-3s",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "13"
+    },
+    {
         "Block frame": "-5",
         "Command": "1,2",
         "Counter hit frame": "+6",
@@ -191,7 +205,7 @@
         "Command": "d/f+1,2",
         "Counter hit frame": "-2~-1",
         "Damage": "6,9",
-        "Gif": "https://gfycat.com/VagueFemaleJabiru.gif",
+        "Gif": "",
         "Hit frame": "-2~-1",
         "Hit level": "m,m",
         "Notes": "",
@@ -290,7 +304,7 @@
         "Command": "d/b+1+2",
         "Counter hit frame": "+2~+3s",
         "Damage": "5,5",
-        "Gif": "https://gfycat.com/CarefreeAptAmericanwigeon.gif",
+        "Gif": "",
         "Hit frame": "+2~+3s",
         "Hit level": "mm",
         "Notes": "",
@@ -660,7 +674,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall bounce",
+        "Notes": "",
         "Start up frame": "18s(19~)"
     },
     {
@@ -671,7 +685,7 @@
         "Gif": "https://gfycat.com/UntimelyFemaleJenny.gif",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "",
+        "Notes": "Wall bounce",
         "Start up frame": "18(19~)"
     },
     {
@@ -1191,7 +1205,7 @@
             "HBS d/f+1+2"
         ],
         "Block frame": "-9~-5",
-        "Command": "HBS d/b_d_d/f+1+2",
+        "Command": "HBS d+1+2",
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/boilingtepidgazelle.gif",
@@ -1472,7 +1486,7 @@
             "SLD f"
         ],
         "Block frame": "-",
-        "Command": "FC d/f+1+2_SLD f (to ROL)",
+        "Command": "FC d/f+1+2",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/SaneMadBrahmanbull.gif",
