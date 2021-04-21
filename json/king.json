@@ -680,21 +680,32 @@
     {
         "Block frame": "-10~-9",
         "Command": "WS 1+2",
-        "Counter hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/AptVigilantFlounder.gif",
-        "Hit frame": "Launch (JG?)",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "18~19"
     },
     {
+        "Block frame": "-13",
+        "Command": "FC 4",
+        "Counter hit frame": "-2",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "-2",
+        "Hit level": "l(TC)",
+        "Notes": "Generic",
+        "Start up frame": "14s cs1~"
+    },
+    {
         "Block frame": "-12~-10",
         "Command": "FC d/f+1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "KND (JG)",
         "Damage": "20",
         "Gif": "https://gfycat.com/PeriodicGrizzledAfricanparadiseflycatcher.gif",
-        "Hit frame": "KND",
+        "Hit frame": "KND (JG)",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "32~34s cs1~"
@@ -702,17 +713,17 @@
     {
         "Block frame": "-14~-13",
         "Command": "FC d/f+2",
-        "Counter hit frame": "hKZD",
+        "Counter hit frame": "KND (JG)",
         "Damage": "21",
         "Gif": "https://gfycat.com/UnfitElectricAmurstarfish.gif",
-        "Hit frame": "hKZD",
+        "Hit frame": "KND (JG)",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "15~16"
     },
     {
         "Block frame": "-5~-3",
-        "Command": "ss 2",
+        "Command": "SS 2",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/SadAngryBrownbutterfly.gif",
@@ -723,7 +734,7 @@
     },
     {
         "Block frame": "-1~+3",
-        "Command": "ss 3+4",
+        "Command": "SS 3+4",
         "Counter hit frame": "KND",
         "Damage": "50",
         "Gif": "https://gfycat.com/EthicalMajesticAsiaticgreaterfreshwaterclam.gif",
