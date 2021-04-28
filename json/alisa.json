@@ -1867,7 +1867,7 @@
             "u/f+3"
         ],
         "Block frame": "-57~-56",
-        "Command": "(u/b_u_u/f)+3",
+        "Command": "u/f+3",
         "Counter hit frame": "-29~-28 (SH)",
         "Damage": "15",
         "Gif": "",
@@ -1875,7 +1875,7 @@
         "Hit level": "m(TJ)",
         "Notes": "",
         "Recovery": "-31",
-        "Start up frame": "20~21 js9~"
+        "Start up frame": "17 js9~"
     },
     {
         "Block frame": "-9~-8",

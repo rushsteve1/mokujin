@@ -811,6 +811,17 @@
         "Notes": "",
         "Start up frame": "29~30"
     },
+    {   "Alias": ["b+2+4"],
+        "Block frame": "-",
+        "Command": "b+1+3",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "+13b",
+        "Hit level": "-",
+        "Notes": "Parry h/m punches. 45f total",
+        "Start up frame": "i2~10"
+    },
     {
         "Block frame": "-6",
         "Command": "b+1",
@@ -825,7 +836,7 @@
     {
         "Block frame": "-6",
         "Command": "b+1,1",
-        "Counter hit frame": "+7",
+        "Counter hit frame": "+7b",
         "Damage": "33",
         "Gif": "",
         "Hit frame": "+1",

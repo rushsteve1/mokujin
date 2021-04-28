@@ -373,7 +373,7 @@
     {
         "Block frame": "+8~+9s",
         "Command": "b+2,1*",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "22,35",
         "Gif": "https://gfycat.com/AngelicFirmGreatwhiteshark.gif",
         "Hit frame": "+8~+9s",
