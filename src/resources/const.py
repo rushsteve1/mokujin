@@ -6,7 +6,7 @@ CHARACTER_ALIAS = {
     'asuka': ['asu'],
     'bob': [],
     'bryan': ['bry'],
-    'claudio': ['cld'],
+    'claudio': ['cld', 'cla'],
     'devil_jin': ['dj', 'deviljin', 'dvj'],
     'dragunov': ['drag', 'sergei', 'dragu'],
     'eddy': ['edd'],
