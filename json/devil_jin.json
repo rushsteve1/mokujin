@@ -1306,6 +1306,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "h",
         "Notes": "",
+        "Recovery" : "-24",
         "Start up frame": "11~12 (14~)"
     },
     {
@@ -1356,10 +1357,10 @@
         ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "10",
         "Gif": "",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "16(19~)"

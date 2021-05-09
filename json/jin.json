@@ -1085,6 +1085,7 @@
         "Hit frame": "KND (JG)",
         "Hit level": "m",
         "Notes": "",
+        "Recovery" : "-22",
         "Start up frame": "23~25 (24~)"
     },
     {
@@ -1395,6 +1396,7 @@
         "Hit frame": "Launch (S!)",
         "Hit level": "h",
         "Notes": "",
+        "Recovery" : "-24",
         "Start up frame": "11~12 (14~)"
     },
     {

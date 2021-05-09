@@ -13,7 +13,7 @@
     {
         "Alias": [
             "Spring Kick",
-            "Special Cross Chop"
+            "Special CroSS Chop"
         ],
         "Block frame": "+10~+20a? Needs checking",
         "Command": "FUFT 3+4",
@@ -645,7 +645,7 @@
     },
     {
         "Block frame": "-12",
-        "Command": "ss 3",
+        "Command": "SS 3",
         "Counter hit frame": "+12",
         "Damage": "17",
         "Gif": "https://gfycat.com/PoisedAdoredCanvasback.gif",
@@ -1011,7 +1011,7 @@
     },
     {
         "Block frame": "+8",
-        "Command": "ss 1",
+        "Command": "SS 1",
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/WeepySmartHairstreak.gif",
@@ -1023,7 +1023,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "ss 2",
+        "Command": "SS 2",
         "Counter hit frame": "+6",
         "Damage": "10(12)",
         "Gif": "",
@@ -1033,19 +1033,8 @@
         "Start up frame": "10(11~)"
     },
     {
-        "Block frame": "-7",
-        "Command": "ss 4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "17",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "12(13~)"
-    },
-    {
         "Block frame": "+1",
-        "Command": "ss 1+2",
+        "Command": "SS 1+2",
         "Counter hit frame": "+8",
         "Damage": "7",
         "Gif": "",
@@ -1056,7 +1045,7 @@
     },
     {
         "Block frame": "-7~-6",
-        "Command": "ss 3+4",
+        "Command": "SS 3+4",
         "Counter hit frame": "+4~+5",
         "Damage": "18",
         "Gif": "",
