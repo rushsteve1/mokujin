@@ -849,10 +849,10 @@
     },
     {
         "Block frame": "-",
-        "Command": "f,F+1+2 When hit 2",
+        "Command": "f,F+1+2:2",
         "Counter hit frame": "CS",
         "Damage": "5,18,2*6",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Falisa%2F074.mp4?alt=media",
         "Hit frame": "CS",
         "Hit level": "mm,m x 6,(DES)",
         "Notes": "",

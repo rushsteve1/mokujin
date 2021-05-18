@@ -792,7 +792,7 @@
         "Notes": "",
         "Start up frame": "31~40 (32~) js1~"
     },
-    {
+    {   "Alias": ["debug","debugger"],
         "Block frame": "-37~-36",
         "Command": "b,d/b,d,d/f+1",
         "Counter hit frame": "KND",

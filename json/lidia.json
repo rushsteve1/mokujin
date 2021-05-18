@@ -910,6 +910,7 @@
         "Hit frame": "+15g",
         "Hit level": "m (CFO)",
         "Notes": "",
+        "Recovery": "-26",
         "Start up frame": "13(14~)"
     },
     {
@@ -954,6 +955,7 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-25",
         "Start up frame": "15(16~)"
     },
     {
@@ -1042,6 +1044,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-30",
         "Start up frame": "13-15 (16-18~)"
     },
     {

@@ -446,7 +446,7 @@
         "Notes": "",
         "Start up frame": "s cs1~"
     },
-    {
+    {   "Alias" : ["d+3+4,4,2","d+3+4,2","d+3+4,4,4,2"],
         "Block frame": "-15",
         "Command": "ALI 2",
         "Counter hit frame": "KND",

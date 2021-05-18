@@ -1749,7 +1749,7 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "-10~-9",
+        "Block frame": "-12",
         "Command": "WS 4",
         "Counter hit frame": "KND",
         "Damage": "15",

@@ -13,11 +13,11 @@
     {
         "Block frame": "+19g",
         "Command": "In Rage f+2+3",
-        "Counter hit frame": "throw",
+        "Counter hit frame": "Launch",
         "Damage": "10,20",
         "Gif": "",
-        "Hit frame": "throw",
-        "Hit level": "m (throw)",
+        "Hit frame": "Launch",
+        "Hit level": "m",
         "Notes": "Rage Drive",
         "Start up frame": "14"
     },
