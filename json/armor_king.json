@@ -193,7 +193,7 @@
         "Block frame": "-5",
         "Command": "f,f,f+2+4",
         "Counter hit frame": "1+2",
-        "Damage": "40",
+        "Damage": "45",
         "Gif": "https://gfycat.com/kindlyboringindianrockpython.gif",
         "Hit frame": "KND",
         "Hit level": "h",
@@ -365,7 +365,7 @@
         "Gif": "https://gfycat.com/SplendidTenseAcornwoodpecker.gif",
         "Hit frame": "+4",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "Homing",
         "Recovery": "-29",
         "Start up frame": "15"
     },
@@ -406,7 +406,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-7",
+        "Block frame": "-4",
         "Command": "d/f+1+2",
         "Counter hit frame": "KND",
         "Damage": "20",
@@ -483,7 +483,7 @@
         "Block frame": "-12",
         "Command": "d+3",
         "Counter hit frame": "+9",
-        "Damage": "11",
+        "Damage": "14",
         "Gif": "https://gfycat.com/ShadowyNaughtyLhasaapso.gif",
         "Hit frame": "+1",
         "Hit level": "l",
@@ -656,9 +656,9 @@
         "Start up frame": "29 cs6 js16"
     },
     {
-        "Block frame": "+3",
+        "Block frame": "+5",
         "Command": "d/b+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "30",
         "Gif": "https://gfycat.com/GloriousBigFowl.gif",
         "Hit frame": "KND",
@@ -723,7 +723,7 @@
         "Block frame": "-12",
         "Command": "b+1,2",
         "Counter hit frame": "KND",
-        "Damage": "12,17",
+        "Damage": "12,20",
         "Gif": "https://gfycat.com/CarelessMisguidedChafer.gif",
         "Hit frame": "+6",
         "Hit level": "h,m",
@@ -1029,7 +1029,7 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-18",
+        "Block frame": "-14",
         "Command": "f,f,N,2",
         "Counter hit frame": "KND",
         "Damage": "17",
@@ -1038,7 +1038,7 @@
         "Hit level": "l (TC)",
         "Notes": "",
         "Recovery": "-29",
-        "Start up frame": "19 cs12"
+        "Start up frame": "19 cs8~"
     },
     {
         "Block frame": "+2",

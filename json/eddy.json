@@ -280,10 +280,10 @@
     {
         "Block frame": "-5",
         "Command": "f+2,3",
-        "Counter hit frame": "+6",
+        "Counter hit frame": "+10",
         "Damage": "11,20",
         "Gif": "https://gfycat.com/HighlevelReflectingEmperorshrimp.gif",
-        "Hit frame": "+6",
+        "Hit frame": "+10",
         "Hit level": "h,m (HSP)",
         "Notes": "",
         "Start up frame": "12"
@@ -428,7 +428,7 @@
         "Block frame": "-13~-11",
         "Command": "d+3~4",
         "Counter hit frame": "+3~+5s",
-        "Damage": "17",
+        "Damage": "19",
         "Gif": "https://gfycat.com/ExemplaryFarDuiker.gif",
         "Hit frame": "+3~+5s",
         "Hit level": "l (TC)",
@@ -1630,12 +1630,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-11",
         "Command": "RLX 1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "0",
         "Damage": "10",
         "Gif": null,
-        "Hit frame": "-1",
+        "Hit frame": "0",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "17"
@@ -2411,7 +2411,7 @@
         "Gif": "https://gfycat.com/BitesizedEuphoricHawk.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
-        "Notes": "",
+        "Notes": "Homing",
         "Start up frame": "22~25 js7~"
     },
     {

@@ -167,7 +167,7 @@
     {
         "Block frame": "+8~+9",
         "Command": "3,2,4",
-        "Counter hit frame": "+14~+15",
+        "Counter hit frame": "+20g",
         "Damage": "15,10,14",
         "Gif": "",
         "Hit frame": "+14g~+15g",
@@ -347,7 +347,7 @@
     {
         "Block frame": "+8~+9",
         "Command": "b+1,4",
-        "Counter hit frame": "+14~+15",
+        "Counter hit frame": "+20g",
         "Damage": "17,14",
         "Gif": "https://gfycat.com/HonoredTenseGelada.gif",
         "Hit frame": "+14~+15",
@@ -491,7 +491,7 @@
         "Block frame": "-14~-13",
         "Command": "u/f+1,2",
         "Counter hit frame": "KND",
-        "Damage": "8,21",
+        "Damage": "8,25",
         "Gif": "https://gfycat.com/GiganticLastingGoose.gif",
         "Hit frame": "KND",
         "Hit level": "h,m",
@@ -525,7 +525,7 @@
         "Start up frame": "24~27 js9~"
     },
     {
-        "Block frame": "-10~-9",
+        "Block frame": "-9",
         "Command": "f,F+2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -708,7 +708,7 @@
         "Gif": "https://gfycat.com/EarnestEsteemedDogwoodtwigborer.gif",
         "Hit frame": "+22g(KND)",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "Wall Bounce",
         "Start up frame": "13~15"
     },
     {
@@ -891,7 +891,7 @@
         "Block frame": "-4~-2",
         "Command": "KNK 2",
         "Counter hit frame": "CS",
-        "Damage": "18",
+        "Damage": "20",
         "Gif": "https://gfycat.com/IdleSaltyIbizanhound.gif",
         "Hit frame": "KND",
         "Hit level": "h",
@@ -1005,7 +1005,7 @@
     {
         "Block frame": "+8",
         "Command": "BOK 4",
-        "Counter hit frame": "+14",
+        "Counter hit frame": "+20g",
         "Damage": "14",
         "Gif": "https://gfycat.com/UnselfishMeaslyBeetle.gif",
         "Hit frame": "+14g",
@@ -1030,7 +1030,7 @@
         "Counter hit frame": "+11~+12",
         "Damage": "17",
         "Gif": "https://gfycat.com/ImperfectRevolvingDogwoodclubgall.gif",
-        "Hit frame": "-2~-1",
+        "Hit frame": "-1~0",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "18~19s (20~) cs6~"
@@ -1223,7 +1223,7 @@
         "Block frame": "-13~-12",
         "Command": "WS 2",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "15",
+        "Damage": "17",
         "Gif": "https://gfycat.com/HorribleImmaterialAmericanriverotter.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m?",
@@ -1476,7 +1476,7 @@
     {
         "Block frame": "+8~+9",
         "Command": "f+4",
-        "Counter hit frame": "+14~+15",
+        "Counter hit frame": "+20g",
         "Damage": "14",
         "Gif": "https://gfycat.com/QueasyPeskyAbyssiniancat.gif",
         "Hit frame": "+14g~+15g",
@@ -1499,7 +1499,7 @@
         "Block frame": "-13~-12",
         "Command": "d/f+2",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "14",
+        "Damage": "15",
         "Gif": "https://gfycat.com/WhisperedHardtofindBellfrog.gif",
         "Hit frame": "Launch (JG?)(-2a)",
         "Hit level": "m",
@@ -1719,7 +1719,7 @@
         "Block frame": "-13~-12",
         "Command": "u/f+4",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "13",
+        "Damage": "15",
         "Gif": "https://gfycat.com/AbsoluteFrequentDogwoodtwigborer.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",

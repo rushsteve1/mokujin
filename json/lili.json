@@ -319,7 +319,7 @@
         "Hit frame": "+3~+4",
         "Hit level": "l (TC),h",
         "Notes": "",
-        "Start up frame": "18~19 11~"
+        "Start up frame": "18~19 cs9~"
     },
     {
         "Block frame": "-8~-7",
@@ -563,11 +563,11 @@
             "u+3,3"
         ],
         "Block frame": "-12",
-        "Command": "u/b_u+3,3",
-        "Counter hit frame": "0",
+        "Command": "u+3,3",
+        "Counter hit frame": "Launch",
         "Damage": "26,15",
         "Gif": "",
-        "Hit frame": "0",
+        "Hit frame": "Launch",
         "Hit level": "m (TJ),m (TJ)",
         "Notes": "",
         "Start up frame": "js9~"
@@ -578,7 +578,7 @@
             "u+3,3,f"
         ],
         "Block frame": "-3",
-        "Command": "u/b_u+3,3,F",
+        "Command": "u+3,3,F",
         "Counter hit frame": "+9",
         "Damage": "26,15",
         "Gif": "https://gfycat.com/IncompatibleCourageousDiplodocus.gif",
@@ -647,12 +647,12 @@
         "Start up frame": "15~18 js9~"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-4",
         "Command": "u/f+3+4,3",
         "Counter hit frame": "KND",
         "Damage": "15,18",
         "Gif": "https://gfycat.com/SoulfulAntiqueAlaskanhusky.gif",
-        "Hit frame": "0",
+        "Hit frame": "+5",
         "Hit level": "m (TJ),h",
         "Notes": "",
         "Start up frame": "15~18 9~"
@@ -682,10 +682,10 @@
     {
         "Block frame": "-12",
         "Command": "f,F+3",
-        "Counter hit frame": "0",
+        "Counter hit frame": "Launch",
         "Damage": "15",
         "Gif": null,
-        "Hit frame": "0",
+        "Hit frame": "Launch",
         "Hit level": "m (TJ)",
         "Notes": "",
         "Start up frame": "22a(23~) js7~"
@@ -868,7 +868,7 @@
         "Hit frame": "-2~+7",
         "Hit level": "l (TJ),(TC)",
         "Notes": "",
-        "Start up frame": "23~32 cs18~"
+        "Start up frame": "23~32 cs10~"
     },
     {
         "Block frame": "-2~-1",
@@ -1193,12 +1193,12 @@
         "Start up frame": "11s cs4~"
     },
     {
-        "Block frame": "-4",
+        "Block frame": "-9",
         "Command": "u/b+1",
-        "Counter hit frame": "Launch",
+        "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/MajorForsakenDragonfly.gif",
-        "Hit frame": "+7s",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16"
@@ -1478,7 +1478,7 @@
         "Start up frame": "12~13"
     },
     {
-        "Block frame": "-6~-4",
+        "Block frame": "-3~-1",
         "Command": "f+3",
         "Counter hit frame": "KND",
         "Damage": "26",
@@ -1491,7 +1491,7 @@
     {
         "Block frame": "-9",
         "Command": "f+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "23",
         "Gif": "https://gfycat.com/CautiousWeirdGlowworm.gif",
         "Hit frame": "KND",
@@ -1569,7 +1569,7 @@
         "Block frame": "-12~-11",
         "Command": "d+3",
         "Counter hit frame": "+5s",
-        "Damage": "14",
+        "Damage": "16",
         "Gif": "https://gfycat.com/LargeShorttermFinwhale.gif",
         "Hit frame": "+1~+2",
         "Hit level": "l",
