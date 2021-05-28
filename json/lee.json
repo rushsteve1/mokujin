@@ -916,6 +916,7 @@
         "Hit frame": "+8~+10s (KND)",
         "Hit level": "m,(HMS)",
         "Notes": "",
+        "Recovery" : "-20",
         "Start up frame": "20~22"
     },
     {
@@ -2176,6 +2177,7 @@
         "Hit frame": "+7~+9s (KND)",
         "Hit level": "m",
         "Notes": "",
+        "Recovery" : "-21",
         "Start up frame": "20~22"
     },
     {
