@@ -167,7 +167,7 @@
     {
         "Block frame": "+8~+9",
         "Command": "3,2,4",
-        "Counter hit frame": "+20g",
+        "Counter hit frame": "Launch",
         "Damage": "15,10,14",
         "Gif": "",
         "Hit frame": "+14g~+15g",
@@ -347,7 +347,7 @@
     {
         "Block frame": "+8~+9",
         "Command": "b+1,4",
-        "Counter hit frame": "+20g",
+        "Counter hit frame": "Launch",
         "Damage": "17,14",
         "Gif": "https://gfycat.com/HonoredTenseGelada.gif",
         "Hit frame": "+14~+15",
@@ -1005,7 +1005,7 @@
     {
         "Block frame": "+8",
         "Command": "BOK 4",
-        "Counter hit frame": "+20g",
+        "Counter hit frame": "Launch",
         "Damage": "14",
         "Gif": "https://gfycat.com/UnselfishMeaslyBeetle.gif",
         "Hit frame": "+14g",
@@ -1476,7 +1476,7 @@
     {
         "Block frame": "+8~+9",
         "Command": "f+4",
-        "Counter hit frame": "+20g",
+        "Counter hit frame": "Launch",
         "Damage": "14",
         "Gif": "https://gfycat.com/QueasyPeskyAbyssiniancat.gif",
         "Hit frame": "+14g~+15g",

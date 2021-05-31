@@ -720,7 +720,7 @@
         "Gif": "https://gfycat.com/LateGleamingHagfish.gif",
         "Hit frame": "KND",
         "Hit level": "h!",
-        "Notes": "",
+        "Notes": "Change laser direction with d or u",
         "Start up frame": "32~63"
     },
     {
@@ -1386,7 +1386,7 @@
             "u/f+3+4"
         ],
         "Block frame": "-17",
-        "Command": "(u/b_u_u/f)+3+4",
+        "Command": "u/f+3+4",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",
