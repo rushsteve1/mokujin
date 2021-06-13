@@ -785,7 +785,7 @@
     },
     {
         "Block frame": "-10~-9",
-        "Command": "1 When parrying 2",
+        "Command": "Parry 1",
         "Counter hit frame": "KND",
         "Damage": "30",
         "Gif": "",
@@ -796,7 +796,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "2 When parrying 2",
+        "Command": "Parry 2",
         "Counter hit frame": "+7",
         "Damage": "22",
         "Gif": "",

@@ -1753,7 +1753,7 @@
     {
         "Block frame": "-13",
         "Command": "RLX 4",
-        "Counter hit frame": "+14kg",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": null,
         "Hit frame": "+14kg",

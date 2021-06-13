@@ -834,6 +834,28 @@
         "Start up frame": "16~18b"
     },
     {
+        "Block frame": "-9",
+        "Command": "f,f+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "28",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flili%2F065.mp4?alt=media",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "28"
+    },
+    {
+        "Block frame": "+5",
+        "Command": "f,f+1+2*",
+        "Counter hit frame": "KND",
+        "Damage": "38",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flili%2F066.mp4?alt=media",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "51"
+    },
+    {
         "Block frame": "+4~+7s",
         "Command": "WS 3,4",
         "Counter hit frame": "KND",
