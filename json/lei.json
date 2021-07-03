@@ -4063,6 +4063,61 @@
         "Start up frame": "10"
     },
     {
+        "Block frame": "-1",
+        "Command": "DGN 4,1",
+        "Counter hit frame": "+5",
+        "Damage": "18,12",
+        "Gif": null,
+        "Hit frame": "+5",
+        "Hit level": "h,m",
+        "Notes": "",
+        "Start up frame": "10"
+    },
+    {
+        "Block frame": "-10",
+        "Command": "DGN 4,1,2",
+        "Counter hit frame": "+5",
+        "Damage": "18,12,8",
+        "Gif": null,
+        "Hit frame": "+5",
+        "Hit level": "h,m,m",
+        "Notes": "",
+        "Start up frame": "10"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "DGN 4,1,2,3",
+        "Counter hit frame": "KND",
+        "Damage": "18,12,8,20",
+        "Gif": null,
+        "Hit frame": "KND",
+        "Hit level": "h,m,m,h",
+        "Notes": "",
+        "Start up frame": "10"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "DGN 4,1,2,3,4",
+        "Counter hit frame": "KND",
+        "Damage": "18,12,8,20,20",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flei%2F081.mp4?alt=media",
+        "Hit frame": "KND",
+        "Hit level": "h,m,m,h,m",
+        "Notes": "",
+        "Start up frame": "10"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "DGN 4,1,2,3,d+4",
+        "Counter hit frame": "KND",
+        "Damage": "18,12,8,20,20",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flei%2F082.mp4?alt=media",
+        "Hit frame": "KND",
+        "Hit level": "h,m,m,h,l",
+        "Notes": "",
+        "Start up frame": "10"
+    },
+    {
         "Block frame": "-2",
         "Command": "DGN 1+2",
         "Counter hit frame": "KND",

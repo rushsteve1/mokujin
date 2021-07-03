@@ -693,10 +693,10 @@
     {
         "Block frame": "-3",
         "Command": "f,F+3,F",
-        "Counter hit frame": "+9",
+        "Counter hit frame": "Launch",
         "Damage": "15",
         "Gif": "https://gfycat.com/RegularSpeedyAfricancivet.gif",
-        "Hit frame": "+9",
+        "Hit frame": "Launch",
         "Hit level": "m (TJ),(Special)",
         "Notes": "",
         "Start up frame": "js7~"
