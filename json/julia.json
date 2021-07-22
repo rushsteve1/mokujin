@@ -1689,7 +1689,7 @@
         "Notes": "Throw",
         "Start up frame": "12"
     },
-    {
+    {   "Alias": ["qcb,f+2"],
         "Block frame": "-4",
         "Command": "d,d/b,b,f+2",
         "Counter hit frame": "-",

@@ -1215,7 +1215,7 @@
         "Damage": "23,8",
         "Gif": "https://gfycat.com/jubilantgargantuanleafwing.gif",
         "Hit frame": "Throw(KND)",
-        "Hit level": "Air throw",
+        "Hit level": "Throw. Air throw wr2+4 exist",
         "Notes": "",
         "Start up frame": "11(27~)"
     },
@@ -1616,7 +1616,7 @@
         "Notes": "Throw",
         "Start up frame": "12"
     },
-    {
+    {   "Alias" : ["mid air wr2+4"],
         "Block frame": "-",
         "Command": "mid air f,f,f+2+4",
         "Counter hit frame": "-",
@@ -1624,7 +1624,7 @@
         "Gif": "https://gfycat.com/JubilantGargantuanLeafwing.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
+        "Notes": "Air Throw",
         "Start up frame": "11"
     },
     {

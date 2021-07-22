@@ -1089,7 +1089,7 @@
         "Notes": "",
         "Start up frame": "17~18 (26~)"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-16~-8",
         "Command": "Opponent Down d+1+2",
         "Counter hit frame": "KND",
