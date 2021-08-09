@@ -363,7 +363,7 @@
         "Start up frame": "64~65"
     },
     {
-        "Block frame": "+1~+2",
+        "Block frame": "+1s~+2s",
         "Command": "b+1,d",
         "Counter hit frame": "+8~+9s",
         "Damage": "20",
@@ -1047,10 +1047,10 @@
         "Start up frame": "20 cs6~"
     },
     {
-        "Block frame": "+2~+3",
+        "Block frame": "+2s~+3s",
         "Command": "b+1",
         "Counter hit frame": "+8~+9",
-        "Damage": "18",
+        "Damage": "20",
         "Gif": "https://gfycat.com/BiodegradableVictoriousAntarcticgiantpetrel.gif",
         "Hit frame": "+8~+9",
         "Hit level": "m",
