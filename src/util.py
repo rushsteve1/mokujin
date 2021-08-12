@@ -52,12 +52,11 @@ def display_moves_by_type(character, move_type):
 
 def move_components(character_move):
 
-    if "Tags" in character_move:
-        tags = character_move["Tags"]
-        components = []
-        for tag in tags:
-            components.append(Button(label=tag, disabled=True, style=1))
-        return components
+    tags = character_move["Tags"]
+    components = []
+    for tag in tags:
+        components.append(Button(label=tag, disabled=True, style=1))
+    return components
 
 
 def display_moves_by_input(character, original_move):
@@ -75,8 +74,7 @@ def display_moves_by_input(character, original_move):
         else:
             similar_moves = tkfinder.get_similar_moves(original_move, character_name)
             result["embed"] = embed.similar_moves_embed(similar_moves, character_name)
-    components = move_components(character_move)
-    if components is not None:
+    if character_move and "Tags" in character_move:
         result["components"] = ActionRow(move_components(character_move))
 
     return result
