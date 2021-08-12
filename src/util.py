@@ -2,6 +2,7 @@ import datetime
 
 from src import tkfinder
 from src.resources import const, embed
+from discord_components import Button, ActionRow
 
 
 def get_character_name_from_content(content):
@@ -38,30 +39,44 @@ def do_sum(x1, x2):
 
 def display_moves_by_type(character, move_type):
     move_list = tkfinder.get_by_move_type(character, move_type)
-    result = object
+    result = {}
     if len(move_list) < 1:
-        result = embed.error_embed(
+        result["embed"] = embed.error_embed(
             'No ' + move_type.lower() + ' for ' + character['proper_name'])
     elif len(move_list) == 1:
         character_move = tkfinder.get_move(character, move_list[0])
-        result = embed.move_embed(character, character_move)
+        result["embed"] = embed.move_embed(character, character_move)
     elif len(move_list) > 1:
-        result = embed.move_list_embed(character, move_list, move_type)
+        result["embed"] = embed.move_list_embed(character, move_list, move_type)
     return result
+
+def move_components(character_move):
+
+    if "Tags" in character_move:
+        tags = character_move["Tags"]
+        components = []
+        for tag in tags:
+            components.append(Button(label=tag, disabled=True, style=1))
+        return components
 
 
 def display_moves_by_input(character, original_move):
     character_move = tkfinder.get_move(character, original_move)
     character_name = character["name"]
+    result = {}
     if character_move is not None:
-        result = embed.move_embed(character, character_move)
+        result["embed"] = embed.move_embed(character, character_move)
+
     else:
         generic_move = tkfinder.get_generic_move(original_move)
         if generic_move is not None:
             generic_character = tkfinder.get_character_detail("generic")
-            result = embed.move_embed(generic_character, generic_move)
+            result["embed"] = embed.move_embed(generic_character, generic_move)
         else:
             similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-            result = embed.similar_moves_embed(similar_moves, character_name)
+            result["embed"] = embed.similar_moves_embed(similar_moves, character_name)
+    components = move_components(character_move)
+    if components is not None:
+        result["components"] = ActionRow(move_components(character_move))
 
     return result

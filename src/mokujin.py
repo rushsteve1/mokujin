@@ -11,12 +11,16 @@ from discord.ext import commands
 from src import tkfinder, util
 from src.resources import embed, const
 from github import Github
+from discord_components import DiscordComponents
+
+
 
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
 prefix = '§'
 description = 'The premier Tekken 7 Frame bot, made by Baikonur#4927, continued by Tib#1303'
 bot = commands.Bot(command_prefix=prefix, description=description)
+buttons = DiscordComponents(bot)
 
 # Set logger to log errors
 logger = logging.getLogger(__name__)
@@ -65,7 +69,7 @@ async def on_reaction_add(reaction, user):
             move = move_list[item_index]
 
             result = util.display_moves_by_input(character, move)
-            await reaction.message.channel.send(embed=result, delete_after=delete_after)
+            await reaction.message.channel.send(embed=result["embed"], delete_after=delete_after)
             await reaction.remove(bot.user)
 
 
@@ -97,9 +101,9 @@ async def on_message(message):
         elif message.content == '!last-updates':
             try:
                 messages = util.get_latest_commits_messages(gh, 5)
-                result = embed.success_embed(messages)
+                result = {"embed": embed.success_embed(messages)}
             except Exception as e:
-                result = embed.error_embed(e)
+                result = {"embed": embed.error_embed(e)}
             await channel.send(embed=result)
 
         elif message.content.startswith("!auto-delete"):
@@ -108,13 +112,13 @@ async def on_message(message):
                 duration = message.content.split(' ', 1)[1]
                 if duration.isdigit() or duration == "-1":
                     config.save_auto_delete_duration(channel.id, duration)
-                    result = embed.success_embed("Saved")
+                    result = {"embed": embed.success_embed("Saved")}
                 else:
-                    result = embed.error_embed("Duration needs to be a number in seconds")
+                    result = {"embed": embed.error_embed("Duration needs to be a number in seconds")}
             else:
-                result = embed.error_embed("You need the permission <manage_messages> to do that")
+                result = {"embed": embed.error_embed("You need the permission <manage_messages> to do that")}
 
-            await channel.send(embed=result)
+            await channel.send(embed=result["embed"])
 
         elif message.content.startswith('!clear-messages'):
             # delete x of the bot last messages
@@ -140,11 +144,11 @@ async def on_message(message):
             try:
                 feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
                 await feedback_channel.send(feedback_message)
-                result = embed.success_embed("Feedback sent")
+                result = {"embed": embed.success_embed("Feedback sent")}
             except Exception as e:
-                result = embed.error_embed("Feedback couldn't be sent caused by: " + e)
+                result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
 
-            await channel.send(embed=result)
+            await channel.send(embed=result["embed"])
 
         elif message.content.startswith('!') and len(message.content[1:].split(' ', 1)) > 1:
 
@@ -165,10 +169,13 @@ async def on_message(message):
                 else:
                     result = util.display_moves_by_input(character, original_move)
             else:
-                result = embed.error_embed(f'Character {original_name} does not exist.')
+                result = {"embed": embed.error_embed(f'Character {original_name} does not exist.')}
                 delete_after = 5
+            if "components" in result:
+                bot_message = await channel.send(embed=result["embed"], delete_after=delete_after,components=result["components"])
+            else:
+                bot_message = await channel.send(embed=result["embed"], delete_after=delete_after)
 
-            bot_message = await channel.send(embed=result, delete_after=delete_after)
             if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
                 content = bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
                 movelist = util.get_moves_from_content(content)
@@ -176,6 +183,7 @@ async def on_message(message):
                     await bot_message.add_reaction(const.EMOJI_LIST[i])
 
         await bot.process_commands(message)
+
     except Exception as e:
         time_now = datetime.datetime.now().strftime("%Y-%m-%d  %H:%M:%S")
         error_msg = f'{time_now} | Message: {message.content} from {message.author.name} in {message.channel.guild.name}.' \

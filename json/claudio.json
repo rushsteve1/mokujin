@@ -1135,12 +1135,12 @@
     {
         "Block frame": "0",
         "Command": "f+3",
-        "Counter hit frame": "Screw",
+        "Counter hit frame": "CH Launch",
         "Damage": "27",
         "Gif": "https://gfycat.com/BackVastKodiakbear.gif",
         "Hit frame": "+15k",
         "Hit level": "h (TJ)",
-        "Notes": "Homing,Screw",
+        "Tags" : ["Homing", "Screw"],
         "Recovery": "-26",
         "Start up frame": "18 js9~"
     },
