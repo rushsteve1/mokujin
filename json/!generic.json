@@ -8,7 +8,8 @@
         "Hit frame": "+6",
         "Hit level": "Sm(TC)",
         "Notes": "Generic.\nInput f to recover standing",
-        "Start up frame": "10s cs4~"
+        "Start up frame": "10s cs4~",
+        "Tags": []
     },
     {
         "Alias": [
@@ -22,7 +23,8 @@
         "Hit frame": "?",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "?"
+        "Start up frame": "?",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -33,7 +35,8 @@
         "Hit frame": "+7",
         "Hit level": "Sm(TC)",
         "Notes": "Generic",
-        "Start up frame": "11s cs4~"
+        "Start up frame": "11s cs4~",
+        "Tags": []
     },
     {
         "Alias": [
@@ -47,7 +50,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "19~29b? Needs checking"
+        "Start up frame": "19~29b? Needs checking",
+        "Tags": []
     },
     {
         "Block frame": "-17",
@@ -58,7 +62,8 @@
         "Hit frame": "-3",
         "Hit level": "l(TC)",
         "Notes": "Generic",
-        "Start up frame": "16s cs4~"
+        "Start up frame": "16s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -69,7 +74,8 @@
         "Hit frame": "-2",
         "Hit level": "l(TC)",
         "Notes": "Generic",
-        "Start up frame": "12s cs4~"
+        "Start up frame": "12s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-5",
@@ -80,7 +86,8 @@
         "Hit frame": "+6",
         "Hit level": "Sm(TC)",
         "Notes": "Generic.\nInput f to recover standing",
-        "Start up frame": "10s cs4~"
+        "Start up frame": "10s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -91,7 +98,8 @@
         "Hit frame": "+7",
         "Hit level": "Sm(TC)",
         "Notes": "Generic",
-        "Start up frame": "11s cs4~"
+        "Start up frame": "11s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-17",
@@ -102,7 +110,8 @@
         "Hit frame": "-3",
         "Hit level": "l(TC)",
         "Notes": "Generic",
-        "Start up frame": "16s cs4~"
+        "Start up frame": "16s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -113,7 +122,8 @@
         "Hit frame": "-2",
         "Hit level": "l(TC)",
         "Notes": "Generic",
-        "Start up frame": "12s cs4~"
+        "Start up frame": "12s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -124,7 +134,8 @@
         "Hit frame": "-1",
         "Hit level": "m(TJ)",
         "Notes": "Generic",
-        "Start up frame": "18 js9~"
+        "Start up frame": "18 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -135,7 +146,8 @@
         "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "15"
+        "Start up frame": "15",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -146,7 +158,8 @@
         "Hit frame": "-1",
         "Hit level": "m(TJ)",
         "Notes": "Generic",
-        "Start up frame": "18 js9~"
+        "Start up frame": "18 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -157,7 +170,8 @@
         "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "15"
+        "Start up frame": "15",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -168,7 +182,8 @@
         "Hit frame": "-1",
         "Hit level": "m(TJ)",
         "Notes": "Generic",
-        "Start up frame": "18 js9~"
+        "Start up frame": "18 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -179,7 +194,8 @@
         "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "15"
+        "Start up frame": "15",
+        "Tags": []
     },
     {
         "Block frame": "-5",
@@ -190,7 +206,8 @@
         "Hit frame": "+6",
         "Hit level": "Sm(TC)",
         "Notes": "Generic.\nInput f to recover standing",
-        "Start up frame": "10s cs1~"
+        "Start up frame": "10s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -201,7 +218,8 @@
         "Hit frame": "+7",
         "Hit level": "Sm(TC)",
         "Notes": "Generic",
-        "Start up frame": "11s cs1~"
+        "Start up frame": "11s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-17",
@@ -212,7 +230,8 @@
         "Hit frame": "-3",
         "Hit level": "l(TC)",
         "Notes": "Generic",
-        "Start up frame": "16s cs1~"
+        "Start up frame": "16s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-15",
@@ -223,7 +242,8 @@
         "Hit frame": "-4",
         "Hit level": "l(TC)",
         "Notes": "Generic",
-        "Start up frame": "12s cs1~"
+        "Start up frame": "12s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-8",
@@ -234,7 +254,8 @@
         "Hit frame": "+3",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "8"
+        "Start up frame": "8",
+        "Tags": []
     },
     {
         "Block frame": "-8",
@@ -245,7 +266,8 @@
         "Hit frame": "+3",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "8"
+        "Start up frame": "8",
+        "Tags": []
     },
     {
         "Block frame": "-8",
@@ -256,7 +278,8 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "10"
+        "Start up frame": "10",
+        "Tags": []
     },
     {
         "Block frame": "-8",
@@ -267,7 +290,8 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Generic",
-        "Start up frame": "10"
+        "Start up frame": "10",
+        "Tags": []
     },
     {
         "Block frame": "-2",
@@ -278,7 +302,8 @@
         "Hit frame": "+9",
         "Hit level": "Sm",
         "Notes": "Generic",
-        "Start up frame": "10s cs1~"
+        "Start up frame": "10s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-2",
@@ -289,7 +314,8 @@
         "Hit frame": "+9",
         "Hit level": "Sm",
         "Notes": "Generic",
-        "Start up frame": "10s cs1~"
+        "Start up frame": "10s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -300,7 +326,8 @@
         "Hit frame": "+3",
         "Hit level": "l",
         "Notes": "Generic",
-        "Start up frame": "10s cs1~"
+        "Start up frame": "10s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -311,7 +338,8 @@
         "Hit frame": "+3",
         "Hit level": "l",
         "Notes": "Generic",
-        "Start up frame": "10s cs1~"
+        "Start up frame": "10s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -322,7 +350,8 @@
         "Hit frame": "+5",
         "Hit level": "l",
         "Notes": "Generic.",
-        "Start up frame": "22"
+        "Start up frame": "22",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -333,7 +362,8 @@
         "Hit frame": "+4",
         "Hit level": "l",
         "Notes": "Generic.",
-        "Start up frame": "19 (19~21)? Needs checking"
+        "Start up frame": "19 (19~21)? Needs checking",
+        "Tags": []
     },
     {
         "Block frame": "-17",
@@ -344,7 +374,8 @@
         "Hit frame": "-3 (KND)",
         "Hit level": "l",
         "Notes": "Generic.\nHas Clean Hit property.",
-        "Start up frame": "19"
+        "Start up frame": "19",
+        "Tags": []
     },
     {
         "Block frame": "-20",
@@ -355,7 +386,8 @@
         "Hit frame": "+1s",
         "Hit level": "l",
         "Notes": "Generic.",
-        "Start up frame": "26"
+        "Start up frame": "26",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -366,7 +398,8 @@
         "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "Generic.",
-        "Start up frame": "22"
+        "Start up frame": "22",
+        "Tags": []
     },
     {
         "Block frame": "-14",
@@ -377,7 +410,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "Generic.",
-        "Start up frame": "18"
+        "Start up frame": "18",
+        "Tags": []
     },
     {
         "Block frame": "-14",
@@ -388,7 +422,8 @@
         "Hit frame": "-5 (KND)",
         "Hit level": "m",
         "Notes": "Generic.\nHas Clean Hit property.",
-        "Start up frame": "19"
+        "Start up frame": "19",
+        "Tags": []
     },
     {
         "Block frame": "-19",
@@ -399,7 +434,8 @@
         "Hit frame": "-10 (KND)",
         "Hit level": "m",
         "Notes": "Generic.\nHas Clean Hit property.",
-        "Start up frame": "26"
+        "Start up frame": "26",
+        "Tags": []
     },
     {
         "Alias": [
@@ -415,7 +451,8 @@
         "Hit frame": "+2",
         "Hit level": "?",
         "Notes": "Generic.",
-        "Start up frame": "?"
+        "Start up frame": "?",
+        "Tags": []
     },
     {
         "Alias": [
@@ -429,6 +466,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "Generic.",
-        "Start up frame": "19 (19~24)? Needs checking"
+        "Start up frame": "19 (19~24)? Needs checking",
+        "Tags": []
     }
 ]

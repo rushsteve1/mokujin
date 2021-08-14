@@ -7,8 +7,11 @@
         "Gif": "https://gfycat.com/yearlywarpedgopher.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Rage art",
-        "Start up frame": "20 pc8~17"
+        "Notes": "",
+        "Start up frame": "20 pc8~17",
+        "Tags": [
+            "Rage Art"
+        ]
     },
     {
         "Block frame": "-9(wl~3)",
@@ -18,8 +21,11 @@
         "Gif": "https://gfycat.com/welloffdigitalelkhound.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC),m",
-        "Notes": "Rage drive",
-        "Start up frame": "24 8~21"
+        "Notes": "",
+        "Start up frame": "24 8~21",
+        "Tags": [
+            "Rage Drive"
+        ]
     },
     {
         "Block frame": "-14~-13s",
@@ -30,7 +36,8 @@
         "Hit frame": "KND",
         "Hit level": "h,m",
         "Notes": "",
-        "Start up frame": "13"
+        "Start up frame": "13",
+        "Tags": []
     },
     {
         "Block frame": "-2",
@@ -40,8 +47,11 @@
         "Gif": "https://gfycat.com/PassionateFrayedGuppy.gif",
         "Hit frame": "KND",
         "Hit level": "h,h",
-        "Notes": "Screw",
-        "Start up frame": "13"
+        "Notes": "",
+        "Start up frame": "13",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -52,7 +62,8 @@
         "Hit frame": "+3",
         "Hit level": "h,m",
         "Notes": "",
-        "Start up frame": "11"
+        "Start up frame": "11",
+        "Tags": []
     },
     {
         "Block frame": "-12~-11",
@@ -63,7 +74,8 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "h,m,m",
         "Notes": "",
-        "Start up frame": "11s"
+        "Start up frame": "11s",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -74,7 +86,8 @@
         "Hit frame": "KND",
         "Hit level": "mm",
         "Notes": "",
-        "Start up frame": "15~16,45~46"
+        "Start up frame": "15~16,45~46",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -85,7 +98,8 @@
         "Hit frame": "KND",
         "Hit level": "! (TJ)",
         "Notes": "",
-        "Start up frame": "94~100 js38~"
+        "Start up frame": "94~100 js38~",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -96,7 +110,8 @@
         "Hit frame": "KND",
         "Hit level": "! (TJ)",
         "Notes": "",
-        "Start up frame": "124~130 js1~"
+        "Start up frame": "124~130 js1~",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -107,7 +122,8 @@
         "Hit frame": "KND",
         "Hit level": "! (TJ)",
         "Notes": "",
-        "Start up frame": "154~160 js1~"
+        "Start up frame": "154~160 js1~",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -118,7 +134,8 @@
         "Hit frame": "KND",
         "Hit level": "! (TJ)",
         "Notes": "",
-        "Start up frame": "184~190 js1~"
+        "Start up frame": "184~190 js1~",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -129,7 +146,8 @@
         "Hit frame": "KND",
         "Hit level": "! (TJ)",
         "Notes": "",
-        "Start up frame": "214~220 js1~"
+        "Start up frame": "214~220 js1~",
+        "Tags": []
     },
     {
         "Block frame": "-6~-5",
@@ -140,7 +158,8 @@
         "Hit frame": "+5~+6",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-14s",
@@ -151,7 +170,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "+6~+7",
@@ -162,7 +182,8 @@
         "Hit frame": "KND",
         "Hit level": "m,h,m",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -173,7 +194,8 @@
         "Hit frame": "KND",
         "Hit level": "m,h,m",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-11s",
@@ -184,7 +206,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "CS",
@@ -195,7 +218,8 @@
         "Hit frame": "CS",
         "Hit level": "h!",
         "Notes": "",
-        "Start up frame": "65(66~)"
+        "Start up frame": "65(66~)",
+        "Tags": []
     },
     {
         "Block frame": "+8~+9",
@@ -206,9 +230,9 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15~16 (66~)"
+        "Start up frame": "15~16 (66~)",
+        "Tags": []
     },
-
     {
         "Alias": [
             "Toe Kick"
@@ -221,7 +245,8 @@
         "Hit frame": "-3s",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "13"
+        "Start up frame": "13",
+        "Tags": []
     },
     {
         "Block frame": "-19~-18",
@@ -231,8 +256,11 @@
         "Gif": "https://gfycat.com/UntriedTightHalicore.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall bounce",
-        "Start up frame": "15~16"
+        "Notes": "",
+        "Start up frame": "15~16",
+        "Tags": [
+            "Wall Bounce"
+        ]
     },
     {
         "Alias": [
@@ -246,7 +274,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TC)",
         "Notes": "",
-        "Start up frame": "21~26"
+        "Start up frame": "21~26",
+        "Tags": []
     },
     {
         "Block frame": "-10~-9",
@@ -256,8 +285,11 @@
         "Gif": "https://gfycat.com/ScratchyInbornDragon.gif",
         "Hit frame": "+9~+10kg",
         "Hit level": "m,m",
-        "Notes": "Screw",
-        "Start up frame": "14~15"
+        "Notes": "",
+        "Start up frame": "14~15",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-12",
@@ -268,7 +300,8 @@
         "Hit frame": "-1a",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-10",
@@ -279,7 +312,8 @@
         "Hit frame": "-2(KND)",
         "Hit level": "m,h,h",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-18~-17",
@@ -290,7 +324,8 @@
         "Hit frame": "KND",
         "Hit level": "m,h,h,hh",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "?",
@@ -301,7 +336,8 @@
         "Hit frame": "?",
         "Hit level": "m,h,h",
         "Notes": "",
-        "Start up frame": "14"
+        "Start up frame": "14",
+        "Tags": []
     },
     {
         "Block frame": "?",
@@ -312,7 +348,8 @@
         "Hit frame": "?",
         "Hit level": "m,h,h",
         "Notes": "",
-        "Start up frame": "14"
+        "Start up frame": "14",
+        "Tags": []
     },
     {
         "Block frame": "-6~-5",
@@ -323,7 +360,8 @@
         "Hit frame": "+5~+6",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "15~16s"
+        "Start up frame": "15~16s",
+        "Tags": []
     },
     {
         "Block frame": "-8~-7",
@@ -334,7 +372,8 @@
         "Hit frame": "+3~+4",
         "Hit level": "m,m,m",
         "Notes": "",
-        "Start up frame": "15~16s"
+        "Start up frame": "15~16s",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -344,8 +383,11 @@
         "Gif": "https://gfycat.com/MeaslyRegalDutchsmoushond.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,m,h",
-        "Notes": "Screw",
-        "Start up frame": "15~16"
+        "Notes": "",
+        "Start up frame": "15~16",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-2~-1",
@@ -356,7 +398,8 @@
         "Hit frame": "+9~+10",
         "Hit level": "m,m,m,m",
         "Notes": "",
-        "Start up frame": "15~16s"
+        "Start up frame": "15~16s",
+        "Tags": []
     },
     {
         "Block frame": "-11~-9",
@@ -367,7 +410,8 @@
         "Hit frame": "0~+2",
         "Hit level": "m,m,m,l (TC)",
         "Notes": "",
-        "Start up frame": "s cs10~"
+        "Start up frame": "s cs10~",
+        "Tags": []
     },
     {
         "Block frame": "-7~-6",
@@ -377,8 +421,11 @@
         "Gif": "https://gfycat.com/RichFarIrishterrier.gif",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Screw",
-        "Start up frame": "16"
+        "Notes": "",
+        "Start up frame": "16",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-19",
@@ -389,7 +436,8 @@
         "Hit frame": "KND",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "17"
+        "Start up frame": "17",
+        "Tags": []
     },
     {
         "Block frame": "-70",
@@ -400,7 +448,8 @@
         "Hit frame": "KND",
         "Hit level": "ll",
         "Notes": "",
-        "Start up frame": "18,30"
+        "Start up frame": "18,30",
+        "Tags": []
     },
     {
         "Block frame": "-82",
@@ -411,7 +460,8 @@
         "Hit frame": "-63",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "18"
+        "Start up frame": "18",
+        "Tags": []
     },
     {
         "Block frame": "-23",
@@ -422,7 +472,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "13"
+        "Start up frame": "13",
+        "Tags": []
     },
     {
         "Block frame": "Throw",
@@ -433,7 +484,8 @@
         "Hit frame": "Throw",
         "Hit level": "h(Throw)",
         "Notes": "",
-        "Start up frame": "23 js15~"
+        "Start up frame": "23 js15~",
+        "Tags": []
     },
     {
         "Block frame": "-18~-17",
@@ -444,7 +496,8 @@
         "Hit frame": "Launch",
         "Hit level": "m (TC)",
         "Notes": "",
-        "Start up frame": "27~28 cs6~26"
+        "Start up frame": "27~28 cs6~26",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -455,7 +508,8 @@
         "Hit frame": "-1",
         "Hit level": "l,l",
         "Notes": "",
-        "Start up frame": "12s"
+        "Start up frame": "12s",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -466,7 +520,8 @@
         "Hit frame": "-1",
         "Hit level": "l,l,l",
         "Notes": "",
-        "Start up frame": "12s"
+        "Start up frame": "12s",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -477,7 +532,8 @@
         "Hit frame": "KND",
         "Hit level": "l,l,l,m",
         "Notes": "",
-        "Start up frame": "12s"
+        "Start up frame": "12s",
+        "Tags": []
     },
     {
         "Block frame": "-29~-28",
@@ -488,7 +544,8 @@
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "36~37 cs6~"
+        "Start up frame": "36~37 cs6~",
+        "Tags": []
     },
     {
         "Block frame": "-16",
@@ -499,7 +556,8 @@
         "Hit frame": "-5",
         "Hit level": "l,l(CSK)",
         "Notes": "",
-        "Start up frame": "21"
+        "Start up frame": "21",
+        "Tags": []
     },
     {
         "Block frame": "-19",
@@ -510,7 +568,8 @@
         "Hit frame": "-8",
         "Hit level": "l,l,l(CSK)",
         "Notes": "",
-        "Start up frame": "21"
+        "Start up frame": "21",
+        "Tags": []
     },
     {
         "Block frame": "-16",
@@ -521,7 +580,8 @@
         "Hit frame": "-5",
         "Hit level": "l,l,l,l(CSK)",
         "Notes": "",
-        "Start up frame": "21"
+        "Start up frame": "21",
+        "Tags": []
     },
     {
         "Block frame": "-19",
@@ -532,7 +592,8 @@
         "Hit frame": "-8",
         "Hit level": "l,l,l,l,l(CSK)",
         "Notes": "",
-        "Start up frame": "21"
+        "Start up frame": "21",
+        "Tags": []
     },
     {
         "Block frame": "-16",
@@ -543,7 +604,8 @@
         "Hit frame": "-5",
         "Hit level": "l,l,l,l,l,l(CSK)",
         "Notes": "",
-        "Start up frame": "21"
+        "Start up frame": "21",
+        "Tags": []
     },
     {
         "Block frame": "+14~+15g",
@@ -554,7 +616,8 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "34~35"
+        "Start up frame": "34~35",
+        "Tags": []
     },
     {
         "Block frame": "-",
@@ -565,7 +628,8 @@
         "Hit frame": "Throw(KND)",
         "Hit level": "l(Throw)",
         "Notes": "",
-        "Start up frame": "34~35"
+        "Start up frame": "34~35",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -576,7 +640,8 @@
         "Hit frame": "CS",
         "Hit level": "hhhhh",
         "Notes": "",
-        "Start up frame": "20~23,31~37,40~43,50~56,61~62"
+        "Start up frame": "20~23,31~37,40~43,50~56,61~62",
+        "Tags": []
     },
     {
         "Block frame": "-7",
@@ -587,7 +652,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "35"
+        "Start up frame": "35",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -598,7 +664,8 @@
         "Hit frame": "+1",
         "Hit level": "m,h",
         "Notes": "",
-        "Start up frame": "16~17"
+        "Start up frame": "16~17",
+        "Tags": []
     },
     {
         "Block frame": "-9",
@@ -609,7 +676,8 @@
         "Hit frame": "KND",
         "Hit level": "m,h,h",
         "Notes": "",
-        "Start up frame": "16~17"
+        "Start up frame": "16~17",
+        "Tags": []
     },
     {
         "Block frame": "-8~-7",
@@ -620,7 +688,8 @@
         "Hit frame": "KND",
         "Hit level": "m,h,m",
         "Notes": "",
-        "Start up frame": "16~17"
+        "Start up frame": "16~17",
+        "Tags": []
     },
     {
         "Block frame": "-8~-6s",
@@ -631,7 +700,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16",
+        "Tags": []
     },
     {
         "Block frame": "-9~-7",
@@ -641,8 +711,13 @@
         "Gif": "https://gfycat.com/FemaleFlatLeafhopper.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Homing,Power crush,Screw",
-        "Start up frame": "20~22 pc8~19"
+        "Notes": "",
+        "Start up frame": "20~22 pc8~19",
+        "Tags": [
+            "Screw",
+            "Homing",
+            "Power Crush"
+        ]
     },
     {
         "Block frame": "-15~-13",
@@ -653,7 +728,8 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "19~21a"
+        "Start up frame": "19~21a",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -664,7 +740,8 @@
         "Hit frame": "KND",
         "Hit level": "( (Sky)!",
         "Notes": "",
-        "Start up frame": "32~34"
+        "Start up frame": "32~34",
+        "Tags": []
     },
     {
         "Alias": [
@@ -680,7 +757,8 @@
         "Hit frame": "+7~+9s",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "24~26 js9~"
+        "Start up frame": "24~26 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-6~-5",
@@ -691,7 +769,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15~16 (16~)"
+        "Start up frame": "15~16 (16~)",
+        "Tags": []
     },
     {
         "Block frame": "-16~-15",
@@ -702,7 +781,8 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "18~19 (19~)"
+        "Start up frame": "18~19 (19~)",
+        "Tags": []
     },
     {
         "Block frame": "-15",
@@ -713,7 +793,8 @@
         "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "34(35~)"
+        "Start up frame": "34(35~)",
+        "Tags": []
     },
     {
         "Block frame": "+4~+5",
@@ -724,7 +805,8 @@
         "Hit frame": "+9",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "26~27 (27~)"
+        "Start up frame": "26~27 (27~)",
+        "Tags": []
     },
     {
         "Block frame": "-14~-10",
@@ -734,8 +816,11 @@
         "Gif": "https://gfycat.com/MealyYellowKillerwhale.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power crush",
-        "Start up frame": "16~20 (17~)"
+        "Notes": "",
+        "Start up frame": "16~20 (17~)",
+        "Tags": [
+            "Power Crush"
+        ]
     },
     {
         "Block frame": "-15~-14",
@@ -746,7 +831,8 @@
         "Hit frame": "CS",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15~16 (16~)"
+        "Start up frame": "15~16 (16~)",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -757,7 +843,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "15~16 (16~)s"
+        "Start up frame": "15~16 (16~)s",
+        "Tags": []
     },
     {
         "Block frame": "-19~-18",
@@ -768,7 +855,8 @@
         "Hit frame": "KND",
         "Hit level": "m,l (TC)",
         "Notes": "",
-        "Start up frame": "s cs10~"
+        "Start up frame": "s cs10~",
+        "Tags": []
     },
     {
         "Block frame": "-82~-73",
@@ -779,7 +867,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "also exist: f,F+3+4 (Second part)",
-        "Start up frame": "21~30 (22~) js20~"
+        "Start up frame": "21~30 (22~) js20~",
+        "Tags": []
     },
     {
         "Block frame": "-110~-101",
@@ -790,9 +879,14 @@
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "31~40 (32~) js1~"
+        "Start up frame": "31~40 (32~) js1~",
+        "Tags": []
     },
-    {   "Alias": ["debug","debugger"],
+    {
+        "Alias": [
+            "debug",
+            "debugger"
+        ],
         "Block frame": "-37~-36",
         "Command": "b,d/b,d,d/f+1",
         "Counter hit frame": "KND",
@@ -800,8 +894,11 @@
         "Gif": "https://gfycat.com/DismalOrneryHorseshoebat.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
-        "Notes": "Homing",
-        "Start up frame": "24~25s (25?~) cs6~"
+        "Notes": "",
+        "Start up frame": "24~25s (25?~) cs6~",
+        "Tags": [
+            "Homing"
+        ]
     },
     {
         "Block frame": "-11",
@@ -811,8 +908,11 @@
         "Gif": "https://gfycat.com/BleakJauntyGerbil.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall bounce",
-        "Start up frame": "22s(23?~)"
+        "Notes": "",
+        "Start up frame": "22s(23?~)",
+        "Tags": [
+            "Wall Bounce"
+        ]
     },
     {
         "Block frame": "-",
@@ -823,7 +923,8 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "",
-        "Start up frame": "22(23?~)"
+        "Start up frame": "22(23?~)",
+        "Tags": []
     },
     {
         "Block frame": "+21g",
@@ -834,7 +935,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "check hcf+1 (two spins)",
-        "Start up frame": "17(43~)"
+        "Start up frame": "17(43~)",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -845,7 +947,8 @@
         "Hit frame": "KND",
         "Hit level": "!",
         "Notes": "",
-        "Start up frame": "17(68~)"
+        "Start up frame": "17(68~)",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -856,7 +959,8 @@
         "Hit frame": "KND",
         "Hit level": "!",
         "Notes": "",
-        "Start up frame": "17(93~)"
+        "Start up frame": "17(93~)",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -867,7 +971,8 @@
         "Hit frame": "KND",
         "Hit level": "!",
         "Notes": "",
-        "Start up frame": "17(118~)"
+        "Start up frame": "17(118~)",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -878,7 +983,8 @@
         "Hit frame": "KND",
         "Hit level": "!",
         "Notes": "",
-        "Start up frame": "17(143~)"
+        "Start up frame": "17(143~)",
+        "Tags": []
     },
     {
         "Block frame": "Launch(JG?)",
@@ -889,7 +995,8 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "!",
         "Notes": "",
-        "Start up frame": "2~23"
+        "Start up frame": "2~23",
+        "Tags": []
     },
     {
         "Block frame": "-17~-14",
@@ -900,7 +1007,8 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "30~33 (41~)"
+        "Start up frame": "30~33 (41~)",
+        "Tags": []
     },
     {
         "Alias": [
@@ -915,7 +1023,8 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "20~23 (21?~)"
+        "Start up frame": "20~23 (21?~)",
+        "Tags": []
     },
     {
         "Block frame": "+7",
@@ -926,7 +1035,8 @@
         "Hit frame": "+10",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "25(28~)"
+        "Start up frame": "25(28~)",
+        "Tags": []
     },
     {
         "Block frame": "-14s",
@@ -937,7 +1047,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-7~-6",
@@ -947,8 +1058,11 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Screw",
-        "Start up frame": "16"
+        "Notes": "",
+        "Start up frame": "16",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-15~-14",
@@ -959,7 +1073,8 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "-16~-15",
@@ -970,7 +1085,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "-23~-22",
@@ -981,7 +1097,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m,l?",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "-6~-5",
@@ -992,7 +1109,8 @@
         "Hit frame": "+5~+6",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "17~18s"
+        "Start up frame": "17~18s",
+        "Tags": []
     },
     {
         "Block frame": "-8~-7",
@@ -1003,7 +1121,8 @@
         "Hit frame": "+3~+4",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "17~18s"
+        "Start up frame": "17~18s",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -1013,8 +1132,11 @@
         "Gif": "https://gfycat.com/tintedphysicalbanteng.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,h",
-        "Notes": "Screw",
-        "Start up frame": "17~18"
+        "Notes": "",
+        "Start up frame": "17~18",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-2~-1",
@@ -1025,7 +1147,8 @@
         "Hit frame": "+9~+10 (Launch (JG?)",
         "Hit level": "m,m,m",
         "Notes": "",
-        "Start up frame": "17~18s"
+        "Start up frame": "17~18s",
+        "Tags": []
     },
     {
         "Block frame": "-11~-9",
@@ -1036,7 +1159,8 @@
         "Hit frame": "0~+2",
         "Hit level": "m,m,l (TC)",
         "Notes": "",
-        "Start up frame": "s cs10~"
+        "Start up frame": "s cs10~",
+        "Tags": []
     },
     {
         "Block frame": "-2~0",
@@ -1047,7 +1171,8 @@
         "Hit frame": "+7~+9",
         "Hit level": "l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "s cs1~"
+        "Start up frame": "s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-12~-11",
@@ -1058,7 +1183,8 @@
         "Hit frame": "-1~0",
         "Hit level": "l (TC),l (TC),m",
         "Notes": "",
-        "Start up frame": " 1~s"
+        "Start up frame": " 1~s",
+        "Tags": []
     },
     {
         "Block frame": "-8~-7",
@@ -1069,7 +1195,8 @@
         "Hit frame": "+3~+4",
         "Hit level": "l (TC),l (TC),m,m",
         "Notes": "",
-        "Start up frame": " 1~s"
+        "Start up frame": " 1~s",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -1079,8 +1206,11 @@
         "Gif": "https://gfycat.com/heartypinkdanishswedishfarmdog.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC),l (TC),m,m,h",
-        "Notes": "Screw",
-        "Start up frame": " 1~"
+        "Notes": "",
+        "Start up frame": " 1~",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-2~-1",
@@ -1091,7 +1221,8 @@
         "Hit frame": "+9~+10",
         "Hit level": "l (TC),l (TC),m,m,m",
         "Notes": "",
-        "Start up frame": " 1~s"
+        "Start up frame": " 1~s",
+        "Tags": []
     },
     {
         "Block frame": "-11~-9",
@@ -1102,7 +1233,8 @@
         "Hit frame": "0~+2",
         "Hit level": "l (TC),l (TC),m,m,l (TC)",
         "Notes": "",
-        "Start up frame": "s cs10~"
+        "Start up frame": "s cs10~",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -1113,7 +1245,8 @@
         "Hit frame": "KND",
         "Hit level": "l (TC),m",
         "Notes": "",
-        "Start up frame": " 10~s"
+        "Start up frame": " 10~s",
+        "Tags": []
     },
     {
         "Block frame": "-21",
@@ -1124,7 +1257,8 @@
         "Hit frame": "-11s",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "25"
+        "Start up frame": "25",
+        "Tags": []
     },
     {
         "Block frame": "-21",
@@ -1135,7 +1269,8 @@
         "Hit frame": "-11s",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "25"
+        "Start up frame": "25",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -1146,7 +1281,8 @@
         "Hit frame": "CS",
         "Hit level": "m,m,m",
         "Notes": "",
-        "Start up frame": "25"
+        "Start up frame": "25",
+        "Tags": []
     },
     {
         "Block frame": "+21~+22",
@@ -1157,7 +1293,8 @@
         "Hit frame": "+13~+14b",
         "Hit level": "m,m,m,h",
         "Notes": "",
-        "Start up frame": "25"
+        "Start up frame": "25",
+        "Tags": []
     },
     {
         "Block frame": "-13~-12",
@@ -1168,7 +1305,8 @@
         "Hit frame": "-2~-1",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "18~19s"
+        "Start up frame": "18~19s",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -1179,7 +1317,8 @@
         "Hit frame": "+7~+8",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "18~19s"
+        "Start up frame": "18~19s",
+        "Tags": []
     },
     {
         "Block frame": "-8~-7",
@@ -1190,7 +1329,8 @@
         "Hit frame": "+3~+4 (Launch (JG?)",
         "Hit level": "m,m,m",
         "Notes": "",
-        "Start up frame": "18~19s"
+        "Start up frame": "18~19s",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -1200,8 +1340,11 @@
         "Gif": "https://gfycat.com/DevotedBabyishIguanodon.gif",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Screw",
-        "Start up frame": "18~19"
+        "Notes": "",
+        "Start up frame": "18~19",
+        "Tags": [
+            "Screw"
+        ]
     },
     {
         "Block frame": "-11~-9",
@@ -1212,7 +1355,8 @@
         "Hit frame": "0~+2",
         "Hit level": "m,l (TC)",
         "Notes": "",
-        "Start up frame": "s cs10~"
+        "Start up frame": "s cs10~",
+        "Tags": []
     },
     {
         "Block frame": "-18~-17",
@@ -1223,7 +1367,8 @@
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "24~25s cs1~"
+        "Start up frame": "24~25s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-18~-16",
@@ -1234,7 +1379,8 @@
         "Hit frame": "Launch",
         "Hit level": "l (TC),m",
         "Notes": "",
-        "Start up frame": "24~25 1~"
+        "Start up frame": "24~25 1~",
+        "Tags": []
     },
     {
         "Block frame": "-2",
@@ -1245,7 +1391,8 @@
         "Hit frame": "+9",
         "Hit level": "l,l",
         "Notes": "",
-        "Start up frame": "12 1~s"
+        "Start up frame": "12 1~s",
+        "Tags": []
     },
     {
         "Block frame": "-5~-4",
@@ -1256,7 +1403,8 @@
         "Hit frame": "+9~+10",
         "Hit level": "l,l,l",
         "Notes": "",
-        "Start up frame": "12 1~s"
+        "Start up frame": "12 1~s",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -1267,7 +1415,8 @@
         "Hit frame": "KND",
         "Hit level": "l,l,l,m",
         "Notes": "",
-        "Start up frame": "12 1~s"
+        "Start up frame": "12 1~s",
+        "Tags": []
     },
     {
         "Alias": [
@@ -1282,7 +1431,8 @@
         "Hit frame": "-",
         "Hit level": "(SIT)",
         "Notes": "",
-        "Start up frame": "a"
+        "Start up frame": "a",
+        "Tags": []
     },
     {
         "Block frame": "+13~+18s",
@@ -1293,7 +1443,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ),(SIT)",
         "Notes": "",
-        "Start up frame": "34~39 js8~"
+        "Start up frame": "34~39 js8~",
+        "Tags": []
     },
     {
         "Block frame": "+13~+18s",
@@ -1304,7 +1455,8 @@
         "Hit frame": "KND",
         "Hit level": "(Special),m,(SIT)",
         "Notes": "",
-        "Start up frame": "54~59 (70~) js1~"
+        "Start up frame": "54~59 (70~) js1~",
+        "Tags": []
     },
     {
         "Block frame": "+13~+18s",
@@ -1315,7 +1467,8 @@
         "Hit frame": "KND",
         "Hit level": "m,m,(SIT)",
         "Notes": "",
-        "Start up frame": "54~59"
+        "Start up frame": "54~59",
+        "Tags": []
     },
     {
         "Block frame": "+14~+17",
@@ -1326,7 +1479,8 @@
         "Hit frame": "KND",
         "Hit level": "m,(SIT)",
         "Notes": "",
-        "Start up frame": "28~31 ar1~"
+        "Start up frame": "28~31 ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-44~-43",
@@ -1337,7 +1491,8 @@
         "Hit frame": "CS",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "24~25s cs1~ar1~"
+        "Start up frame": "24~25s cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-48~46",
@@ -1348,7 +1503,8 @@
         "Hit frame": "-37~-35",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "19~21 cs1~ar1~"
+        "Start up frame": "19~21 cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-47~-45",
@@ -1359,7 +1515,8 @@
         "Hit frame": "-36~-34",
         "Hit level": "l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "cs1~ar1~"
+        "Start up frame": "cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-43~-41",
@@ -1370,7 +1527,8 @@
         "Hit frame": "-32~-30",
         "Hit level": "l (TC),l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "cs1~ar1~"
+        "Start up frame": "cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-47~-45",
@@ -1381,7 +1539,8 @@
         "Hit frame": "-36~-34",
         "Hit level": "l (TC),l (TC),l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "cs1~ar1~"
+        "Start up frame": "cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-45~-43",
@@ -1392,7 +1551,8 @@
         "Hit frame": "-34~-32",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "19 cs1~ar1~"
+        "Start up frame": "19 cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-43~-41",
@@ -1403,7 +1563,8 @@
         "Hit frame": "-32~-30",
         "Hit level": "l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "cs1~ar1~"
+        "Start up frame": "cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-47~-45",
@@ -1414,7 +1575,8 @@
         "Hit frame": "-36~-34",
         "Hit level": "l (TC),l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "cs1~ar1~"
+        "Start up frame": "cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-43~-41",
@@ -1425,7 +1587,8 @@
         "Hit frame": "-32~-30",
         "Hit level": "l (TC),l (TC),l (TC),l (TC)",
         "Notes": "",
-        "Start up frame": "cs1~ar1~"
+        "Start up frame": "cs1~ar1~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -1436,7 +1599,8 @@
         "Hit frame": "-1",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "20s cs4~"
+        "Start up frame": "20s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-9",
@@ -1447,7 +1611,8 @@
         "Hit frame": "+2",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "16s cs4~"
+        "Start up frame": "16s cs4~",
+        "Tags": []
     },
     {
         "Block frame": "-24~-22",
@@ -1458,7 +1623,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "26~28 js9~"
+        "Start up frame": "26~28 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-24~-22",
@@ -1469,7 +1635,8 @@
         "Hit frame": "-13~-11",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "26~28 js9~"
+        "Start up frame": "26~28 js9~",
+        "Tags": []
     },
     {
         "Alias": [
@@ -1484,7 +1651,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "25 js9~"
+        "Start up frame": "25 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -1495,7 +1663,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "25 js9~"
+        "Start up frame": "25 js9~",
+        "Tags": []
     },
     {
         "Block frame": "-19~-17",
@@ -1506,7 +1675,8 @@
         "Hit frame": "-8~-6",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "15~17 js9~"
+        "Start up frame": "15~17 js9~",
+        "Tags": []
     },
     {
         "Alias": [
@@ -1521,7 +1691,8 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "25 js9~"
+        "Start up frame": "25 js9~",
+        "Tags": []
     },
     {
         "Alias": [
@@ -1537,7 +1708,8 @@
         "Hit frame": "+10~+12s",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "22~24a (32~) js9~"
+        "Start up frame": "22~24a (32~) js9~",
+        "Tags": []
     },
     {
         "Block frame": "-9",
@@ -1548,7 +1720,8 @@
         "Hit frame": "+2",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16",
+        "Tags": []
     },
     {
         "Block frame": "-6~-5",
@@ -1559,7 +1732,8 @@
         "Hit frame": "+5~+6",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "11~12"
+        "Start up frame": "11~12",
+        "Tags": []
     },
     {
         "Alias": [
@@ -1574,7 +1748,8 @@
         "Hit frame": "+7",
         "Hit level": "Sm(TC)",
         "Notes": "Generic",
-        "Start up frame": "11s cs1~"
+        "Start up frame": "11s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -1585,7 +1760,8 @@
         "Hit frame": "-1",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "20s cs1~"
+        "Start up frame": "20s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-9",
@@ -1596,7 +1772,8 @@
         "Hit frame": "+2",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "16s cs1~"
+        "Start up frame": "16s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -1607,7 +1784,8 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "18(19~)"
+        "Start up frame": "18(19~)",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -1618,7 +1796,8 @@
         "Hit frame": "+7",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "16(17~)"
+        "Start up frame": "16(17~)",
+        "Tags": []
     },
     {
         "Block frame": "0",
@@ -1628,8 +1807,11 @@
         "Gif": "https://gfycat.com/InsistentResponsibleAdeliepenguin.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "12"
+        "Notes": "",
+        "Start up frame": "12",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1639,8 +1821,11 @@
         "Gif": "https://gfycat.com/ScalyBeneficialAbyssiniancat.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "12"
+        "Notes": "",
+        "Start up frame": "12",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1650,8 +1835,11 @@
         "Gif": "https://gfycat.com/IcyFirstGadwall.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1661,8 +1849,11 @@
         "Gif": "https://gfycat.com/TameUglyAphid.gif",
         "Hit frame": "KND",
         "Hit level": "h throw,m",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "0",
@@ -1672,8 +1863,11 @@
         "Gif": "https://gfycat.com/InsistentResponsibleAdeliepenguin.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "15"
+        "Notes": "",
+        "Start up frame": "15",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1683,8 +1877,11 @@
         "Gif": "https://gfycat.com/ScalyBeneficialAbyssiniancat.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "15"
+        "Notes": "",
+        "Start up frame": "15",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-",
@@ -1694,8 +1891,11 @@
         "Gif": "https://gfycat.com/ConventionalNewGrasshopper.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "-"
+        "Notes": "",
+        "Start up frame": "-",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -1705,8 +1905,11 @@
         "Gif": "https://gfycat.com/CluelessPoliticalAlleycat.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -1716,8 +1919,11 @@
         "Gif": "https://gfycat.com/MildGrimGrayreefshark.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "12"
+        "Notes": "",
+        "Start up frame": "12",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -1727,8 +1933,11 @@
         "Gif": "https://gfycat.com/UniformFormalEchidna.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -1738,8 +1947,11 @@
         "Gif": "https://gfycat.com/DisfiguredFreshAmericansaddlebred.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -1749,8 +1961,11 @@
         "Gif": "https://gfycat.com/WelcomeDeadlyCurlew.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1760,8 +1975,11 @@
         "Gif": "https://gfycat.com/FakeHeartfeltAmericancrocodile.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "11"
+        "Notes": "",
+        "Start up frame": "11",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Alias": [
@@ -1774,8 +1992,11 @@
         "Gif": "https://gfycat.com/ForthrightSlightHapuku.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "?"
+        "Notes": "",
+        "Start up frame": "?",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Alias": [
@@ -1788,8 +2009,11 @@
         "Gif": "https://gfycat.com/RealMeaslyAfricanfisheagle.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "?"
+        "Notes": "",
+        "Start up frame": "?",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Alias": [
@@ -1805,8 +2029,11 @@
         "Gif": "https://gfycat.com/TightQuickLarva.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "?"
+        "Notes": "",
+        "Start up frame": "?",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Alias": [
@@ -1822,8 +2049,11 @@
         "Gif": "https://gfycat.com/GloomyMelodicAbalone.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "?"
+        "Notes": "",
+        "Start up frame": "?",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "0",
@@ -1833,8 +2063,11 @@
         "Gif": "https://gfycat.com/ScratchyImpressionableBorzoi.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Throw",
-        "Start up frame": "13"
+        "Notes": "",
+        "Start up frame": "13",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "0",
@@ -1844,8 +2077,11 @@
         "Gif": "https://gfycat.com/AllFearfulIcelandichorse.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Throw",
-        "Start up frame": "13"
+        "Notes": "",
+        "Start up frame": "13",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "0",
@@ -1855,8 +2091,11 @@
         "Gif": "https://gfycat.com/LeadingGargantuanFanworms.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Throw",
-        "Start up frame": "12"
+        "Notes": "",
+        "Start up frame": "12",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-2",
@@ -1867,7 +2106,8 @@
         "Hit frame": "+6",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "13"
+        "Start up frame": "13",
+        "Tags": []
     },
     {
         "Block frame": "+1",
@@ -1878,7 +2118,8 @@
         "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "11"
+        "Start up frame": "11",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -1889,7 +2130,8 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "18"
+        "Start up frame": "18",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -1900,7 +2142,8 @@
         "Hit frame": "+7",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16",
+        "Tags": []
     },
     {
         "Block frame": "-6~-5",
@@ -1911,7 +2154,8 @@
         "Hit frame": "+5~+6",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -1922,7 +2166,8 @@
         "Hit frame": "+5",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "10"
+        "Start up frame": "10",
+        "Tags": []
     },
     {
         "Block frame": "-7~-6",
@@ -1933,7 +2178,8 @@
         "Hit frame": "+7~+8",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -1944,7 +2190,8 @@
         "Hit frame": "+7",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "17"
+        "Start up frame": "17",
+        "Tags": []
     },
     {
         "Block frame": "-4~-3",
@@ -1955,7 +2202,8 @@
         "Hit frame": "+3~+4",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-14~-13",
@@ -1966,7 +2214,8 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15~16"
+        "Start up frame": "15~16",
+        "Tags": []
     },
     {
         "Block frame": "-9",
@@ -1977,7 +2226,8 @@
         "Hit frame": "+2",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16",
+        "Tags": []
     },
     {
         "Block frame": "-4",
@@ -1988,7 +2238,8 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "12"
+        "Start up frame": "12",
+        "Tags": []
     },
     {
         "Block frame": "-12",
@@ -1999,7 +2250,8 @@
         "Hit frame": "+2",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "12s"
+        "Start up frame": "12s",
+        "Tags": []
     },
     {
         "Block frame": "-18",
@@ -2010,7 +2262,8 @@
         "Hit frame": "+3s",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "22 cs6~"
+        "Start up frame": "22 cs6~",
+        "Tags": []
     },
     {
         "Block frame": "-20",
@@ -2021,7 +2274,8 @@
         "Hit frame": "-9",
         "Hit level": "l(CSK)",
         "Notes": "",
-        "Start up frame": "21"
+        "Start up frame": "21",
+        "Tags": []
     },
     {
         "Block frame": "-13",
@@ -2032,7 +2286,8 @@
         "Hit frame": "-2",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "16s cs6~"
+        "Start up frame": "16s cs6~",
+        "Tags": []
     },
     {
         "Block frame": "-11",
@@ -2043,7 +2298,8 @@
         "Hit frame": "+5~+6",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "20~21"
+        "Start up frame": "20~21",
+        "Tags": []
     },
     {
         "Block frame": "+5",
@@ -2054,7 +2310,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "19"
+        "Start up frame": "19",
+        "Tags": []
     },
     {
         "Block frame": "-9~-8",
@@ -2065,7 +2322,8 @@
         "Hit frame": "+2~+3",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16~17"
+        "Start up frame": "16~17",
+        "Tags": []
     },
     {
         "Block frame": "-15",
@@ -2076,7 +2334,8 @@
         "Hit frame": "-4",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16",
+        "Tags": []
     },
     {
         "Block frame": "KND",
@@ -2087,7 +2346,8 @@
         "Hit frame": "KND",
         "Hit level": "( (Sky)!",
         "Notes": "",
-        "Start up frame": "17"
+        "Start up frame": "17",
+        "Tags": []
     },
     {
         "Block frame": "-13~-11",
@@ -2098,7 +2358,8 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15~17"
+        "Start up frame": "15~17",
+        "Tags": []
     },
     {
         "Block frame": "-7~-6",
@@ -2109,7 +2370,8 @@
         "Hit frame": "+4~+5",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     },
     {
         "Block frame": "-8",
@@ -2120,7 +2382,8 @@
         "Hit frame": "+6",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "12s cs1~"
+        "Start up frame": "12s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "-8~-6",
@@ -2131,7 +2394,8 @@
         "Hit frame": "+3~+5",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "19~21s cs1~"
+        "Start up frame": "19~21s cs1~",
+        "Tags": []
     },
     {
         "Block frame": "+6~+8s",
@@ -2142,7 +2406,8 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "32~34 (41~)"
+        "Start up frame": "32~34 (41~)",
+        "Tags": []
     },
     {
         "Block frame": "+9~+11",
@@ -2153,7 +2418,8 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "17~19 (26~)"
+        "Start up frame": "17~19 (26~)",
+        "Tags": []
     },
     {
         "Block frame": "-",
@@ -2163,8 +2429,11 @@
         "Gif": "https://gfycat.com/BrokenSnoopyDrake.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "23"
+        "Notes": "",
+        "Start up frame": "23",
+        "Tags": [
+            "Throw"
+        ]
     },
     {
         "Block frame": "-7",
@@ -2175,6 +2444,7 @@
         "Hit frame": "KNB",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "14~15"
+        "Start up frame": "14~15",
+        "Tags": []
     }
 ]

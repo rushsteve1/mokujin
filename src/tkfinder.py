@@ -137,7 +137,8 @@ def get_by_move_type(character: dict, move_type: str) -> list:
 
     move_json = get_character_movelist(character)
 
-    moves = list(filter(lambda x: (move_type.lower() in x['Notes'].lower()), move_json))
+    print(move_type)
+    moves = list(filter(lambda x: (move_type in x["Tags"]), move_json))
 
     if moves:
         move_list = []
