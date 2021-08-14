@@ -7,7 +7,7 @@
         "Gif": "-",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Rage Art",
+        "Notes": "Rage art",
         "Start up frame": "20"
     },
     {
@@ -18,7 +18,7 @@
         "Gif": "-",
         "Hit frame": "Launch",
         "Hit level": "m (m,h,m,h) CFO",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "13 (14~)"
     },
     {
@@ -29,7 +29,7 @@
         "Gif": "-",
         "Hit frame": "KND",
         "Hit level": "l,m",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "20"
     },
     {
@@ -678,7 +678,7 @@
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F059.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power crush, Wall Bounce",
+        "Notes": "Power crush, Wall bounce",
         "Start up frame": "20"
     },
     {
@@ -1110,7 +1110,7 @@
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F084.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "14-15"
     },
     {
@@ -1374,7 +1374,7 @@
         "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flidia%2F017.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "h,m,m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "14-15"
     },
     {

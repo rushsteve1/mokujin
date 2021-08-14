@@ -40,7 +40,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ),(throw),h",
-        "Notes": "Rage Drive,Screw",
+        "Notes": "Rage drive,Screw",
         "Start up frame": "15~18 7~"
     },
     {
@@ -51,7 +51,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ),(throw),!",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "15~18 7~"
     },
     {
@@ -337,7 +337,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "-",
-        "Notes": "Wall Bounce,Cancel",
+        "Notes": "Wall bounce,Cancel",
         "Start up frame": ""
     },
     {
@@ -348,7 +348,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "40"
     },
     {
@@ -1255,7 +1255,7 @@
         "Gif": "https://gfycat.com/pepperyfaintbufflehead.gif",
         "Hit frame": "CS",
         "Hit level": "m",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "15~16 pc6~"
     },
     {
@@ -1608,7 +1608,7 @@
         "Gif": "https://gfycat.com/HandyAdventurousBernesemountaindog.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "40 (42)"
     },
     {
@@ -1652,7 +1652,7 @@
         "Gif": "https://gfycat.com/VapidZealousDogfish.gif",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "Wall Bounce,Sabaki (i1~5)",
+        "Notes": "Wall bounce,Sabaki (i1~5)",
         "Start up frame": "24,35s (26~) cs19~"
     },
     {

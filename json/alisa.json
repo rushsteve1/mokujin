@@ -11,7 +11,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h*6,(DES)",
-        "Notes": "Rage Art.\nTransition to DES only on block.\nAlt. inputs: WS b+1+2_DES b+1+2",
+        "Notes": "Rage art.\nTransition to DES only on block.\nAlt. inputs: WS b+1+2_DES b+1+2",
         "Start up frame": "13~43? pc8~"
     },
     {
@@ -22,7 +22,7 @@
         "Gif": "",
         "Hit frame": "SPD",
         "Hit level": "m (TJ)m",
-        "Notes": "Rage Drive,Screw",
+        "Notes": "Rage drive,Screw",
         "Start up frame": "16~17,36~37"
     },
     {
@@ -33,7 +33,7 @@
         "Gif": "",
         "Hit frame": "SPD",
         "Hit level": "m (TJ)m,(SBT)",
-        "Notes": "Rage Drive,Screw",
+        "Notes": "Rage drive,Screw",
         "Start up frame": "16~17 ,36~37"
     },
     {
@@ -44,7 +44,7 @@
         "Gif": "",
         "Hit frame": "SPD",
         "Hit level": "m (TJ)m,(DBT)",
-        "Notes": "Rage Drive,Screw",
+        "Notes": "Rage drive,Screw",
         "Start up frame": "16~17 ,36~37"
     },
     {
@@ -247,7 +247,7 @@
         "Gif": "https://gfycat.com/EasyInexperiencedHuia.gif",
         "Hit frame": "KND",
         "Hit level": "m,h (TJ),m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Recovery": "-30",
         "Start up frame": "js1~12"
     },
@@ -389,7 +389,7 @@
         "Gif": "https://gfycat.com/SecondarySmoggyAcouchi.gif",
         "Hit frame": "+8k",
         "Hit level": "m,(DES)",
-        "Notes": "Power Crush,Screw",
+        "Notes": "Power crush,Screw",
         "Recovery": "-34",
         "Start up frame": "19 pc8~"
     },
@@ -866,7 +866,7 @@
         "Gif": "https://gfycat.com/KeyPlainHerring.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Recovery": "-27",
         "Start up frame": "16~24 (16~) pc8~15"
     },
@@ -1633,7 +1633,7 @@
         "Gif": "https://gfycat.com/AgedCriminalBluefintuna.gif",
         "Hit frame": "KND",
         "Hit level": "(Special) (TJ),m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "20~21 (44~)"
     },
     {
@@ -1644,7 +1644,7 @@
         "Gif": "",
         "Hit frame": "+8k",
         "Hit level": "m,(DES)",
-        "Notes": "Power Crush,Screw",
+        "Notes": "Power crush,Screw",
         "Start up frame": "19 pc8~"
     },
     {

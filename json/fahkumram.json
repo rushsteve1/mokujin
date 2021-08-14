@@ -7,7 +7,7 @@
         "Gif": "-",
         "Hit frame": "KND (-3)",
         "Hit level": "m",
-        "Notes": "Rage Art",
+        "Notes": "Rage art",
         "Start up frame": "20"
     },
     {
@@ -18,7 +18,7 @@
         "Gif": "-",
         "Hit frame": "S!",
         "Hit level": "m,h,l",
-        "Notes": "Rage Drive,Screw",
+        "Notes": "Rage drive,Screw",
         "Start up frame": "13"
     },
     {
@@ -29,7 +29,7 @@
         "Gif": "-",
         "Hit frame": "S!",
         "Hit level": "h,l,h",
-        "Notes": "Rage Drive,Screw",
+        "Notes": "Rage drive,Screw",
         "Start up frame": "12"
     },
     {
@@ -40,7 +40,7 @@
         "Gif": "-",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "15"
     },
     {
@@ -1393,7 +1393,7 @@
         "Gif": "https://gfycat.com/politeharshemeraldtreeskink.gif",
         "Hit frame": "+10kg",
         "Hit level": "h",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "18"
     }
 ]

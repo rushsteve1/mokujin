@@ -7,7 +7,7 @@
         "Gif": "-",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Rage Art",
+        "Notes": "Rage art",
         "Start up frame": "13"
     },
     {
@@ -18,7 +18,7 @@
         "Gif": "-",
         "Hit frame": "Launch",
         "Hit level": "m,m",
-        "Notes": "Rage Drive ",
+        "Notes": "Rage drive ",
         "Start up frame": "15 (17~)"
     },
     {
@@ -354,7 +354,7 @@
         "Gif": "https://gfycat.com/RashBogusAntelope.gif",
         "Hit frame": "KND",
         "Hit level": "m(TJ)",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "19~20 js14~"
     },
     {
@@ -1007,7 +1007,7 @@
         "Gif": "https://gfycat.com/ClumsySpiffyAfricancivet.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "20"
     },
     {
@@ -1696,7 +1696,7 @@
         "Gif": "https://gfycat.com/LittleDentalIcelandgull.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "22"
     },
     {
@@ -1707,7 +1707,7 @@
         "Gif": "https://gfycat.com/CharmingDeficientHarvestmouse.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "20 pc8~"
     },
     {
@@ -2169,7 +2169,7 @@
         "Gif": "https://gfycat.com/offensivedefiantfruitfly.gif",
         "Hit frame": "KND (FDFA)",
         "Hit level": "m",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "20 pc?~"
     }
 ]

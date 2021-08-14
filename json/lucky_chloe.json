@@ -22,7 +22,7 @@
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "m,m,m",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "17,46,78~80"
     },
     {
@@ -33,7 +33,7 @@
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "m,m,m",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "15,46,78~80"
     },
     {
@@ -47,7 +47,7 @@
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "m,m,m",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "17,46,78~80b"
     },
     {
@@ -58,7 +58,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m,m,h",
-        "Notes": "Rage Drive.\nOnly on hit.\nHas Just Frame property",
+        "Notes": "Rage drive.\nOnly on hit.\nHas Just Frame property",
         "Start up frame": "17,46,78~80"
     },
     {
@@ -80,7 +80,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,m,m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "10"
     },
     {
@@ -179,7 +179,7 @@
         "Gif": "https://gfycat.com/HelpfulFewElkhound.gif",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "17"
     },
     {
@@ -245,7 +245,7 @@
         "Gif": "https://gfycat.com/DismalWhisperedHart.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "27~29"
     },
     {
@@ -1363,7 +1363,7 @@
         "Gif": "https://gfycat.com/HighlevelCrazyAnkole.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power Crush,Wall Bounce",
+        "Notes": "Power crush,Wall bounce",
         "Start up frame": "21 pc8~"
     },
     {

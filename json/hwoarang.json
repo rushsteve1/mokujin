@@ -11,7 +11,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,(LFF)",
-        "Notes": "Rage Art",
+        "Notes": "Rage art",
         "Start up frame": "20 pc8~17"
     },
     {
@@ -25,7 +25,7 @@
         "Gif": "",
         "Hit frame": "0~+1",
         "Hit level": "l,m,(LFF)",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "12,i28~29"
     },
     {
@@ -39,7 +39,7 @@
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "l,m,m(TJ),(RFF)",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "12,i28~29,i29 js14~"
     },
     {
@@ -50,7 +50,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m(TJ),m,h,h,(LFF)",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "28 js9~"
     },
     {
@@ -61,7 +61,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m(TJ),m,h,h,(LFF)",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "28 js9~"
     },
     {
@@ -550,7 +550,7 @@
         "Gif": "",
         "Hit frame": "-4",
         "Hit level": "m,(LFF)",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "22 pc8~?"
     },
     {
@@ -561,7 +561,7 @@
         "Gif": "https://gfycat.com/HelplessTimelyIberianmole.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,(LFF)",
-        "Notes": "Power Crush.\nDelay: 7f. Hit-confirm: 7f",
+        "Notes": "Power crush.\nDelay: 7f. Hit-confirm: 7f",
         "Start up frame": "22 pc8~?"
     },
     {
@@ -580,7 +580,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(LFS)",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "21 pc8~?"
     },
     {
@@ -1015,7 +1015,7 @@
         "Gif": "https://gfycat.com/NewEqualDodobird.gif",
         "Hit frame": "KND",
         "Hit level": "m,(LFS)",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "18 (21~)"
     },
     {
@@ -1368,7 +1368,7 @@
         "Gif": "https://gfycat.com/WaryFlatAdeliepenguin.gif",
         "Hit frame": "Launch (S!)",
         "Hit level": "h,(LFF)",
-        "Notes": "Homing,Screw,Power Crush",
+        "Notes": "Homing,Screw,Power crush",
         "Start up frame": "27 pc8~"
     },
     {
@@ -1821,7 +1821,7 @@
         "Gif": "",
         "Hit frame": "-4",
         "Hit level": "m,(LFF)",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "22 pc8~?"
     },
     {
@@ -1832,7 +1832,7 @@
         "Gif": "https://gfycat.com/QueasyQuickAlligatorgar.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,(LFF)",
-        "Notes": "Power Crush.\nDelay: 7f. Hit-confirm: 7f",
+        "Notes": "Power crush.\nDelay: 7f. Hit-confirm: 7f",
         "Start up frame": "22 pc8~?"
     },
     {
@@ -1851,7 +1851,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(LFS)",
-        "Notes": "Power Crush",
+        "Notes": "Power crush",
         "Start up frame": "21 pc8~?"
     },
     {
@@ -1922,7 +1922,7 @@
         "Gif": "https://gfycat.com/WaterloggedBelatedBufeo.gif",
         "Hit frame": "+14kg",
         "Hit level": "m(TJ),(RFF)",
-        "Notes": "Homing,Screw,Power Crush",
+        "Notes": "Homing,Screw,Power crush",
         "Start up frame": "20 pc8~ js15~"
     },
     {
@@ -2281,7 +2281,7 @@
         "Gif": "https://gfycat.com/IlliterateDecimalDuckling.gif",
         "Hit frame": "+14kg",
         "Hit level": "m(TJ),(LFF)",
-        "Notes": "Homing,Screw,Power Crush",
+        "Notes": "Homing,Screw,Power crush",
         "Start up frame": "20 pc8~19 js15~"
     },
     {

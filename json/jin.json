@@ -7,7 +7,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Rage Art",
+        "Notes": "Rage art",
         "Start up frame": "13 pc8~"
     },
     {
@@ -18,7 +18,7 @@
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "h,m",
-        "Notes": "Rage Drive\n1st hit launches (S!)",
+        "Notes": "Rage drive\n1st hit launches (S!)",
         "Start up frame": "11~12,41~42 (14~)"
     },
     {
@@ -32,7 +32,7 @@
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "h,m,(CD)",
-        "Notes": "Rage Drive\n1st hit launches (S!)",
+        "Notes": "Rage drive\n1st hit launches (S!)",
         "Start up frame": "11~12,41~42 (14~)"
     },
     {
@@ -43,7 +43,7 @@
         "Gif": "",
         "Hit frame": "ATG",
         "Hit level": "h,m,h(TJ)",
-        "Notes": "Rage Drive\n1st hit launches (S!)",
+        "Notes": "Rage drive\n1st hit launches (S!)",
         "Start up frame": "js10~"
     },
     {
@@ -54,7 +54,7 @@
         "Gif": "",
         "Hit frame": "KND (W!)",
         "Hit level": "h,m,h(TJ),m(TC)",
-        "Notes": "Rage Drive\n1st hit launches (S!)",
+        "Notes": "Rage drive\n1st hit launches (S!)",
         "Start up frame": "cs15~21"
     },
     {
@@ -551,7 +551,7 @@
         "Gif": "",
         "Hit frame": "KND (WB!)",
         "Hit level": "h,h",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "14,23~24"
     },
     {
@@ -696,7 +696,7 @@
         "Gif": "https://gfycat.com/IdleAcclaimedAlaskanhusky.gif",
         "Hit frame": "KND (WB!)",
         "Hit level": "m",
-        "Notes": "Wall Bounce",
+        "Notes": "Wall bounce",
         "Start up frame": "21"
     },
     {
