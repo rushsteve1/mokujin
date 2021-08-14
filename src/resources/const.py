@@ -62,6 +62,9 @@ MOVE_TYPES = {
     "Throw": ["throw", "grab", "throws", "grabs"]
 }
 
+SORT_ORDER = {"Rage Art": 0, "Rage Drive": 1, "Wall Bounce": 2, "Screw": 3, "Homing": 4, "Power Crush": 5,
+              "Throw": 6}
+
 REPLACE = {
     ' ': '',
     ',': '',

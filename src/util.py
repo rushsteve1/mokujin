@@ -53,9 +53,8 @@ def display_moves_by_type(character, move_type):
 
     return result
 
-def create_components(character_move):
-    SORT_ORDER = ["Rage Art", "Rage Drive", "Wall Bounce", "Screw", "Homing", "Power Crush", "Throw",]
 
+def create_components(character_move):
     tags = character_move["Tags"]
     components = []
     for tag in tags:
@@ -63,6 +62,7 @@ def create_components(character_move):
             components.append(Button(label=tag, disabled=True, style=4))
         else:
             components.append(Button(label=tag, disabled=True, style=3))
+    components.sort(key=lambda val: const.SORT_ORDER[val.label])
     return components
 
 
