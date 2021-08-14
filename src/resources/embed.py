@@ -15,7 +15,7 @@ def move_embed(character, move):
     block = "Block"
     counterhit ="Counter hit"
 
-    if 'Notes' in move and move['Notes'] and not move['Notes'] == "-" and 'Throw' in move['Notes']:
+    if 'Throw' in move['Tags']:
         block = "On Break"
         counterhit ="Break Type"
 

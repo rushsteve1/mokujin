@@ -1081,6 +1081,18 @@
         "Tags": []
     },
     {
+        "Block frame": "-",
+        "Command": "b+1+2",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "total 45f",
+        "Start up frame": "parries 6~12",
+        "Tags": []
+    },
+    {
         "Block frame": "-4",
         "Command": "BOK 1",
         "Counter hit frame": "+9",
