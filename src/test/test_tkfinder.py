@@ -66,13 +66,13 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(None, result)
 
     def test_get_move_by_type(self):
-        self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage drive"))
+        self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage Drive"))
         self.assertIn("d/f+2", tkfinder.get_by_move_type(kazuya, "Homing"))
         self.assertIn("2,2", tkfinder.get_by_move_type(kazuya, "Screw"))
-        self.assertIn("f+2", tkfinder.get_by_move_type(kazuya, "Power crush"))
+        self.assertIn("f+2", tkfinder.get_by_move_type(kazuya, "Power Crush"))
         self.assertIn("f,F+1+2", tkfinder.get_by_move_type(kazuya, "Throw"))
         self.assertIn("f+1+2", tkfinder.get_by_move_type(kazuya, "Wall Bounce"))
-        self.assertIn("in rage d/f+1+2", tkfinder.get_by_move_type(kazuya, "Rage art"))
+        self.assertIn("in rage d/f+1+2", tkfinder.get_by_move_type(kazuya, "Rage Art"))
 
     def test_get_recovery(self):
         paul = {
@@ -188,7 +188,7 @@ class MyTestCase(unittest.TestCase):
             "portrait": "https://i.imgur.com/rCx49Yl.jpg",
             "proper_name": "Hwoarang"
         }
-        self.assertIn("d/f+3", tkfinder.get_by_move_type(hwo, "power crush"))
+        self.assertIn("d/f+3", tkfinder.get_by_move_type(hwo, "Power Crush"))
 
     def test_move_simplifier(self):
         move = "wr3"
