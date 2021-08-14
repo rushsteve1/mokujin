@@ -136,8 +136,6 @@ def get_by_move_type(character: dict, move_type: str) -> list:
     returns a list of move Commands if finds match(es), else empty list"""
 
     move_json = get_character_movelist(character)
-
-    print(move_type)
     moves = list(filter(lambda x: (move_type in x["Tags"]), move_json))
 
     if moves:

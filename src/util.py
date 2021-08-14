@@ -46,14 +46,15 @@ def display_moves_by_type(character, move_type):
     elif len(move_list) == 1:
         character_move = tkfinder.get_move(character, move_list[0])
         if character_move and "Tags" in character_move:
-            result["components"] = ActionRow(move_components(character_move))
+            result["components"] = ActionRow(create_components(character_move))
         result["embed"] = embed.move_embed(character, character_move)
     elif len(move_list) > 1:
         result["embed"] = embed.move_list_embed(character, move_list, move_type)
 
     return result
 
-def move_components(character_move):
+def create_components(character_move):
+    SORT_ORDER = ["Rage Art", "Rage Drive", "Wall Bounce", "Screw", "Homing", "Power Crush", "Throw",]
 
     tags = character_move["Tags"]
     components = []
@@ -80,7 +81,7 @@ def display_moves_by_input(character, original_move):
         else:
             similar_moves = tkfinder.get_similar_moves(original_move, character_name)
             result["embed"] = embed.similar_moves_embed(similar_moves, character_name)
-    if character_move and "Tags" in character_move:
-        result["components"] = ActionRow(move_components(character_move))
+    if character_move and "Tags" in character_move and len(character_move["Tags"]) > 0:
+        result["components"] = ActionRow(create_components(character_move))
 
     return result

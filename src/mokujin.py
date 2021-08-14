@@ -13,8 +13,6 @@ from src.resources import embed, const
 from github import Github
 from discord_components import DiscordComponents
 
-
-
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
 prefix = '§'
@@ -55,6 +53,7 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
+
 @bot.event
 async def on_reaction_add(reaction, user):
     if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
@@ -69,7 +68,11 @@ async def on_reaction_add(reaction, user):
             move = move_list[item_index]
 
             result = util.display_moves_by_input(character, move)
-            await reaction.message.channel.send(embed=result["embed"], delete_after=delete_after)
+            if "components" in result:
+                await reaction.message.channel.send(embed=result["embed"], delete_after=delete_after,
+                                                    components=result["components"])
+            else:
+                await reaction.message.channel.send(embed=result["embed"], delete_after=delete_after)
             await reaction.remove(bot.user)
 
 
@@ -172,7 +175,8 @@ async def on_message(message):
                 result = {"embed": embed.error_embed(f'Character {original_name} does not exist.')}
                 delete_after = 5
             if "components" in result:
-                bot_message = await channel.send(embed=result["embed"], delete_after=delete_after,components=result["components"])
+                bot_message = await channel.send(embed=result["embed"], delete_after=delete_after,
+                                                 components=result["components"])
             else:
                 bot_message = await channel.send(embed=result["embed"], delete_after=delete_after)
             if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
