@@ -53,12 +53,12 @@ CHARACTER_ALIAS = {
 }
 
 MOVE_TYPES = {
-    "Rage Art": ["ra", "rage_art", "rageart"],
-    "Rage Drive": ["rd", "ragedrive", "rage_drive"],
-    "Wall Bounce": ["wb", "wall_bounce", "wallbounce"],
+    "Rage Art": ["ra", "rage_art", "rageart", "rage art"],
+    "Rage Drive": ["rd", "ragedrive", "rage_drive", "rage drive"],
+    "Wall Bounce": ["wb", "wall_bounce", "wallbounce", "wall bounce"],
     "Screw": ["ts", "tail_spin", "tailspin", "screw", "s!", "s", "screws"],
     "Homing": ["homing", "homari"],
-    "Power Crush": ["armor", "armori", "pc", "power", "power_crush", "powercrush"],
+    "Power Crush": ["armor", "armori", "pc", "power", "power_crush", "powercrush", "power crush"],
     "Throw": ["throw", "grab", "throws", "grabs"]
 }
 
