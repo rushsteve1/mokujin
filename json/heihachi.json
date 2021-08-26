@@ -1021,6 +1021,19 @@
         "Start up frame": "10",
         "Tags": []
     },
+
+    {   "Alias": ["b+1+4"],
+        "Block frame": "-",
+        "Command": "b+2+3",
+        "Counter hit frame": "-",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Self harm damage 25+50% of attack. Reversal h/m",
+        "Start up frame": "3~30",
+        "Tags": []
+    },
     {
         "Block frame": "-7",
         "Command": "d/f+3",

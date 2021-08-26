@@ -151,21 +151,6 @@
         "Tags": []
     },
     {
-        "Alias": [
-            "Toe Kick"
-        ],
-        "Block frame": "-16",
-        "Command": "FUFT d+3",
-        "Counter hit frame": "-3s",
-        "Damage": "4",
-        "Gif": "",
-        "Hit frame": "-3s",
-        "Hit level": "l",
-        "Notes": "",
-        "Start up frame": "13",
-        "Tags": []
-    },
-    {
         "Block frame": "-18~-17",
         "Command": "d/f+2,3",
         "Counter hit frame": "Launch",
@@ -371,7 +356,7 @@
         "Command": "f,F+4,2,qcf+1",
         "Counter hit frame": "KND",
         "Damage": "10,10,20",
-        "Gif": null,
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F023.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m (TJ),m,Sm(DW)",
         "Notes": "",
@@ -380,13 +365,13 @@
     },
     {
         "Block frame": "-7",
-        "Command": "qcf,qcf1+2",
+        "Command": "qcf,qcf+1+2",
         "Counter hit frame": "Launch",
         "Damage": "15",
-        "Gif": null,
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F025.mp4?alt=media",
         "Hit frame": "Launch",
         "Hit level": "sm",
-        "Notes": "",
+        "Notes": "Also: Two meter bars qcf,qcf+1+2",
         "Start up frame": "15",
         "Tags": []
     },
@@ -395,33 +380,20 @@
         "Command": "f,F+4,2,qcf+2",
         "Counter hit frame": "-5~+25",
         "Damage": "10,10,20",
-        "Gif": null,
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F010.mp4?alt=media",
         "Hit frame": "-5~+25",
         "Hit level": "m (TJ),m,Sm(DW)",
         "Notes": "",
         "Start up frame": "1~",
         "Tags": []
     },
-    {
+    {   "Alias" : ["f,F+4,2,qcf+2,f+3+4"],
         "Block frame": "+2",
         "Command": "f,F+4,2,qcf+1,f+3+4",
         "Counter hit frame": "KND",
         "Damage": "10,10,20",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F022.mp4?alt=media",
         "Hit frame": "KND",
-        "Hit level": "m (TJ),m,Sm,(MG)",
-        "Notes": "Press down to recover crouching",
-        "Recovery": "-40",
-        "Start up frame": "1~",
-        "Tags": []
-    },
-    {
-        "Block frame": "+2~+32",
-        "Command": "f,F+4,2,qcf+2,f+3+4",
-        "Counter hit frame": "+10~+40",
-        "Damage": "10,10,20",
-        "Gif": "",
-        "Hit frame": "+10~+40",
         "Hit level": "m (TJ),m,Sm,(MG)",
         "Notes": "Press down to recover crouching",
         "Recovery": "-40",
@@ -546,14 +518,14 @@
     },
     {
         "Alias": [
-            "Jump 1 BT u+1",
+            "Jump 1",
             "Jump 1 BT u/f+1"
         ],
         "Block frame": "-25~0",
-        "Command": "Jump 1 BT u_u/f+1",
+        "Command": "Jump 1",
         "Counter hit frame": "-15~+10",
         "Damage": "10",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F070.mp4?alt=media",
         "Hit frame": "-15~+10",
         "Hit level": "m",
         "Notes": "",
@@ -562,14 +534,14 @@
     },
     {
         "Alias": [
-            "Jump 2 BT u+2",
-            "Jump 2 BT u/f+2"
+            "Jump 2",
+            "Jump 2"
         ],
         "Block frame": "-17~+8",
-        "Command": "Jump 2 BT u_u/f+2",
+        "Command": "Jump 2",
         "Counter hit frame": "-7~+18",
         "Damage": "15",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F071.mp4?alt=media",
         "Hit frame": "-7~+18",
         "Hit level": "m",
         "Notes": "",
@@ -578,14 +550,14 @@
     },
     {
         "Alias": [
-            "Jump 3 BT u+3",
-            "Jump 3 BT u/f+3"
+            "Jump 3",
+            "Jump 3"
         ],
         "Block frame": "-25~0",
-        "Command": "Jump 3 BT u_u/f+3",
+        "Command": "Jump 3",
         "Counter hit frame": "-15~+10",
         "Damage": "10",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F072.mp4?alt=media",
         "Hit frame": "-15~+10",
         "Hit level": "m",
         "Notes": "",
@@ -594,14 +566,14 @@
     },
     {
         "Alias": [
-            "Jump 4 BT u+4",
-            "Jump 4 BT u/f+4"
+            "Jump 4",
+            "Jump 4"
         ],
         "Block frame": "-18~+7",
         "Command": "Jump 4 BT u_u/f+4",
         "Counter hit frame": "-8~+17",
         "Damage": "15",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F073.mp4?alt=media",
         "Hit frame": "-8~+17",
         "Hit level": "m",
         "Notes": "",
@@ -689,7 +661,7 @@
         "Command": "EX MG 2",
         "Counter hit frame": "KND",
         "Damage": "25",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F014.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m (Special) (DS)",
         "Notes": "(if transitioned)",
@@ -769,7 +741,7 @@
         "Command": "EX MG 1+2",
         "Counter hit frame": "KND",
         "Damage": "30",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F016.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "! (TJ)",
         "Notes": "",
@@ -861,7 +833,7 @@
         "Command": "qcb+3",
         "Counter hit frame": "JG",
         "Damage": "20",
-        "Gif": null,
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F008.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
@@ -874,7 +846,7 @@
         "Command": "qcb+4",
         "Counter hit frame": "+9~+16s",
         "Damage": "15",
-        "Gif": null,
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F009.mp4?alt=media",
         "Hit frame": "+9~+16s",
         "Hit level": "m (TJ)",
         "Notes": "",
@@ -902,7 +874,7 @@
         "Command": "Jump qcb+3",
         "Counter hit frame": "JG",
         "Damage": "20",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F011.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
@@ -914,35 +886,22 @@
         "Command": "Jump qcb+4",
         "Counter hit frame": "+9~+16s",
         "Damage": "15",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F012.mp4?alt=media",
         "Hit frame": "+9~+16s",
         "Hit level": "m (TJ)",
         "Notes": "",
         "Start up frame": "13~a(~) js1~",
         "Tags": []
     },
-    {
+    {   "Alias" : ["qcf+2,f+3+4"],
         "Block frame": "+2~",
         "Command": "qcf+1,f+3+4",
         "Counter hit frame": "KND",
         "Damage": "20",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F017.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "Sm (MG)",
         "Notes": "Press down to recover crouching",
-        "Recovery": "-40",
-        "Start up frame": "13~(~) 1~",
-        "Tags": []
-    },
-    {
-        "Block frame": "+2~+32",
-        "Command": "qcf+2,f+3+4",
-        "Counter hit frame": "+10~+40",
-        "Damage": "20",
-        "Gif": "",
-        "Hit frame": "+10~+40",
-        "Hit level": "Sm (MG)",
-        "Notes": "Hold down to recover crouching",
         "Recovery": "-40",
         "Start up frame": "13~(~) 1~",
         "Tags": []
@@ -1004,7 +963,7 @@
         "Command": "Jump qcb+3+4",
         "Counter hit frame": "KND",
         "Damage": "5,15",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F024.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m (TJ),m",
         "Notes": "",
@@ -1021,30 +980,6 @@
         "Hit level": "Sm",
         "Notes": "",
         "Start up frame": "15",
-        "Tags": []
-    },
-    {
-        "Block frame": "+1",
-        "Command": "f+1",
-        "Counter hit frame": "+8",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10",
-        "Tags": []
-    },
-    {
-        "Block frame": "-3",
-        "Command": "f+2",
-        "Counter hit frame": "+8",
-        "Damage": "9",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "14",
         "Tags": []
     },
     {
@@ -1068,7 +1003,7 @@
         "Command": "d/b_d+4",
         "Counter hit frame": "KND",
         "Damage": "17",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F054.mp4?alt=media",
         "Hit frame": "+5~+6s",
         "Hit level": "l (TC)",
         "Notes": "",
@@ -1141,57 +1076,6 @@
         "Tags": []
     },
     {
-        "Block frame": "+1",
-        "Command": "ss 1",
-        "Counter hit frame": "+8",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10(11~)",
-        "Tags": []
-    },
-    {
-        "Block frame": "-3",
-        "Command": "ss 2",
-        "Counter hit frame": "+8",
-        "Damage": "9",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "14(15~)",
-        "Tags": []
-    },
-    {
-        "Block frame": "-8",
-        "Command": "ss 3",
-        "Counter hit frame": "+8",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "13(14~)",
-        "Tags": []
-    },
-    {
-        "Block frame": "-5",
-        "Command": "ss 4",
-        "Counter hit frame": "KND",
-        "Damage": "21",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "13(14~)",
-        "Tags": [
-            "Screw",
-            "Homing"
-        ]
-    },
-    {
         "Block frame": "-6",
         "Command": "1+3",
         "Counter hit frame": "-",
@@ -1243,20 +1127,6 @@
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "15",
-        "Tags": [
-            "Throw"
-        ]
-    },
-    {
-        "Block frame": "-6",
-        "Command": "on crouch d/f+1+2",
-        "Counter hit frame": "-",
-        "Damage": "40",
-        "Gif": "https://gfycat.com/DarlingImmaterialColt.gif",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "11",
         "Tags": [
             "Throw"
         ]
@@ -1507,7 +1377,7 @@
         "Command": "WS 4",
         "Counter hit frame": "+6~+7",
         "Damage": "15",
-        "Gif": "",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Feliza%2F032.mp4?alt=media",
         "Hit frame": "+6~+7",
         "Hit level": "m",
         "Notes": "",

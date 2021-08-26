@@ -720,7 +720,7 @@
         ]
     },
     {
-        "Block frame": "-15~-13",
+        "Block frame": "-11",
         "Command": "u+1+2",
         "Counter hit frame": "Launch(JG?)",
         "Damage": "20",

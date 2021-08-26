@@ -851,7 +851,7 @@
         "Start up frame": "24",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Ki charge b+3"],
         "Block frame": "-7~-6",
         "Command": "1+2+3+4,b+3",
         "Counter hit frame": "+4~+5",
@@ -863,7 +863,7 @@
         "Start up frame": "14~15 (79~)",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Ki charge b+3,1"],
         "Block frame": "-7",
         "Command": "1+2+3+4,b+3,1",
         "Counter hit frame": "+4",
@@ -875,7 +875,7 @@
         "Start up frame": "14~15 (79~)",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Ki charge b+3,1,2"],
         "Block frame": "-15~-14",
         "Command": "1+2+3+4,b+3,1,2",
         "Counter hit frame": "KND",
@@ -887,7 +887,7 @@
         "Start up frame": "14~15 (79~)",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Ki charge d/b+4"],
         "Block frame": "-31",
         "Command": "1+2+3+4,d/b+4",
         "Counter hit frame": "KND",
@@ -899,7 +899,7 @@
         "Start up frame": "20~22 (85~) cs13~",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Ki charge d/b+4,1"],
         "Block frame": "-14",
         "Command": "1+2+3+4,d/b+4,1",
         "Counter hit frame": "KND",
@@ -911,7 +911,7 @@
         "Start up frame": "20~22 (85~) cs10~",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Ki charge d/b+4,1,2"],
         "Block frame": "-15~-14",
         "Command": "1+2+3+4,d/b+4,1,2",
         "Counter hit frame": "KND",
