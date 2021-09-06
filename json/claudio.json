@@ -1405,25 +1405,25 @@
     },
     {
         "Block frame": "-9",
-        "Command": "WS+1,2",
+        "Command": "WS 1,2",
         "Counter hit frame": "+9",
         "Damage": "12,12",
         "Gif": "https://gfycat.com/helplessrepulsivecoypu.gif",
         "Hit frame": "+4",
         "Hit level": "m,m",
-        "Notes": "Gap on block: 10f",
+        "Notes": "Gap on block: 11f",
         "Start up frame": "12~13",
         "Tags": []
     },
     {
         "Block frame": "+8",
-        "Command": "STB WS+1,2",
+        "Command": "STB WS 1,2",
         "Counter hit frame": "KNB",
         "Damage": "12,23",
         "Gif": "https://gfycat.com/completefluidfanworms.gif",
         "Hit frame": "KNB",
         "Hit level": "m,m",
-        "Notes": "Gap on block: 10f",
+        "Notes": "Gap on block: 11f",
         "Start up frame": "12~13",
         "Tags": []
     }

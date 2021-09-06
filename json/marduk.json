@@ -1573,7 +1573,7 @@
         "Hit level": "(cancel)",
         "Notes": "",
         "Start up frame": "12",
-        "Tags": []
+        "Tags": ["Throw"]
     },
     {
         "Alias": [
@@ -1602,7 +1602,7 @@
         "Hit level": "(cancel)",
         "Notes": "",
         "Start up frame": "12",
-        "Tags": []
+        "Tags": ["Throw"]
     },
     {
         "Block frame": "-4",
