@@ -1463,7 +1463,7 @@
             "d+3+4 grounded opponent",
             "opponent down d+3+4",
             "grounded opponent d+3+4",
-            "Stomp"
+            "stomp"
         ],
         "Block frame": "-11",
         "Command": "opponent down d+3+4",
