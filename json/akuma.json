@@ -823,9 +823,9 @@
         "Start up frame": "7(13~40) js1~",
         "Tags": []
     },
-    {
+    {   "Alias" : ["Forward jump Top of jump d+3"],
         "Block frame": "-6~+1",
-        "Command": "Forward jump Top of jump d+3",
+        "Command": "jump d+3",
         "Counter hit frame": "+9s~+16s",
         "Damage": "14",
         "Gif": "",
@@ -1257,10 +1257,11 @@
     },
     {
         "Alias": [
-            "Left throw"
+            "Left throw",
+            "left side 2+4"
         ],
         "Block frame": "0",
-        "Command": "left side 1+3 (or 2+4)",
+        "Command": "left side 1+3",
         "Counter hit frame": "-",
         "Damage": "40",
         "Gif": "https://gfycat.com/YellowVelvetyBlackandtancoonhound.gif",
@@ -1274,10 +1275,11 @@
     },
     {
         "Alias": [
-            "Right throw"
+            "Right throw",
+            "right side 2+4"
         ],
         "Block frame": "0",
-        "Command": "right side 1+3 (or 2+4)",
+        "Command": "right side 1+3",
         "Counter hit frame": "-",
         "Damage": "40",
         "Gif": "https://gfycat.com/BarrenDeficientHorseshoecrab.gif",
@@ -1291,10 +1293,11 @@
     },
     {
         "Alias": [
-            "Back throw"
+            "Back throw",
+            "Back 2+4"
         ],
         "Block frame": "-",
-        "Command": "back 1+3 (or 2+4)",
+        "Command": "back 1+3",
         "Counter hit frame": "-",
         "Damage": "50",
         "Gif": "https://gfycat.com/BarrenDeficientHorseshoecrab.gif",
@@ -1351,7 +1354,7 @@
         "Command": "back side 1+3",
         "Counter hit frame": "-",
         "Damage": "50",
-        "Gif": "https://gfycat.com/BarrenDeficientHorseshoecrab.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fakuma%2F080.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
