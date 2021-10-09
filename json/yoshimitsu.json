@@ -4206,15 +4206,15 @@
         ]
     },
     {
-        "Block frame": "-",
+        "Block frame": "-14",
         "Command": "qcf+2",
         "Counter hit frame": "-",
-        "Damage": "22",
+        "Damage": "28",
         "Gif": "https://gfycat.com/FoolhardyCooperativeAnkolewatusi.gif",
-        "Hit frame": "0",
+        "Hit frame": "5",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "15",
+        "Start up frame": "14",
         "Tags": [
             "Throw"
         ]
@@ -4237,7 +4237,7 @@
         "Block frame": "-",
         "Command": "qcb,f+2",
         "Counter hit frame": "-",
-        "Damage": "-",
+        "Damage": "0",
         "Gif": "https://gfycat.com/LawfulFocusedLeopard.gif",
         "Hit frame": "0",
         "Hit level": "h",
