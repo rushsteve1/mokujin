@@ -474,7 +474,7 @@
         "Hit level": "Sm (TC)",
         "Notes": "",
         "Recovery": "-20",
-        "Start up frame": "10s cs4or1~",
+        "Start up frame": "10 cs1~",
         "Tags": []
     },
     {
@@ -491,7 +491,7 @@
         "Hit level": "Sm (TC),Sm (TC)",
         "Notes": "",
         "Recovery": "-28",
-        "Start up frame": "s js1~",
+        "Start up frame": "10 cs1~",
         "Tags": []
     },
     {

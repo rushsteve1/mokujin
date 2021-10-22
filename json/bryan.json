@@ -1790,30 +1790,6 @@
         "Tags": []
     },
     {
-        "Block frame": "-4",
-        "Command": "ss 3",
-        "Counter hit frame": "+7",
-        "Damage": "14",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "16(17~)",
-        "Tags": []
-    },
-    {
-        "Block frame": "-7",
-        "Command": "ss 4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "12(13~)",
-        "Tags": []
-    },
-    {
         "Block frame": "-3",
         "Command": "1+3",
         "Counter hit frame": "-",
