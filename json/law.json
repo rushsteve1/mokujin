@@ -676,6 +676,18 @@
         "Start up frame": "78",
         "Tags": []
     },
+    {   "Alias": ["b+2+4"],
+        "Block frame": "-",
+        "Command": "b+1+3",
+        "Counter hit frame": "-",
+        "Damage": "90",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "-",
+        "Notes": "Total 35f. Absorbs H/M. +14 when canceled into stance",
+        "Start up frame": "2~11",
+        "Tags": []
+    },
     {
         "Block frame": "-",
         "Command": "d/b+1+2,u,u (Cancel)",

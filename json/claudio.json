@@ -141,16 +141,17 @@
     {
         "Alias": [
             "1+2,1+2,f+2",
-            "1+2,1+2,b+2"
+            "1+2,1+2,b+2",
+            "1+2,1+2,b,f+2"
         ],
         "Block frame": "-",
-        "Command": "1+2,1+2,fb+2",
+        "Command": "1+2,1+2,f,b+2",
         "Counter hit frame": "Throw(KND)",
-        "Damage": "20,20,18",
+        "Damage": "20,20,18(20)",
         "Gif": "https://gfycat.com/rawdarlinghornet.gif",
         "Hit frame": "Throw(KND)",
         "Hit level": "m,(throw),(throw),(STB)",
-        "Notes": "",
+        "Notes": "use b,f+2 for extra dmg",
         "Start up frame": "17",
         "Tags": []
     },
