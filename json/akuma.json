@@ -880,7 +880,7 @@
         "Command": "hcb+2",
         "Counter hit frame": "KND",
         "Damage": "9,9,9",
-        "Gif": "https://gfycat.com/BlueTallAtlanticsharpnosepuffer.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fakuma%2F005.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "Sm x 3",
         "Notes": "",
@@ -1108,12 +1108,12 @@
         "Block frame": "-",
         "Command": "f,d,d/f+3+4",
         "Counter hit frame": "-",
-        "Damage": "",
+        "Damage": "-",
         "Gif": "https://gfycat.com/physicalinbornemperorpenguin.gif",
         "Hit frame": "-",
         "Hit level": "(TPORT)",
         "Notes": "",
-        "Start up frame": "5inv",
+        "Start up frame": "inv 5~",
         "Tags": []
     },
     {
