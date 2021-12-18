@@ -86,7 +86,7 @@ async def on_message(message):
         if str(message.author) in const.BLACKLIST:
             return
 
-        if message.content == '!server-list':
+        elif message.content == '!server-list':
 
             serverlist = list(map(lambda x: x.name, bot.guilds))
 
