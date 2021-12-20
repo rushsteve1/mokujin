@@ -1559,7 +1559,8 @@
         "Hit frame": "KND",
         "Hit level": "-",
         "Notes": "Absorbs kicks",
-        "Start up frame": "2~10f"
+        "Start up frame": "2~10f",
+        "Tags": []
     },
     {
         "Block frame": "-6",
