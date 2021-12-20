@@ -86,6 +86,6 @@ REPLACE = {
     '*+': '*'
 }
 
-BLACKLIST = ["ImVeryBad#5231", "Nape Brasslers#1131", "Sleepii#1337"]
+BLACKLIST = ["ImVeryBad#5231", "Nape Brasslers#1131", "Sleepii#1337", "iaa ibb beb ib#0000"]
 
 EMOJI_LIST = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']
