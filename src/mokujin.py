@@ -141,6 +141,11 @@ async def on_message(message):
             await channel.send(embed=embed.help_embed())
 
         elif message.content.startswith('?feedback'):
+            today = datetime.datetime.now()
+            age = today - message.author.created_at
+            if age.days < 90:
+                return
+
             user_message = message.content.split(' ', 1)[1].replace("\n", "")
             server_name = str(message.channel.guild)
             feedback_channel = bot.get_channel(feedback_channel_id)
