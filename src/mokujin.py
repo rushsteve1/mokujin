@@ -85,113 +85,112 @@ async def on_message(message):
         channel = message.channel
         if str(message.author) in const.BLACKLIST:
             return
+        else:
+            if message.content == '!server-list':
+                serverlist = list(map(lambda x: x.name, bot.guilds))
 
-        elif message.content == '!server-list':
+                serverlist.sort()
+                step = 60
+                for begin in range(0, len(serverlist), step):
+                    end = begin + step
+                    if end > len(serverlist):
+                        end = len(serverlist)
+                    servers = reduce(util.do_sum, serverlist[begin:end])
+                    await channel.send(servers)
+                msg = "Number of servers in: " + str(len(serverlist))
+                await channel.send(msg)
 
-            serverlist = list(map(lambda x: x.name, bot.guilds))
-
-            serverlist.sort()
-            step = 60
-            for begin in range(0, len(serverlist), step):
-                end = begin + step
-                if end > len(serverlist):
-                    end = len(serverlist)
-                servers = reduce(util.do_sum, serverlist[begin:end])
-                await channel.send(servers)
-            msg = "Number of servers in: " + str(len(serverlist))
-            await channel.send(msg)
-
-        elif message.content == '!last-updates':
-            try:
-                messages = util.get_latest_commits_messages(gh, 5)
-                result = {"embed": embed.success_embed(messages)}
-            except Exception as e:
-                result = {"embed": embed.error_embed(e)}
-            await channel.send(embed=result)
-
-        elif message.content.startswith("!auto-delete"):
-
-            if message.author.permissions_in(channel).manage_messages:
-                duration = message.content.split(' ', 1)[1]
-                if duration.isdigit() or duration == "-1":
-                    config.save_auto_delete_duration(channel.id, duration)
-                    result = {"embed": embed.success_embed("Saved")}
-                else:
-                    result = {"embed": embed.error_embed("Duration needs to be a number in seconds")}
-            else:
-                result = {"embed": embed.error_embed("You need the permission <manage_messages> to do that")}
-
-            await channel.send(embed=result["embed"])
-
-        elif message.content.startswith('!clear-messages'):
-            # delete x of the bot last messages
-            number = int(message.content.split(' ', 1)[1])
-            messages = []
-            async for m in channel.history(limit=100):
-                if m.author == bot.user:
-                    messages.append(m)
-
-            to_delete = [message]
-            for i in range(number):
-                to_delete.append(messages[i])
-
-            await channel.delete_messages(to_delete)
-
-        elif message.content == '!help':
-            await channel.send(embed=embed.help_embed())
-
-        elif message.content.startswith('?feedback'):
-            today = datetime.datetime.now()
-            age = today - message.author.created_at
-            if age.days < 120 or str(message.author) in const.BLACKLIST:
-                return
-            else:
-                user_message = message.content.split(' ', 1)[1].replace("\n", "")
-                server_name = str(message.channel.guild)
-                feedback_channel = bot.get_channel(feedback_channel_id)
+            elif message.content == '!last-updates':
                 try:
-                    feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
-                    await feedback_channel.send(feedback_message)
-                    result = {"embed": embed.success_embed("Feedback sent")}
+                    messages = util.get_latest_commits_messages(gh, 5)
+                    result = {"embed": embed.success_embed(messages)}
                 except Exception as e:
-                    result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
+                    result = {"embed": embed.error_embed(e)}
+                await channel.send(embed=result)
+
+            elif message.content.startswith("!auto-delete"):
+
+                if message.author.permissions_in(channel).manage_messages:
+                    duration = message.content.split(' ', 1)[1]
+                    if duration.isdigit() or duration == "-1":
+                        config.save_auto_delete_duration(channel.id, duration)
+                        result = {"embed": embed.success_embed("Saved")}
+                    else:
+                        result = {"embed": embed.error_embed("Duration needs to be a number in seconds")}
+                else:
+                    result = {"embed": embed.error_embed("You need the permission <manage_messages> to do that")}
 
                 await channel.send(embed=result["embed"])
 
-        elif message.content.startswith('!') and len(message.content[1:].split(' ', 1)) > 1:
+            elif message.content.startswith('!clear-messages'):
+                # delete x of the bot last messages
+                number = int(message.content.split(' ', 1)[1])
+                messages = []
+                async for m in channel.history(limit=100):
+                    if m.author == bot.user:
+                        messages.append(m)
 
-            delete_after = config.get_auto_delete_duration(channel.id)
-            user_message_list = message.content[1:].split(' ', 1)
+                to_delete = [message]
+                for i in range(number):
+                    to_delete.append(messages[i])
 
-            original_name = user_message_list[0].lower()
-            original_move = user_message_list[1]
+                await channel.delete_messages(to_delete)
 
-            character_name = tkfinder.correct_character_name(original_name)
+            elif message.content == '!help':
+                await channel.send(embed=embed.help_embed())
 
-            if character_name is not None:
-                character = tkfinder.get_character_detail(character_name)
-                move_type = util.get_move_type(original_move.lower())
-
-                if move_type:
-                    result = util.display_moves_by_type(character, move_type)
+            elif message.content.startswith('?feedback'):
+                today = datetime.datetime.now()
+                age = today - message.author.created_at
+                if age.days < 120:
+                    return
                 else:
-                    result = util.display_moves_by_input(character, original_move)
-            else:
-                result = {"embed": embed.error_embed(f'Character {original_name} does not exist.')}
-                delete_after = 5
-            if "components" in result:
-                bot_message = await channel.send(embed=result["embed"], delete_after=delete_after,
-                                                 components=result["components"])
-            else:
-                bot_message = await channel.send(embed=result["embed"], delete_after=delete_after)
-            if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
+                    user_message = message.content.split(' ', 1)[1].replace("\n", "")
+                    server_name = str(message.channel.guild)
+                    feedback_channel = bot.get_channel(feedback_channel_id)
+                    try:
+                        feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
+                        await feedback_channel.send(feedback_message)
+                        result = {"embed": embed.success_embed("Feedback sent")}
+                    except Exception as e:
+                        result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
 
-                content = bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
-                movelist = util.get_moves_from_content(content)
-                for i in range(len(movelist)):
-                    await bot_message.add_reaction(const.EMOJI_LIST[i])
+                    await channel.send(embed=result["embed"])
 
-        await bot.process_commands(message)
+            elif message.content.startswith('!') and len(message.content[1:].split(' ', 1)) > 1:
+
+                delete_after = config.get_auto_delete_duration(channel.id)
+                user_message_list = message.content[1:].split(' ', 1)
+
+                original_name = user_message_list[0].lower()
+                original_move = user_message_list[1]
+
+                character_name = tkfinder.correct_character_name(original_name)
+
+                if character_name is not None:
+                    character = tkfinder.get_character_detail(character_name)
+                    move_type = util.get_move_type(original_move.lower())
+
+                    if move_type:
+                        result = util.display_moves_by_type(character, move_type)
+                    else:
+                        result = util.display_moves_by_input(character, original_move)
+                else:
+                    result = {"embed": embed.error_embed(f'Character {original_name} does not exist.')}
+                    delete_after = 5
+                if "components" in result:
+                    bot_message = await channel.send(embed=result["embed"], delete_after=delete_after,
+                                                     components=result["components"])
+                else:
+                    bot_message = await channel.send(embed=result["embed"], delete_after=delete_after)
+                if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
+
+                    content = bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
+                    movelist = util.get_moves_from_content(content)
+                    for i in range(len(movelist)):
+                        await bot_message.add_reaction(const.EMOJI_LIST[i])
+
+            await bot.process_commands(message)
 
     except Exception as e:
         time_now = datetime.datetime.now().strftime("%Y-%m-%d  %H:%M:%S")
