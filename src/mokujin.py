@@ -143,20 +143,20 @@ async def on_message(message):
         elif message.content.startswith('?feedback'):
             today = datetime.datetime.now()
             age = today - message.author.created_at
-            if age.days < 90:
+            if age.days < 120 or str(message.author) in const.BLACKLIST:
                 return
+            else:
+                user_message = message.content.split(' ', 1)[1].replace("\n", "")
+                server_name = str(message.channel.guild)
+                feedback_channel = bot.get_channel(feedback_channel_id)
+                try:
+                    feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
+                    await feedback_channel.send(feedback_message)
+                    result = {"embed": embed.success_embed("Feedback sent")}
+                except Exception as e:
+                    result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
 
-            user_message = message.content.split(' ', 1)[1].replace("\n", "")
-            server_name = str(message.channel.guild)
-            feedback_channel = bot.get_channel(feedback_channel_id)
-            try:
-                feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
-                await feedback_channel.send(feedback_message)
-                result = {"embed": embed.success_embed("Feedback sent")}
-            except Exception as e:
-                result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
-
-            await channel.send(embed=result["embed"])
+                await channel.send(embed=result["embed"])
 
         elif message.content.startswith('!') and len(message.content[1:].split(' ', 1)) > 1:
 
