@@ -139,7 +139,10 @@ async def on_message(message):
             elif message.content == '!help':
                 await channel.send(embed=embed.help_embed())
 
-            elif message.content.startswith('?feedback'):
+            elif message.content.startswith('?feedback') and message.author not in const.BLACKLIST:
+                print(str(message.author))
+                print(const.BLACKLIST)
+                print(message.author in const.BLACKLIST)
                 today = datetime.datetime.now()
                 age = today - message.author.created_at
                 if age.days < 120:
@@ -196,7 +199,7 @@ async def on_message(message):
         time_now = datetime.datetime.now().strftime("%Y-%m-%d  %H:%M:%S")
         error_msg = f'{time_now} | Message: {message.content} from {message.author.name} in {message.channel.guild.name}.' \
                     f'\n Error: {e}'
-        print(error_msg)
+        #print(error_msg)
         logger.error(error_msg)
 
 
