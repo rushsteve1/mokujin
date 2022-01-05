@@ -139,7 +139,7 @@ async def on_message(message):
             elif message.content == '!help':
                 await channel.send(embed=embed.help_embed())
 
-            elif message.content.startswith('?feedback') and message.author not in const.BLACKLIST:
+            elif message.content.startswith('?feedback') and str(message.author) not in const.BLACKLIST:
                 print(str(message.author))
                 print(const.BLACKLIST)
                 print(message.author in const.BLACKLIST)
