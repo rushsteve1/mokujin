@@ -142,7 +142,7 @@ async def on_message(message):
             elif message.content.startswith('?feedback') and str(message.author) not in const.BLACKLIST:
                 print(str(message.author))
                 print(const.BLACKLIST)
-                print(message.author in const.BLACKLIST)
+                print(str(message.author) not in const.BLACKLIST)
                 today = datetime.datetime.now()
                 age = today - message.author.created_at
                 if age.days < 120:
@@ -152,7 +152,7 @@ async def on_message(message):
                     server_name = str(message.channel.guild)
                     feedback_channel = bot.get_channel(feedback_channel_id)
                     try:
-                        feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
+                        feedback_message = "{};{};{};\n".format(str(message.author), server_name, user_message)
                         await feedback_channel.send(feedback_message)
                         result = {"embed": embed.success_embed("Feedback sent")}
                     except Exception as e:
