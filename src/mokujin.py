@@ -153,7 +153,7 @@ async def on_message(message):
                     server_name = str(message.channel.guild)
                     feedback_channel = bot.get_channel(feedback_channel_id)
                     try:
-                        feedback_message = "{};{};{};\n".format(str(message.author), server_name, user_message)
+                        feedback_message = "{} ;{} ;{} ;\n".format(str(message.author), server_name, user_message)
                         await feedback_channel.send(feedback_message)
                         result = {"embed": embed.success_embed("Feedback sent")}
                     except Exception as e:

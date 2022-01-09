@@ -87,6 +87,6 @@ REPLACE = {
 }
 
 BLACKLIST = ['ImVeryBad#5231', 'Nape Brasslers#1131', 'Sleepii#1337', 'iaa ibb beb ib#0000', 'ГЕНИЙ#5448', 'Beeno#6524',
-             'Gigass-7#6960', 'nickname#0000', 'Sleepii#6666', 'scrotum buster#6919','Woozle#6308']
+             'Gigass-7#6960', 'nickname#0000', 'Sleepii#6666', 'scrotum buster#6919','Woozle#6308','Tib#1303']
 
 EMOJI_LIST = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']
