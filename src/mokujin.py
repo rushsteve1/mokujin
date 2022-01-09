@@ -83,10 +83,11 @@ async def on_message(message):
     if I'm going to change it."""
     try:
         channel = message.channel
-        if str(message.author) in const.BLACKLIST:
+        author_name = str.strip(str(message.author))
+
+        if author_name in const.BLACKLIST:
             return
         else:
-            author_name = str.strip(str(message.author))
             if message.content == '!server-list':
                 serverlist = list(map(lambda x: x.name, bot.guilds))
 
