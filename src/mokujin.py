@@ -84,8 +84,9 @@ async def on_message(message):
     try:
         channel = message.channel
         author_name = str.strip(str(message.author))
+        author_id=message.author.id
 
-        if author_name in const.BLACKLIST:
+        if author_name in const.BLACKLIST or author_id in const.ID_BLACKLIST:
             return
         else:
             if message.content == '!server-list':
@@ -142,10 +143,13 @@ async def on_message(message):
                 await channel.send(embed=embed.help_embed())
 
             elif message.content.startswith('?feedback'):
+
                 print(message.content)
                 print(author_name)
                 print(const.BLACKLIST)
-                print(author_name not in const.BLACKLIST)
+                print(author_name in const.BLACKLIST)
+                print(author_id in const.ID_BLACKLIST)
+
                 today = datetime.datetime.now()
                 age = today - message.author.created_at
                 if age.days < 120:
