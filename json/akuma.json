@@ -609,7 +609,7 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "15(16~)",
-        "Tags": []
+        "Tags": ["Wall bounce"]
     },
     {
         "Block frame": "0~+1",
