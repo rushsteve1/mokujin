@@ -1114,7 +1114,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15~-14",
         "Command": "u/f+3",
         "Counter hit frame": "Launch",
         "Damage": "13",
