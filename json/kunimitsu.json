@@ -536,9 +536,9 @@
         "Block frame": "-9",
         "Command": "SET 2",
         "Counter hit frame": "Launch",
-        "Damage": "17 (30 on ch)",
+        "Damage": "17",
         "Gif": "https://gfycat.com/parallelsillygenet.gif",
-        "Hit frame": "+12g",
+        "Hit frame": "+12kg",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "12",
@@ -547,7 +547,7 @@
         ]
     },
     {
-        "Block frame": "-16",
+        "Block frame": "-16~-11",
         "Command": "SET 3",
         "Counter hit frame": "Launch",
         "Damage": "17",

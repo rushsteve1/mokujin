@@ -1045,7 +1045,7 @@
     },
     {
         "Block frame": "-17~-16",
-        "Command": "qcf+1,2,B (Cancel)",
+        "Command": "qcf+1,2,B",
         "Counter hit frame": "-6~-5",
         "Damage": "16",
         "Gif": "",
