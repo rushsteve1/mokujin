@@ -2078,18 +2078,6 @@
         "Tags": []
     },
     {
-        "Block frame": "-11",
-        "Command": "CJM d+3",
-        "Counter hit frame": "+0",
-        "Damage": "18",
-        "Gif": "-",
-        "Hit frame": "+0",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "15 (31~)",
-        "Tags": []
-    },
-    {
         "Block frame": "-29",
         "Command": "CJM 4",
         "Counter hit frame": "KND",
