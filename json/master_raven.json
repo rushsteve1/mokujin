@@ -103,7 +103,7 @@
         "Hit frame": "-1",
         "Hit level": "h,l (TC)",
         "Notes": "",
-        "Start up frame": "s cs6~",
+        "Start up frame": "10 cs6~",
         "Tags": []
     },
     {
@@ -813,14 +813,14 @@
             "u/f+4,4"
         ],
         "Block frame": "-15~-12",
-        "Command": "u/b_u_u/f+4,4",
+        "Command": "u/f+4,4",
         "Counter hit frame": "KND",
         "Damage": "13or16,20",
         "Gif": "https://gfycat.com/HighlevelBadAmoeba.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ),m",
         "Notes": "",
-        "Start up frame": "19~23 8~",
+        "Start up frame": "19~23 js8~",
         "Tags": []
     },
     {
