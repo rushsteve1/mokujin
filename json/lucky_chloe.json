@@ -810,7 +810,7 @@
         "Tags": []
     },
     {
-        "Block frame": "?",
+        "Block frame": "-45",
         "Command": "BT f+3+4,3+4",
         "Counter hit frame": "CS",
         "Damage": "17,20",
