@@ -1956,7 +1956,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-9",
         "Command": "KIN 1,1",
         "Counter hit frame": "+4s",
         "Damage": "13,6,20",
