@@ -2743,12 +2743,12 @@
         "Tags": []
     },
     {
-        "Block frame": "0~+1s",
+        "Block frame": "3~+4s",
         "Command": "SS 2",
         "Counter hit frame": "KND",
         "Damage": "18",
         "Gif": "https://gfycat.com/PowerlessDimpledChital.gif",
-        "Hit frame": "+5~+6s",
+        "Hit frame": "+8~+9s",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "24~25 (25~)",

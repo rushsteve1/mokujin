@@ -867,7 +867,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-13s",
         "Command": "qcb+3,2,3",
         "Counter hit frame": "Launch",
         "Damage": "14,20,22",

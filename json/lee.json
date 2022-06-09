@@ -732,6 +732,18 @@
         "Tags": []
     },
     {
+        "Block frame": "-1",
+        "Command": "d+4,n+4,u+3",
+        "Counter hit frame": "KND",
+        "Damage": "7,16,25",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Flee%2F053.mp4?alt=media",
+        "Hit frame": "KND",
+        "Hit level": "l,h,m",
+        "Notes": "",
+        "Start up frame": "12",
+        "Tags": []
+    },
+    {
         "Block frame": "KND",
         "Command": "d+4,n+4~3j",
         "Counter hit frame": "KND",
@@ -1252,7 +1264,7 @@
     },
     {
         "Block frame": "+4~+6",
-        "Command": "f,f,f+3,4,3+4",
+        "Command": "f,f,f+3,4,3",
         "Counter hit frame": "KND",
         "Damage": "14,26",
         "Gif": "",

@@ -666,9 +666,9 @@
         "Tags": []
     },
     {
-        "Block frame": "-",
+        "Block frame": "-28",
         "Command": "d/b+3+4,4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "+8s",
         "Damage": "10,18",
         "Gif": "https://gfycat.com/ImpolitePlainDobermanpinscher.gif",
         "Hit frame": "+8s",

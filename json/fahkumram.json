@@ -1050,7 +1050,7 @@
     {
         "Block frame": "-3",
         "Command": "d/f+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/snappypertinentleopardseal.gif",
         "Hit frame": "KND",

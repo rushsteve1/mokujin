@@ -608,8 +608,10 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "15(16~)",
-        "Tags": ["Wall bounce"]
+        "Start up frame": "15 (16~)",
+        "Tags": [
+            "Wall Bounce"
+        ]
     },
     {
         "Block frame": "0~+1",
