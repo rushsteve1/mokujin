@@ -694,7 +694,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-16~-15",
+        "Block frame": "-13~-12",
         "Command": "b,f+1+2,1+2,qcf+2",
         "Counter hit frame": "KND",
         "Damage": "15,13,30",
