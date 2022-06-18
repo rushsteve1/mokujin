@@ -1185,10 +1185,10 @@
     {
         "Block frame": "-13",
         "Command": "u/f+2,1",
-        "Counter hit frame": "BU",
+        "Counter hit frame": "Launch",
         "Damage": "10,10",
         "Gif": "https://gfycat.com/FlawlessUnfinishedCrocodile.gif",
-        "Hit frame": "BU",
+        "Hit frame": "Launch",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "18",

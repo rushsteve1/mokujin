@@ -977,7 +977,7 @@
             "u/f+4"
         ],
         "Block frame": "-15~-14",
-        "Command": "u_u/f+4",
+        "Command": "u/f+4",
         "Counter hit frame": "-4~-3",
         "Damage": "10",
         "Gif": "",
@@ -1406,7 +1406,7 @@
         "Command": "u/b+4",
         "Counter hit frame": "KND",
         "Damage": "25",
-        "Gif": "https://gfycat.com/SlightEasyAlbatross.gif",
+        "Gif": "https://firebasestorage.googleapis.com/v0/b/tekken-guru.appspot.com/o/moves%2Fkatarina%2F050.mp4?alt=media",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",

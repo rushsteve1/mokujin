@@ -934,9 +934,11 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "h",
-        "Notes": "homing",
+        "Notes": "-",
         "Start up frame": "21~23",
-        "Tags": []
+        "Tags": [
+            "Homing"
+        ]
     },
     {
         "Block frame": "-6",
@@ -1132,7 +1134,9 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "21~22",
-        "Tags": []
+        "Tags": [
+            "Homing"
+        ]
     },
     {
         "Block frame": "-10~-9",

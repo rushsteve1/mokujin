@@ -11,16 +11,18 @@
         "Tags": ["Rage Art"]
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+8",
         "Command": "in rage f+2+3",
         "Counter hit frame": "throw",
         "Damage": "10,30",
         "Gif": "",
         "Hit frame": "throw",
         "Hit level": "sm",
-        "Notes": "Rage drive",
+        "Notes": "Chip dmg",
         "Start up frame": "18",
-        "Tags": ["Rage Drive"]
+        "Tags": [
+            "Rage Drive"
+        ]
     },
     {
         "Block frame": "+1",
