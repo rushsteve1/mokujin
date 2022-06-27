@@ -891,6 +891,7 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-25",
         "Start up frame": "15~16",
         "Tags": []
     },
@@ -903,6 +904,7 @@
         "Hit frame": "KND(+16)",
         "Hit level": "m(h or m punch parry)",
         "Notes": "",
+        "Recovery": "-28",
         "Start up frame": "23~24 (3~8)",
         "Tags": []
     },
@@ -1973,6 +1975,7 @@
         "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-20",
         "Start up frame": "13",
         "Tags": []
     },
@@ -1985,6 +1988,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-30",
         "Start up frame": "15~16a",
         "Tags": []
     },
@@ -1997,6 +2001,7 @@
         "Hit frame": "+4~+5",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-25",
         "Start up frame": "11~12",
         "Tags": []
     },
@@ -2021,6 +2026,7 @@
         "Hit frame": "+14",
         "Hit level": "h",
         "Notes": "",
+        "Recovery": "-22",
         "Start up frame": "12",
         "Tags": []
     },

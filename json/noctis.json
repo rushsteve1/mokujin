@@ -768,28 +768,27 @@
     {
         "Alias": [
             "u/b+1",
-            "u+1",
-            "u/f+1"
+            "u+1"
         ],
         "Block frame": "-4",
-        "Command": "u/b_u_u/f+1",
+        "Command": "u/f+1",
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/ImaginaryConventionalFlatcoatretriever.gif",
         "Hit frame": "+8",
         "Hit level": "h",
         "Notes": "",
+        "Recovery": "-27",
         "Start up frame": "13~14",
         "Tags": []
     },
     {
         "Alias": [
             "u/b+2",
-            "u+2",
-            "u/f+2"
+            "u+2"
         ],
         "Block frame": "-8",
-        "Command": "u/b_u_u/f+2",
+        "Command": "u/f+2",
         "Counter hit frame": "JG",
         "Damage": "21",
         "Gif": "https://gfycat.com/AdorableMilkyDiamondbackrattlesnake.gif",
@@ -802,11 +801,10 @@
     {
         "Alias": [
             "u/b+3",
-            "u+3",
-            "u/f+3"
+            "u+3"
         ],
         "Block frame": "-13",
-        "Command": "u/b_u_u/f+3",
+        "Command": "u/f+3",
         "Counter hit frame": "JG",
         "Damage": "11(23)",
         "Gif": "https://gfycat.com/HarmoniousElderlyIrishredandwhitesetter.gif",
@@ -819,11 +817,10 @@
     {
         "Alias": [
             "u/b+3,u",
-            "u+3,u",
-            "u/f+3,u"
+            "u+3,u"
         ],
         "Block frame": "-13",
-        "Command": "u/b_u_u/f+3,u",
+        "Command": "u/f+3,u",
         "Counter hit frame": "JG",
         "Damage": "11(23)",
         "Gif": "",
@@ -836,11 +833,10 @@
     {
         "Alias": [
             "u/b+4",
-            "u+4",
-            "u/f+4"
+            "u+4"
         ],
         "Block frame": "-3",
-        "Command": "u/b_u_u/f+4",
+        "Command": "u/f+4",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/TenderFavoriteAustraliancurlew.gif",
