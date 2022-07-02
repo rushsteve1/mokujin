@@ -1242,6 +1242,30 @@
         "Tags": []
     },
     {
+        "Block frame": "-",
+        "Command": "HBS u",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Autoblock m/h 1~10. Recovers in crouch",
+        "Start up frame": "10",
+        "Tags": []
+    },
+    {
+        "Block frame": "-",
+        "Command": "HBS d/b",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Autoblock l 1~15. Recovers in crouch",
+        "Start up frame": "15",
+        "Tags": []
+    },
+    {
         "Block frame": "-13~-10",
         "Command": "HBS 1,2",
         "Counter hit frame": "0~+3",

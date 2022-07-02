@@ -393,10 +393,11 @@
         "Gif": "-",
         "Hit frame": "S!",
         "Hit level": "m,h",
-        "Notes": "homing",
+        "Notes": "",
         "Start up frame": "13",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Homing"
         ]
     },
     {
@@ -667,10 +668,11 @@
         "Gif": "https://gfycat.com/necessarygravehyena.gif",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "homing",
+        "Notes": "",
         "Start up frame": "13~14",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Homing"
         ]
     },
     {
@@ -1362,10 +1364,11 @@
         "Gif": "https://gfycat.com/requiredbogusichidna.gif",
         "Hit frame": "S!",
         "Hit level": "m,h",
-        "Notes": "homing",
+        "Notes": "",
         "Start up frame": "?",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Homing"
         ]
     },
     {

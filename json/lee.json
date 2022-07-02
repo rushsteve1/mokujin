@@ -368,6 +368,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h,m",
         "Notes": "",
+        "Recovery": "-32",
         "Start up frame": "11",
         "Tags": []
     },
@@ -380,6 +381,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h,m (TJ)",
         "Notes": "",
+        "Recovery": "-31",
         "Start up frame": "js22~",
         "Tags": []
     },
@@ -1180,6 +1182,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-34",
         "Start up frame": "14",
         "Tags": []
     },
@@ -1192,6 +1195,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",
+        "Recovery": "-23",
         "Start up frame": "16~17 (17~) cs5~12",
         "Tags": []
     },
