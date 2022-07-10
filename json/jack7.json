@@ -2400,10 +2400,10 @@
     {
         "Block frame": "+6~+8s",
         "Command": "SS 1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "23",
         "Gif": "https://gfycat.com/granularnauticalindochinahogdeer.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "32~34 (41~)",
