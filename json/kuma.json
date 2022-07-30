@@ -14,7 +14,7 @@
         ]
     },
     {
-        "Block frame": "-12~-10",
+        "Block frame": "+1",
         "Command": "in rage f,F+1+2",
         "Counter hit frame": "KND",
         "Damage": "23(3)",
@@ -26,21 +26,6 @@
         "Tags": [
             "Rage Drive"
         ]
-    },
-    {
-        "Alias": [
-            "Toe Kick"
-        ],
-        "Block frame": "-20",
-        "Command": "FUFT d+3",
-        "Counter hit frame": "-3s",
-        "Damage": "6",
-        "Gif": "",
-        "Hit frame": "-3s",
-        "Hit level": "l",
-        "Notes": "",
-        "Start up frame": "13",
-        "Tags": []
     },
     {
         "Block frame": "-5",

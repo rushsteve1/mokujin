@@ -2076,7 +2076,8 @@
     {
         "Alias": [
             "d+1+2 grounded opponent",
-            "grounded opponent d+1+2"
+            "grounded opponent d+1+2",
+            "stomp"
         ],
         "Block frame": "-11",
         "Command": "opponent down d+1+2",

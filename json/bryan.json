@@ -1574,7 +1574,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m,h,h,m(TJ)",
         "Notes": "",
-        "Start up frame": "js16~",
+        "Start up frame": "15~",
         "Tags": []
     },
     {
@@ -1586,7 +1586,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m,h,h,m(TJ),h",
         "Notes": "",
-        "Start up frame": "16~",
+        "Start up frame": "15~",
         "Tags": []
     },
     {

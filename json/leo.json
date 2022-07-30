@@ -1541,7 +1541,7 @@
     {
         "Block frame": "-6",
         "Command": "f,F+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/WeepyMintyAmphibian.gif",
         "Hit frame": "KND",
