@@ -60,8 +60,42 @@ class aclient(discord.Client):
 client=aclient()
 tree = app_commands.CommandTree(client)
 
-@tree.command(name="test",description="testing")
-async def self(interaction: discord.Interaction, name: str):
-    await interaction.response.send_message(f"Hello {name}. Done")
+@tree.command(name="data",description="Get frame data from a move of a character")
+async def self(interaction: discord.Interaction, character: str, move: str):
+
+    character_name = tkfinder.correct_character_name(character)
+
+    if character_name is not None:
+        character = tkfinder.get_character_detail(character_name)
+        move_type = util.get_move_type(move.lower())
+
+        if move_type:
+            result = util.display_moves_by_type(character, move_type)
+        else:
+            result = util.display_moves_by_input(character, move)
+
+    else:
+        result = {"embed": embed.error_embed(f'Character {character} does not exist.')}
+
+    await interaction.response.send_message(embed=result["embed"],ephemeral=True)
+
+@tree.command(name="feedback",description="Send feedback incase of wrong data")
+async def self(interaction: discord.Interaction, message: str):
+
+    today = datetime.datetime.strptime(datetime.datetime.now().isoformat(),"%Y-%m-%dT%H:%M:%S.%f")
+    age = today - interaction.user.created_at.replace(tzinfo=None)
+    print (age.days)
+    if age.days < 120:
+        return
+    else:
+        try:
+            feedback_message = "{} ;{} ;{} ;{}\n".format(str(interaction.user.name), interaction.user.id, interaction.guild, message)
+            channel = client.get_channel(feedback_channel_id)
+            await channel.send(feedback_message)
+            result = {"embed": embed.success_embed("Feedback sent")}
+        except Exception as e:
+            result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
+
+        await interaction.response.send_message(embed=result["embed"],ephemeral=True)
 
 client.run(discord_token)
