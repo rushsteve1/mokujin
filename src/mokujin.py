@@ -9,11 +9,8 @@ sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 
 import discord
 from discord import app_commands
-from discord.ext import commands
-
-from functools import reduce
 from src import tkfinder, util
-from src.resources import embed, const
+from src.resources import embed
 from github import Github
 
 base_path = os.path.dirname(__file__)
@@ -73,7 +70,6 @@ async def self(interaction: discord.Interaction, character: str, move: str):
             result = util.display_moves_by_type(character, move_type)
         else:
             result = util.display_moves_by_input(character, move)
-
     else:
         result = {"embed": embed.error_embed(f'Character {character} does not exist.')}
 
@@ -97,5 +93,16 @@ async def self(interaction: discord.Interaction, message: str):
             result = {"embed": embed.error_embed("Feedback couldn't be sent caused by: " + e)}
 
         await interaction.response.send_message(embed=result["embed"],ephemeral=True)
+
+@tree.command(name="last-updates",description="Show last updates of the bot on github")
+async def self(interaction: discord.Interaction):
+    try:
+        messages = util.get_latest_commits_messages(gh, 5)
+        result = {"embed": embed.success_embed(messages)}
+    except Exception as e:
+        result = {"embed": embed.error_embed(e)}
+    await interaction.response.send_message(embed=result["embed"],ephemeral=True)
+
+
 
 client.run(discord_token)

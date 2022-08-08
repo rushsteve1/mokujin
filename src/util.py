@@ -44,28 +44,11 @@ def display_moves_by_type(character, move_type):
             'No ' + move_type.lower() + ' for ' + character['proper_name'])
     elif len(move_list) == 1:
         character_move = tkfinder.get_move(character, move_list[0])
-        if character_move and "Tags" in character_move:
-            print()
-            #result["components"] = ActionRow(create_components(character_move))
         result["embed"] = embed.move_embed(character, character_move)
     elif len(move_list) > 1:
         result["embed"] = embed.move_list_embed(character, move_list, move_type)
 
     return result
-
-
-def create_components(character_move):
-    tags = character_move["Tags"]
-    components = []
-    for tag in tags:
-        if tag == "Rage Art" or tag == "Rage Drive":
-            print()
-            # components.append(Button(label=tag, disabled=True, style=4))
-        else:
-            print()
-            # components.append(Button(label=tag, disabled=True, style=3))
-    components.sort(key=lambda val: const.SORT_ORDER[val.label])
-    return components
 
 
 def display_moves_by_input(character, original_move):
@@ -83,8 +66,4 @@ def display_moves_by_input(character, original_move):
         else:
             similar_moves = tkfinder.get_similar_moves(original_move, character_name)
             result["embed"] = embed.similar_moves_embed(similar_moves, character_name)
-    if character_move and "Tags" in character_move and len(character_move["Tags"]) > 0:
-        print()
-        #result["components"] = ActionRow(create_components(character_move))
-
     return result
