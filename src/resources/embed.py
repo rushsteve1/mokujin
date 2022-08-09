@@ -45,7 +45,7 @@ def move_embed(character, move):
     # every 3th time
     if random_value == 2:
         embed.add_field(name='Dev Note',
-                        value='**IMPORTANT** \n From the August 14th the bot will support slash command only. \n Please reinvite the bot until then by using this [link](https://discord.com/oauth2/authorize?client_id=645010702179762217&scope=bot&permissions=2147829824) ',
+                        value='**IMPORTANT** \n From the August 14th the bot will support slash command only. \n Please reinvite the bot until then by using this [link](https://discord.com/oauth2/authorize?client_id=645010702179762217&scope=bot&permissions=2147829824) else the bot wont work anymore ',
                         inline=False)
 
     return embed
