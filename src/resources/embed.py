@@ -41,11 +41,11 @@ def move_embed(character, move):
     if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
 
-    # random_value = randint(0, 2)
-    # every 10th time
-    if 0 == 0:
+    random_value = randint(0, 2)
+    # every 3th time
+    if random_value == 0:
         embed.add_field(name='Dev Note',
-                        value='**IMPORTANT** \n On the August 14th the bot will support slash command only. \n Please reinvite the bot until then using this [link](https://discord.com/oauth2/authorize?client_id=645010702179762217&scope=bot&permissions=2147829824) ',
+                        value='**IMPORTANT** \n On the August 14th the bot will support slash command only. \n Please reinvite the bot until then by using this [link](https://discord.com/oauth2/authorize?client_id=645010702179762217&scope=bot&permissions=2147829824) ',
                         inline=False)
 
     return embed
