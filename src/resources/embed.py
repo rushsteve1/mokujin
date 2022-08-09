@@ -4,6 +4,7 @@ import re
 
 MOVE_NOT_FOUND_TITLE = 'Move not found'
 
+
 def move_embed(character, move):
     """Returns the embed message for character and move"""
     embed = discord.Embed(title=character['proper_name'],
@@ -13,11 +14,11 @@ def move_embed(character, move):
     embed.set_thumbnail(url=character['portrait'])
 
     block = "Block"
-    counterhit ="Counter hit"
+    counterhit = "Counter hit"
 
     if 'Throw' in move['Tags']:
         block = "On Break"
-        counterhit ="Break Type"
+        counterhit = "Break Type"
 
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
@@ -40,10 +41,11 @@ def move_embed(character, move):
     if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
 
-    random_value = randint(0, 10)
+    # random_value = randint(0, 2)
     # every 10th time
-    if random_value == 0:
-        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)',
+    if 0 == 0:
+        embed.add_field(name='Dev Note',
+                        value='**IMPORTANT** \n On the August 14th the bot will support slash command only. \n Please reinvite the bot until then using this [link](https://discord.com/oauth2/authorize?client_id=645010702179762217&scope=bot&permissions=2147829824) ',
                         inline=False)
 
     return embed
@@ -77,14 +79,14 @@ def success_embed(message):
 
 
 def similar_moves_embed(similar_moves, character_name):
-
     for i in range(len(similar_moves)):
-        similar_moves[i] = f'**{i+1}**. {similar_moves[i]}'
+        similar_moves[i] = f'**{i + 1}**. {similar_moves[i]}'
 
     embed = discord.Embed(title=MOVE_NOT_FOUND_TITLE, colour=0xfcba03,
                           description='Similar moves from {}\n{}'
                           .format(character_name, '\n'.join(similar_moves)))
     return embed
+
 
 def help_embed():
     text = "" \
