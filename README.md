@@ -22,8 +22,7 @@ The executable is `src/mokujin.py`.
 
 Commands:
 ```
-!character move        -    get frame data of a move from a character
-!auto-delete seconds   -    change the duration of the bot waiting until he deletes the message in this channel
-!last-updates          -    get the messages of some latest updates
-?feedback message      -    send message to the author   
+!fd <character> <move>       -    get frame data of a move from a character
+/last-updates         -    get the messages of some latest updates
+/feedback <message>      -    send message to the author   
 ```
