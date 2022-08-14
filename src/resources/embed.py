@@ -40,6 +40,8 @@ def move_embed(character, move):
         embed.add_field(name='Notes', value=move['Notes'])
     if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
+    if 'Tags' in move and move['Tags'] and not move['Tags'] == "-":
+        embed.add_field(name='Tags', value=move['Tags'], inline=False)
 
     random_value = randint(0, 2)
     # every 3th time
