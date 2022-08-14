@@ -73,7 +73,7 @@ async def self(interaction: discord.Interaction, character: str, move: str):
     else:
         result = {"embed": embed.error_embed(f'Character {character} does not exist.')}
 
-    await interaction.response.send_message(embed=result["embed"], ephemeral=True)
+    await interaction.response.send_message(embed=result["embed"], ephemeral=False)
 
 
 @tree.command(name="feedback", description="Send feedback incase of wrong data")
