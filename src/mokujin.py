@@ -60,6 +60,7 @@ tree = app_commands.CommandTree(client)
 
 @tree.command(name="fd", description="Frame data from a character move")
 async def self(interaction: discord.Interaction, character: str, move: str):
+    character = character.lower()
     character_name = tkfinder.correct_character_name(character)
 
     if character_name is not None:
