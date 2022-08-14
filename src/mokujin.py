@@ -105,6 +105,12 @@ async def self(interaction: discord.Interaction):
         result = {"embed": embed.error_embed(e)}
     await interaction.response.send_message(embed=result["embed"], ephemeral=True)
 
+@tree.command(name="about", description="Show the meta data about the bot")
+async def self(interaction: discord.Interaction):
+
+    result = {"embed": embed.help_embed()}
+    await interaction.response.send_message(embed=result["embed"], ephemeral=True)
+
 
 try:
     client.run(discord_token)
