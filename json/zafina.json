@@ -1020,7 +1020,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-7",
+        "Block frame": "-1 (+11g)",
         "Command": "u/f+1+2",
         "Counter hit frame": "CS",
         "Damage": "20",
@@ -1029,7 +1029,7 @@
         "Hit level": "m (TJ) (TRT)",
         "Notes": "",
         "Start up frame": "21 js9",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-",

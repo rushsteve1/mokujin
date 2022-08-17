@@ -274,7 +274,7 @@
     {
         "Block frame": "-7~-4",
         "Command": "d/f+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "32",
         "Gif": "https://gfycat.com/VagueFemaleJabiru.gif",
         "Hit frame": "KND",
@@ -605,7 +605,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+7~+8",
+        "Block frame": "+7~+8 (18g)",
         "Command": "u/f+4,3",
         "Counter hit frame": "KND",
         "Damage": "20,20",
@@ -615,7 +615,8 @@
         "Notes": "",
         "Start up frame": "d js1~",
         "Tags": [
-            "Screw"
+            "Screw",
+            "Wall Crush"
         ]
     },
     {
@@ -2246,7 +2247,7 @@
     {
         "Block frame": "-13",
         "Command": "d/b+2",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+14g",
         "Damage": "14",
         "Gif": "https://gfycat.com/NeglectedRegalBullfrog.gif",
         "Hit frame": "+1",

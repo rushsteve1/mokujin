@@ -350,10 +350,10 @@
     {
         "Block frame": "-12~-11",
         "Command": "f+1+2",
-        "Counter hit frame": "+7~+8",
-        "Damage": "25",
+        "Counter hit frame": "KND",
+        "Damage": "21",
         "Gif": "https://gfycat.com/FalseDelectableKissingbug.gif",
-        "Hit frame": "+7~+8",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-34",
@@ -997,7 +997,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+5~+7",
+        "Block frame": "+5~+7 (16g)",
         "Command": "f,f,f+2",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -1007,7 +1007,7 @@
         "Notes": "",
         "Recovery": "-33",
         "Start up frame": "13~15 (16~) js3~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-4~-3",
@@ -1554,13 +1554,13 @@
         "Block frame": "-27~-26",
         "Command": "SBT 4",
         "Counter hit frame": "Launch",
-        "Damage": "22(5)",
+        "Damage": "25",
         "Gif": "https://gfycat.com/DeficientGloomyCats.gif",
         "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-45",
-        "Start up frame": "18~19 (43~) js1~",
+        "Start up frame": "17~19 (43~) js1~",
         "Tags": []
     },
     {

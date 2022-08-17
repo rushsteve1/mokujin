@@ -725,11 +725,11 @@
         "Counter hit frame": "KND",
         "Damage": "15,18",
         "Gif": "https://gfycat.com/SoulfulAntiqueAlaskanhusky.gif",
-        "Hit frame": "+5",
+        "Hit frame": "+14g (18g)",
         "Hit level": "m (TJ),h",
         "Notes": "",
         "Start up frame": "15~18 9~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-21~-17",
@@ -1589,7 +1589,7 @@
     {
         "Block frame": "-4",
         "Command": "4",
-        "Counter hit frame": "+7",
+        "Counter hit frame": "KND",
         "Damage": "16",
         "Gif": null,
         "Hit frame": "+7",

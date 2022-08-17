@@ -1741,14 +1741,14 @@
     {
         "Block frame": "-7~-6",
         "Command": "HMS 1+2",
-        "Counter hit frame": "+6~+7",
+        "Counter hit frame": "+14g (+26g)",
         "Damage": "10,15",
         "Gif": "https://gfycat.com/FeistyThatCuscus.gif",
-        "Hit frame": "+6~+7",
+        "Hit frame": "+14g (+26g)",
         "Hit level": "mm",
         "Notes": "",
         "Start up frame": "15,26~27",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-9",

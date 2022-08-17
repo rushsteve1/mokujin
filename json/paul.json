@@ -290,7 +290,7 @@
         "Tags": []
     },
     {
-        "Block frame": "+20g",
+        "Block frame": "+14g (+18g)",
         "Command": "d+1,2*",
         "Counter hit frame": "KND",
         "Damage": "16,39",
@@ -299,7 +299,7 @@
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "14~15",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "-31",

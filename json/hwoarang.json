@@ -1088,14 +1088,14 @@
     {
         "Block frame": "-13",
         "Command": "u/f+3+4,4",
-        "Counter hit frame": "+4",
+        "Counter hit frame": "+8 (+17g)",
         "Damage": "9,8,13",
         "Gif": "https://gfycat.com/VigorousImmediateBlesbok.gif",
-        "Hit frame": "+4",
+        "Hit frame": "+8 (+17g)",
         "Hit level": "m,h(TJ),m(TJ)",
         "Notes": "Check LFS u/f+3+4,4",
         "Start up frame": "14 js14~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "+6",

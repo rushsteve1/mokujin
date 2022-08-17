@@ -1683,7 +1683,7 @@
         ]
     },
     {
-        "Block frame": "-24",
+        "Block frame": "+3 (+5g)",
         "Command": "TCH f+1+2",
         "Counter hit frame": "KND",
         "Damage": "35",
@@ -1692,7 +1692,7 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "20~25",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Block frame": "KND",

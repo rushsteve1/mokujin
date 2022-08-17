@@ -262,7 +262,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-10~-7",
+        "Block frame": "+7 (14g)",
         "Command": "f+3+4,3+4",
         "Counter hit frame": "KND",
         "Damage": "8,8,14",
@@ -271,7 +271,7 @@
         "Hit level": "(Special),m,m,m (TJ)",
         "Notes": "Check __f+3+4,3+4 whiff__",
         "Start up frame": "20~21,28~29,37~40s (46~) js23~",
-        "Tags": []
+        "Tags": ["Wall Crush"]
     },
     {
         "Alias": [
