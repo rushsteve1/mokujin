@@ -53,10 +53,30 @@ class mokujin(discord.Client):
             self.synced = True
         print("mokujin connected")
 
-
 client = mokujin()
 tree = app_commands.CommandTree(client)
 
+@client.event
+async def on_message(message):
+    if client.user.mentioned_in(message):
+        user_message_list = message.content[1:].split(' ', 1)[1]
+        user_command = user_message_list.strip().split(' ',1)
+        original_name = user_command[0].lower()
+        original_move = user_command[1]
+
+        character_name = tkfinder.correct_character_name(original_name)
+        if character_name is not None:
+            character = tkfinder.get_character_detail(character_name)
+            move_type = util.get_move_type(original_move.lower())
+
+            if move_type:
+                result = util.display_moves_by_type(character, move_type)
+            else:
+                result = util.display_moves_by_input(character, original_move)
+        else:
+            result = {"embed": embed.error_embed(f'Character {original_name} does not exist.')}
+
+        await message.channel.send(embed=result["embed"])
 
 @tree.command(name="fd", description="Frame data from a character move")
 async def self(interaction: discord.Interaction, character: str, move: str):
