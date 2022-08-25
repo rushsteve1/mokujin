@@ -88,7 +88,7 @@ def is_author_newly_created(interaction):
 
 @client.event
 async def on_message(message):
-        if not is_author_blacklisted(message.author.id):
+        if not is_author_blacklisted(message.author.id) and message.content:
             delete_after = config.get_auto_delete_duration(message.channel.id)
             user_command = message.content[1:].split(' ', 1)[1]
             parameters = user_command.strip().split(' ',1)
