@@ -96,7 +96,7 @@ async def on_message(message):
             original_move = parameters[1]
             result = get_frame_data(original_name, original_move)
 
-            await message.channel.send(embed=result["embed"],delete_after=delete_after)
+            await message.channel.send(embed=result["embed"])
 
 @tree.command(name="fd", description="Frame data from a character move")
 async def self(interaction: discord.Interaction, character: str, move: str):
