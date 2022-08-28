@@ -61,8 +61,7 @@ def get_frame_data(name :str, move :str):
     character_name = tkfinder.correct_character_name(name)
     if character_name is not None:
         character = tkfinder.get_character_detail(character_name)
-        move_type = util.get_move_type(name.lower())
-
+        move_type = util.get_move_type(move.lower())
         if move_type:
             result = util.display_moves_by_type(character, move_type)
         else:
@@ -89,6 +88,8 @@ def is_author_newly_created(interaction):
 @client.event
 async def on_message(message):
         if not is_author_blacklisted(message.author.id) and message.content:
+            print(message.author.id)
+            print(message.author)
             delete_after = config.get_auto_delete_duration(message.channel.id)
             user_command = message.content[1:].split(' ', 1)[1]
             parameters = user_command.strip().split(' ',1)
