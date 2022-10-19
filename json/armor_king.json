@@ -500,12 +500,12 @@
         "Tags": []
     },
     {
-        "Block frame": "-5s",
+        "Block frame": "-5",
         "Command": "d+2",
         "Counter hit frame": "+9",
         "Damage": "17",
         "Gif": null,
-        "Hit frame": "+5s",
+        "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-26",
