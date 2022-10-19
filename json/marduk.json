@@ -1953,7 +1953,7 @@
         "Block frame": "-39",
         "Command": "VTS d+1+2",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "20,20",
         "Gif": "https://gfycat.com/RelievedHideousAlbatross.gif",
         "Hit frame": "KND",
         "Hit level": "l,m (second hit only)",
