@@ -225,17 +225,16 @@
     },
     {
         "Alias": [
-            "mid air WR2+4",
             "mid air WR2+4"
         ],
-        "Block frame": "",
+        "Block frame": "-",
         "Command": "Mid air f,f,f+2+4",
-        "Counter hit frame": "",
+        "Counter hit frame": "-",
         "Damage": "60",
         "Gif": "https://gfycat.com/consideratepartialeeve.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10",
         "Tags": [
             "Throw"
@@ -1866,20 +1865,6 @@
         "Counter hit frame": "-",
         "Damage": "31",
         "Gif": "https://gfycat.com/DisloyalRemarkableInsect.gif",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10",
-        "Tags": [
-            "Throw"
-        ]
-    },
-    {
-        "Block frame": "-",
-        "Command": "mid air f,f,f+2+4",
-        "Counter hit frame": "-",
-        "Damage": "45",
-        "Gif": "https://gfycat.com/ConsideratePartialEeve.gif",
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "",

@@ -43,12 +43,12 @@ def move_embed(character, move):
     if 'Tags' in move and move['Tags'] and not move['Tags'] == "-":
         embed.add_field(name='Tags', value=move['Tags'], inline=False)
 
-    random_value = randint(0, 2)
-    # every 3th time
-    if random_value == 2:
-        embed.add_field(name='Dev Note',
-                        value='**IMPORTANT** \n You can now ping the bot and get frame data by typing <character> <move> \n Example: @T7FrameBot ak df1',
-                        inline=False)
+    #random_value = randint(0, 2)
+    #every 3th time
+    #if random_value == 2:
+        #embed.add_field(name='Dev Note',
+                        #value='**IMPORTANT** \n You can now ping the bot and get frame data by typing <character> <move> \n Example: @T7FrameBot ak df1',
+                        #inline=False)
 
     return embed
 
