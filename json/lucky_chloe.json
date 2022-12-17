@@ -379,7 +379,7 @@
         "Hit frame": "0~+1s",
         "Hit level": "lll,ll",
         "Notes": "",
-        "Start up frame": "s cs1~ ar1~",
+        "Start up frame": "cs1~ ar1~",
         "Tags": []
     },
     {
@@ -391,19 +391,19 @@
         "Hit frame": "-21s",
         "Hit level": "lll,hml",
         "Notes": "",
-        "Start up frame": " 1~ 1~a,b",
+        "Start up frame": "23~24,33~34,47s cs6~ar6~",
         "Tags": []
     },
     {
         "Block frame": "-57",
         "Command": "d+3+4:d+3+4,F",
-        "Counter hit frame": "-44s",
+        "Counter hit frame": "+20g",
         "Damage": "10,5,5,7,7,7",
         "Gif": "https://gfycat.com/TepidHardCleanerwrasse.gif",
-        "Hit frame": "-44s",
+        "Hit frame": "+20g (?)",
         "Hit level": "lll,hml,(Special)",
         "Notes": "",
-        "Start up frame": " 1~ 1~,a",
+        "Start up frame": "23~24,33~34,47s cs6~ar6~",
         "Tags": []
     },
     {

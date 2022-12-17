@@ -2451,7 +2451,7 @@
     {
         "Block frame": "-14",
         "Command": "b+1,4",
-        "Counter hit frame": "+9",
+        "Counter hit frame": "Launch",
         "Damage": "10,20",
         "Gif": "https://gfycat.com/flusteredwhichfairyfly.gif",
         "Hit frame": "+9",

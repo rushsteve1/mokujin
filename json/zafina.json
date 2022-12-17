@@ -2234,7 +2234,7 @@
     {
         "Block frame": "-",
         "Command": "2+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/CoarseLightAmericanbadger.gif",
         "Hit frame": "KND",
@@ -2248,7 +2248,7 @@
     {
         "Block frame": "-",
         "Command": "f+2+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/CoarseLightAmericanbadger.gif",
         "Hit frame": "KND",
@@ -2262,7 +2262,7 @@
     {
         "Block frame": "-4",
         "Command": "1+3",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/RealisticTestyGallowaycow.gif",
         "Hit frame": "KND",
@@ -2276,7 +2276,7 @@
     {
         "Block frame": "-4",
         "Command": "f+1+3",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/RealisticTestyGallowaycow.gif",
         "Hit frame": "KND",
