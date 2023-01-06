@@ -1639,9 +1639,9 @@
         ]
     },
     {
-        "Block frame": "+7g~+17g",
+        "Block frame": "+7~+17",
         "Command": "f,N,d,d/f+1+2",
-        "Counter hit frame": "+7g~+17g",
+        "Counter hit frame": "+7~+17",
         "Damage": "12",
         "Gif": "https://gfycat.com/bronzeevergreenconure.gif",
         "Hit frame": "+7g~+17g",
