@@ -35,9 +35,9 @@ formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(messag
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
-discord_token = config.read_config()['DISCORD_TOKEN']
-feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
-github_token = config.read_config()['GITHUB_TOKEN']
+discord_token = os.getenv('DISCORD_TOKEN', config.read_config()['DISCORD_TOKEN'])
+feedback_channel_id = os.getenv('FEEDBACK_CHANNEL_ID', config.read_config()['FEEDBACK_CHANNEL_ID'])
+github_token = os.getenv('GITHUB_TOKEN', config.read_config()['GITHUB_TOKEN'])
 gh = Github(login_or_token=github_token)
 
 
