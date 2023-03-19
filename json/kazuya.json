@@ -1644,6 +1644,7 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "14",
+        "Recovery": "-32",
         "Tags": [
             "Homing"
         ]
