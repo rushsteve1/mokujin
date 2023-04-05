@@ -1227,7 +1227,7 @@
         "Tags": []
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-16",
         "Command": "KNP 3",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
